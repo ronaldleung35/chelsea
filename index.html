@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>車路士情報站 · Chelsea Blues Hub</title>
+<style>
+:root{--blue:#034694;--gold:#dba111;--bg:#f4f6fb;--card:#fff;--txt:#1a2233;--muted:#6b7280;}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:-apple-system,"PingFang HK","Microsoft JhengHei",sans-serif;background:var(--bg);color:var(--txt);line-height:1.6;}
+header{background:linear-gradient(135deg,#034694 0%,#0a2a6b 60%,#123c8f 100%);color:#fff;padding:32px 20px;text-align:center;}
+header .crest{font-size:42px;}
+header h1{font-size:26px;margin:8px 0 4px;}
+header .sub{color:#c9d6f0;font-size:14px;}
+.badge{display:inline-block;background:var(--gold);color:#222;font-size:12px;font-weight:700;padding:2px 10px;border-radius:20px;margin:8px 0;}
+.wrap{max-width:1000px;margin:0 auto;padding:20px;}
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin:16px 0;}
+.tab{border:none;background:#fff;padding:8px 16px;border-radius:20px;cursor:pointer;font-size:14px;color:var(--txt);box-shadow:0 1px 3px rgba(0,0,0,.08);}
+.tab.active{background:var(--blue);color:#fff;}
+.count{color:var(--muted);font-size:13px;margin:8px 0 16px;}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;}
+.card{background:var(--card);border-radius:12px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,.06);display:flex;flex-direction:column;transition:transform .15s;}
+.card:hover{transform:translateY(-3px);}
+.card img.thumb{width:100%;height:180px;object-fit:cover;background:#e5e9f2;}
+.card .body{padding:14px;display:flex;flex-direction:column;gap:8px;flex:1;}
+.card .meta{font-size:12px;color:var(--muted);display:flex;gap:8px;align-items:center;flex-wrap:wrap;}
+.tag{font-size:11px;font-weight:700;padding:2px 8px;border-radius:10px;}
+.tag.gallery{background:#fef3d8;color:#a97100;}
+.tag.article{background:#e3ecfb;color:#0a3d91;}
+.tag.video{background:#fde8e8;color:#b91c1c;}
+.card h3{font-size:15px;font-weight:600;line-height:1.4;color:var(--txt);}
+.card .zh{font-size:14px;color:#0a3d91;line-height:1.5;}
+.card .zh::before{content:'中 ';font-size:11px;color:var(--muted);font-weight:700;}
+.card a{color:var(--blue);text-decoration:none;font-size:13px;font-weight:600;}
+.card a:hover{text-decoration:underline;}
+/* 正文双语 */
+.bilingual{margin-top:6px;}
+.bilingual .lang-tab{font-size:12px;font-weight:700;color:var(--muted);margin-bottom:4px;}
+.bilingual .text{font-size:13px;color:#333;line-height:1.65;display:none;}
+.bilingual .text.show{display:block;}
+.bilingual .en .text{color:#555;}
+.bilingual .zh .text{color:#0a3d91;}
+button.more{background:var(--blue);color:#fff;border:none;padding:6px 12px;border-radius:16px;font-size:12px;cursor:pointer;align-self:flex-start;}
+button.more.ghost{background:#eef2fb;color:var(--blue);}
+.gallery-strip{display:grid;grid-template-columns:repeat(3,1fr);gap:4px;margin-top:8px;}
+.gallery-strip img{width:100%;height:70px;object-fit:cover;border-radius:4px;}
+.gallery-full{display:none;margin-top:8px;}
+.gallery-full.open{display:grid;grid-template-columns:repeat(2,1fr);gap:6px;}
+.gallery-full img{width:100%;border-radius:6px;}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:24px;border-top:1px solid #e5e9f2;margin-top:24px;}
+footer a{color:var(--blue);}
+</style>
+</head>
+<body>
+<header>
+<div class="crest">🔵</div>
+<h1>車路士情報站 · Chelsea Blues Hub</h1>
+<div class="sub">官方新聞 + 訓練圖集 · 中英對照 · 自動抓取</div>
+<div class="badge" id="updated"></div>
+</header>
+<div class="wrap">
+<div class="tabs" id="tabs">
+  <button class="tab active" data-f="all">全部</button>
+  <button class="tab" data-f="gallery">📷 圖集</button>
+  <button class="tab" data-f="article">📰 新聞</button>
+  <button class="tab" data-f="video">🎬 影片</button>
+</div>
+<div class="count" id="count"></div>
+<div class="grid" id="grid"></div>
+</div>
+<footer>
+數據源：<a href="https://www.chelseafc.com/en/news" target="_blank">chelseafc.com 官方</a> ·
+中英翻譯由免費 Google 接口提供 · 圖片版權歸車路士足球會及原作者所有，僅作個人收藏
+</footer>
+<script>
+let DATA = {news:[]};
+let FILTER = 'all';
+
+fetch('data/news.json')
+  .then(r=>r.json())
+  .then(d=>{
+    DATA = d;
+    document.getElementById('updated').textContent = '更新於 ' + d.updated.replace('T',' ');
+    render();
+  })
+  .catch(e=>{ document.getElementById('grid').innerHTML = '<p>載入失敗：' + e + '</p>'; });
+
+document.getElementById('tabs').addEventListener('click', e=>{
+  const btn = e.target.closest('.tab');
+  if(!btn) return;
+  document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
+  btn.classList.add('active');
+  FILTER = btn.dataset.f;
+  render();
+});
+
+function esc(s){return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+
+function render(){
+  const list = DATA.news.filter(n=> FILTER==='all' || (FILTER==='gallery'? n.is_gallery : n.type.toLowerCase()===FILTER));
+  document.getElementById('count').textContent = `共 ${list.length} 條 · 圖集 ${list.filter(n=>n.is_gallery).length} 篇`;
+  const grid = document.getElementById('grid');
+  grid.innerHTML = list.map((n,i)=>{
+    const img = n.thumbnail ? `<img class="thumb" src="${esc(n.thumbnail)}" loading="lazy" alt="">` : '';
+    const tag = n.is_gallery ? '<span class="tag gallery">📷 圖集</span>' : `<span class="tag ${n.type.toLowerCase()}">${esc(n.type)}</span>`;
+    const cat = n.category ? `<span>${esc(n.category)}</span>` : '';
+
+    // 标题中英对照
+    const zhTitle = n.title_zh ? `<div class="zh">${esc(n.title_zh)}</div>` : '';
+
+    // 正文双语（仅文章，可折叠）
+    let bodyHtml = '';
+    if(n.body_en || n.body_zh){
+      bodyHtml = `<div class="bilingual" id="bi-${i}">
+        <button class="more ghost" onclick="toggleBody(${i},'en')">EN 原文</button>
+        ${n.body_zh ? `<button class="more ghost" onclick="toggleBody(${i},'zh')">中文</button>` : ''}
+        <div class="en"><div class="lang-tab">English</div><div class="text" id="bi-en-${i}">${esc(n.body_en||'')}</div></div>
+        ${n.body_zh ? `<div class="zh"><div class="lang-tab">中文</div><div class="text" id="bi-zh-${i}">${esc(n.body_zh||'')}</div></div>` : ''}
+      </div>`;
+    }
+
+    // 图集
+    let galleryHtml = '';
+    if(n.is_gallery && n.images_local && n.images_local.length){
+      const strip = n.images_local.slice(0,6).map(p=>`<img src="${esc(p)}" loading="lazy" alt="">`).join('');
+      const full = n.images_local.map(p=>`<img src="${esc(p)}" loading="lazy" alt="">`).join('');
+      galleryHtml = `<div class="gallery-strip">${strip}</div>
+        <button class="more" onclick="toggleGallery(${i})">展開全部 ${n.images_local.length} 張</button>
+        <div class="gallery-full" id="gal-${i}">${full}</div>`;
+    }
+
+    return `<div class="card">
+      ${img}
+      <div class="body">
+        <div class="meta">${tag}${cat}</div>
+        <h3>${esc(n.title)}</h3>
+        ${zhTitle}
+        ${bodyHtml}
+        ${galleryHtml}
+        <a href="${esc(n.url)}" target="_blank">查看原文 →</a>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function toggleGallery(i){
+  const el = document.getElementById('gal-'+i);
+  if(el) el.classList.toggle('open');
+}
+function toggleBody(i, lang){
+  const el = document.getElementById('bi-'+lang+'-'+i);
+  if(el) el.classList.toggle('show');
+}
+</script>
+</body>
+</html>
