@@ -94,6 +94,15 @@ def extract_gallery_images(html):
             found[p] = "http://img.chelseafc.com/image/upload/" + p
     return list(found.values())
 
+def extract_video_media_id(html):
+    """从视频详情页提取 JWPlayer mediaId，用于前端嵌入官方播放器。
+    页面里字段是 HTML 转义形式，如 &quot;mediaId&quot;:&quot;Ovo1kGkN&quot;。"""
+    m = re.search(r'(?:&quot;|")mediaId(?:&quot;|")\s*:\s*(?:&quot;|")([A-Za-z0-9_-]+)(?:&quot;|")', html)
+    if m:
+        return m.group(1)
+    m = re.search(r'(?:&quot;|")videoId(?:&quot;|")\s*:\s*(?:&quot;|")([A-Za-z0-9_-]+)(?:&quot;|")', html)
+    return m.group(1) if m else None
+
 def extract_body(html):
     """提取新闻正文（<p> 段落拼接），图集文章通常无正文返回 None。"""
     paras = re.findall(r'<p[^>]*>(.*?)</p>', html, re.S)
@@ -156,6 +165,7 @@ def main():
             'is_gallery': is_gallery(it),
             'body_en': None, 'body_zh': None,
             'images': [],
+            'video_id': None,
         }
 
         # 1. 抓详情页（图集提取图，文章提取正文）
@@ -171,6 +181,9 @@ def main():
                 imgs = extract_gallery_images(html)
                 entry['images'] = imgs
                 entry['images_local'] = [cloudinary_compress(u) for u in imgs]
+            elif itype.lower() == 'video':
+                # 视频：提取 JWPlayer mediaId，前端嵌入官方播放器
+                entry['video_id'] = extract_video_media_id(html)
             else:
                 entry['body_en'] = extract_body(html)
 
@@ -189,7 +202,7 @@ def main():
             except Exception as e:
                 print(f"  [正文翻译失败] {e}")
 
-        mark = "🖼" if entry['is_gallery'] else ("✓" if entry['title_zh'] else "✗")
+        mark = "🖼" if entry['is_gallery'] else ("🎬" if entry['video_id'] else ("✓" if entry['title_zh'] else "✗"))
         print(f"[{idx+1}] {mark} {itype}: {title[:55]}")
         news.append(entry)
 

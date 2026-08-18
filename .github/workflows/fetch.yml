@@ -2,7 +2,7 @@ name: Fetch Chelsea News
 
 on:
   schedule:
-    - cron: '0 */6 * * *'      # 每 6 小时
+    - cron: '*/5 * * * *'      # 每 5 分钟
   workflow_dispatch: {}          # 手动触发
 
 permissions:
