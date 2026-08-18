@@ -1,0 +1,590 @@
+{
+  "updated": "2026-08-18T12:00:00",
+  "fixtures": [
+    {
+      "date": "Mon 24 Aug 2026",
+      "time": "20:00",
+      "competition": "Premier League",
+      "venue": "Craven Cottage",
+      "isHome": false,
+      "home": {
+        "name": "Fulham",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/654.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Thu 27 Aug 2026",
+      "time": "19:30",
+      "competition": "Carabao Cup",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Luton Town",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/LutonTownFC.png"
+      }
+    },
+    {
+      "date": "Sun 30 Aug 2026",
+      "time": "14:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Brighton & Hove Albion",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/618.png"
+      }
+    },
+    {
+      "date": "Sun 06 Sept 2026",
+      "time": "16:30",
+      "competition": "Premier League",
+      "venue": "Emirates Stadium",
+      "isHome": false,
+      "home": {
+        "name": "Arsenal",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/602.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Sat 12 Sept 2026",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Hull City",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/88.png"
+      }
+    },
+    {
+      "date": "Fri 18 Sept 2026",
+      "time": "20:00",
+      "competition": "Premier League",
+      "venue": "Gtech Community Stadium",
+      "isHome": false,
+      "home": {
+        "name": "Brentford",
+        "crest": "https://img.chelseafc.com/image/upload/f_auto,w_300,q_90/logos/team-logos/club_logo_brentford"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Sat 10 Oct 2026",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Bournemouth",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/600.png"
+      }
+    },
+    {
+      "date": "Sat 17 Oct 2026",
+      "time": "12:30",
+      "competition": "Premier League",
+      "venue": "Hill Dickinson Stadium",
+      "isHome": false,
+      "home": {
+        "name": "Everton",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/650.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Sat 24 Oct 2026",
+      "time": "17:30",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Tottenham Hotspur",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/728.png"
+      }
+    },
+    {
+      "date": "Sat 31 Oct 2026",
+      "time": "12:30",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Manchester United",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/680.png"
+      }
+    },
+    {
+      "date": "Sat 07 Nov 2026",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Stadium of Light",
+      "isHome": false,
+      "home": {
+        "name": "Sunderland",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/722.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Sat 21 Nov 2026",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Leeds United",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/671.png"
+      }
+    },
+    {
+      "date": "Sat 28 Nov 2026",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "The City Ground",
+      "isHome": false,
+      "home": {
+        "name": "Nottingham Forest",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/17.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Wed 02 Dec 2026",
+      "time": "20:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Crystal Palace",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/642.png"
+      }
+    },
+    {
+      "date": "Sat 05 Dec 2026",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Liverpool",
+        "crest": "https://img.chelseafc.com/image/upload/f_auto,w_300,q_90/logos/team-logos/liverpool_logo"
+      }
+    },
+    {
+      "date": "Sat 12 Dec 2026",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Etihad Stadium",
+      "isHome": false,
+      "home": {
+        "name": "Manchester City",
+        "crest": "https://img.chelseafc.com/image/upload/f_auto,w_300,q_90/logos/team-logos/club_logo_mancity"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Sat 19 Dec 2026",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Aston Villa",
+        "crest": "https://img.chelseafc.com/image/upload/v1718019788/editorial/opposition%20club%20badges/Aston_Villa_badge_2024.png"
+      }
+    },
+    {
+      "date": "Sat 26 Dec 2026",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "The Coventry Building Society Arena",
+      "isHome": false,
+      "home": {
+        "name": "Coventry City",
+        "crest": "https://img.chelseafc.com/image/upload/f_auto,q_90/logos/team-logos/Coventry_City_crest_9.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Wed 30 Dec 2026",
+      "time": "20:00",
+      "competition": "Premier League",
+      "venue": "Portman Road",
+      "isHome": false,
+      "home": {
+        "name": "Ipswich Town",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/667.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Sat 02 Jan 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Newcastle United",
+        "crest": "https://img.chelseafc.com/image/upload/f_auto,w_300,q_90/logos/team-logos/club_logo_newcastle"
+      }
+    },
+    {
+      "date": "Wed 06 Jan 2027",
+      "time": "20:00",
+      "competition": "Premier League",
+      "venue": "Selhurst Park",
+      "isHome": false,
+      "home": {
+        "name": "Crystal Palace",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/642.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Sat 16 Jan 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Sunderland",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/722.png"
+      }
+    },
+    {
+      "date": "Sat 23 Jan 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Elland Road",
+      "isHome": false,
+      "home": {
+        "name": "Leeds United",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/671.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Sat 30 Jan 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Nottingham Forest",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/17.png"
+      }
+    },
+    {
+      "date": "Sat 06 Feb 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Old Trafford",
+      "isHome": false,
+      "home": {
+        "name": "Manchester United",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/680.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Wed 10 Feb 2027",
+      "time": "20:00",
+      "competition": "Premier League",
+      "venue": "St. James' Park",
+      "isHome": false,
+      "home": {
+        "name": "Newcastle United",
+        "crest": "https://img.chelseafc.com/image/upload/f_auto,w_300,q_90/logos/team-logos/club_logo_newcastle"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Sat 20 Feb 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Ipswich Town",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/667.png"
+      }
+    },
+    {
+      "date": "Sat 27 Feb 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Villa Park",
+      "isHome": false,
+      "home": {
+        "name": "Aston Villa",
+        "crest": "https://img.chelseafc.com/image/upload/v1718019788/editorial/opposition%20club%20badges/Aston_Villa_badge_2024.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Wed 03 Mar 2027",
+      "time": "20:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Coventry City",
+        "crest": "https://img.chelseafc.com/image/upload/f_auto,q_90/logos/team-logos/Coventry_City_crest_9.png"
+      }
+    },
+    {
+      "date": "Sat 13 Mar 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Arsenal",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/602.png"
+      }
+    },
+    {
+      "date": "Sat 20 Mar 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "The MKM Stadium",
+      "isHome": false,
+      "home": {
+        "name": "Hull City",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/88.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Sat 10 Apr 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Fulham",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/654.png"
+      }
+    },
+    {
+      "date": "Sat 17 Apr 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "American Express Stadium",
+      "isHome": false,
+      "home": {
+        "name": "Brighton & Hove Albion",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/618.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Sat 24 Apr 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Manchester City",
+        "crest": "https://img.chelseafc.com/image/upload/f_auto,w_300,q_90/logos/team-logos/club_logo_mancity"
+      }
+    },
+    {
+      "date": "Sat 01 May 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Anfield",
+      "isHome": false,
+      "home": {
+        "name": "Liverpool",
+        "crest": "https://img.chelseafc.com/image/upload/f_auto,w_300,q_90/logos/team-logos/liverpool_logo"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Sat 08 May 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Tottenham Hotspur Stadium",
+      "isHome": false,
+      "home": {
+        "name": "Tottenham Hotspur",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/728.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Sat 15 May 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Everton",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/650.png"
+      }
+    },
+    {
+      "date": "Sun 23 May 2027",
+      "time": "15:00",
+      "competition": "Premier League",
+      "venue": "Vitality Stadium",
+      "isHome": false,
+      "home": {
+        "name": "Bournemouth",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/600.png"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Sun 30 May 2027",
+      "time": "16:00",
+      "competition": "Premier League",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Brentford",
+        "crest": "https://img.chelseafc.com/image/upload/f_auto,w_300,q_90/logos/team-logos/club_logo_brentford"
+      }
+    }
+  ]
+}

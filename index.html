@@ -33,13 +33,14 @@ header .badge-area{text-align:right;}
 .fixture-info .comp{color:var(--blue);font-weight:600;}
 
 /* 分栏标题对齐 */
-.section-header{display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:10px;}
-.section-header .section-title{font-size:15px;font-weight:700;color:var(--blue);padding-bottom:6px;border-bottom:2px solid var(--blue);display:inline-block;}
+.section-header{display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:6px;flex-wrap:wrap;gap:8px;border-bottom:2px solid var(--blue);padding-bottom:6px;}
+.section-header .section-title{font-size:15px;font-weight:700;color:var(--blue);white-space:nowrap;}
 
-.tabs{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0;}
-.tab{border:none;background:#fff;padding:7px 16px;border-radius:20px;cursor:pointer;font-size:14px;color:var(--txt);box-shadow:0 1px 3px rgba(0,0,0,.08);}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0;}
+.tabs.compact{margin:0;}
+.tab{border:none;background:#fff;padding:5px 12px;border-radius:16px;cursor:pointer;font-size:13px;color:var(--txt);box-shadow:0 1px 3px rgba(0,0,0,.08);}
 .tab.active{background:var(--blue);color:#fff;}
-.count{color:var(--muted);font-size:13px;margin:6px 0 14px;}
+.count{color:var(--muted);font-size:12px;margin:4px 0 10px;}
 
 /* 左右分栏 */
 .layout{display:grid;grid-template-columns:3fr 1fr;gap:18px;align-items:start;}
@@ -146,22 +147,17 @@ footer a{color:var(--blue);}
 </header>
 
 <div class="wrap">
-  <!-- 赛程预告 -->
-  <div class="fixture-bar" id="fixture-bar">
-    <div class="fixture-title">📅 賽程預告</div>
-    <div id="fixture-list">載入中…</div>
-  </div>
-
   <!-- 分栏标题对齐 -->
   <div class="layout">
     <div class="news-col">
+      <!-- 赛程 + 标题 + 筛选 同一行 -->
       <div class="section-header">
         <div class="section-title">⚽ 球隊動態</div>
-      </div>
-      <div class="tabs" id="tabs">
-        <button class="tab active" data-f="all">全部</button>
-        <button class="tab" data-f="article">📰 新聞</button>
-        <button class="tab" data-f="video">🎬 影片</button>
+        <div class="tabs compact" id="tabs">
+          <button class="tab active" data-f="all">全部</button>
+          <button class="tab" data-f="article">📰 新聞</button>
+          <button class="tab" data-f="video">🎬 影片</button>
+        </div>
       </div>
       <div class="count" id="count"></div>
       <div id="news-col"></div>
@@ -175,6 +171,12 @@ footer a{color:var(--blue);}
       </div>
       <div id="gallery-col"></div>
     </div>
+  </div>
+
+  <!-- 赛程预告 -->
+  <div class="fixture-bar" id="fixture-bar">
+    <div class="fixture-title">📅 賽程預告</div>
+    <div id="fixture-list">載入中…</div>
   </div>
 
   <!-- 赞助商 -->
@@ -238,61 +240,57 @@ const COMP_ZH = {
   'Europa League':'歐霸','Conference League':'歐協聯','Club World Cup':'世冠盃'
 };
 
-// 加载赛程
-fetch('https://www.chelseafc.com/en/api/fixtures/upcoming?pageId=30EGwHPO9uwBCc75RQY6kg&seasonId=SZnXY0nlLjz5ARHlc4CS5')
+// 加载赛程（从本地 fixtures.json，避免CORS）
+fetch('data/fixtures.json')
   .then(r=>r.json())
   .then(d=>{
     const list = document.getElementById('fixture-list');
     let html = '';
     let count = 0;
-    for(const month of d.items||[]){
-      for(const match of month.items||[]){
-        if(count>=3) break;
-        const m = match.matchUp;
-        const home = m.home.clubName;
-        const away = m.away.clubName;
-        const homeZh = TEAM_ZH[home]||home;
-        const awayZh = TEAM_ZH[away]||away;
-        const comp = COMP_ZH[match.competition]||match.competition;
-        const isHome = m.isHomeFixture;
-        
-        // 转换北京时间 (UTC+8)
-        const dateStr = match.kickoffDate||'';
-        const timeStr = match.kickoffTime||'';
-        let bjTime = '';
-        try{
-          const parts = dateStr.replace('Mon ','').replace('Tue ','').replace('Wed ','').replace('Thu ','').replace('Fri ','').replace('Sat ','').replace('Sun ','').split(' ');
-          const day = parts[0];
-          const monMap = {'Jan':'01','Feb':'02','Mar':'03','Apr':'04','May':'05','Jun':'06','Jul':'07','Aug':'08','Sept':'09','Oct':'10','Nov':'11','Dec':'12'};
-          const mon = monMap[parts[1]]||parts[1];
-          const yr = parts[2];
-          const [h,mins] = timeStr.split(':');
-          const utcDate = new Date(`${yr}-${mon}-${day}T${h}:${mins}:00Z`);
-          const bj = new Date(utcDate.getTime() + 8*60*60*1000);
-          const bjMon = String(bj.getMonth()+1).padStart(2,'0');
-          const bjDay = String(bj.getDate()).padStart(2,'0');
-          const bjH = String(bj.getHours()).padStart(2,'0');
-          const bjMin = String(bj.getMinutes()).padStart(2,'0');
-          bjTime = `${bjMon}月${bjDay}日 ${bjH}:${bjMin}`;
-        }catch(e){ bjTime = dateStr+' '+timeStr; }
-        
-        html += `<div class="fixture-item">
-          <div class="fixture-date">${bjTime}</div>
-          <div class="fixture-teams">
-            <img src="${m.home.clubCrestUrl}" alt="${home}">
-            <span>${isHome?homeZh:awayZh}</span>
-            <span class="fixture-vs">vs</span>
-            <span>${isHome?awayZh:homeZh}</span>
-            <img src="${m.away.clubCrestUrl}" alt="${away}">
-          </div>
-          <div class="fixture-info">
-            <div class="comp">${comp}</div>
-            <div>${isHome?'主場':'作客'} · ${match.venue||''}</div>
-          </div>
-        </div>`;
-        count++;
-      }
+    for(const match of d.fixtures||[]){
       if(count>=3) break;
+      const home = match.home.name;
+      const away = match.away.name;
+      const homeZh = TEAM_ZH[home]||home;
+      const awayZh = TEAM_ZH[away]||away;
+      const comp = COMP_ZH[match.competition]||match.competition;
+      const isHome = match.isHome;
+      
+      // 转换北京时间 (UTC+8)
+      const dateStr = match.date||'';
+      const timeStr = match.time||'';
+      let bjTime = '';
+      try{
+        const parts = dateStr.replace('Mon ','').replace('Tue ','').replace('Wed ','').replace('Thu ','').replace('Fri ','').replace('Sat ','').replace('Sun ','').split(' ');
+        const day = parts[0];
+        const monMap = {'Jan':'01','Feb':'02','Mar':'03','Apr':'04','May':'05','Jun':'06','Jul':'07','Aug':'08','Sept':'09','Oct':'10','Nov':'11','Dec':'12'};
+        const mon = monMap[parts[1]]||parts[1];
+        const yr = parts[2];
+        const [h,mins] = timeStr.split(':');
+        const utcDate = new Date(`${yr}-${mon}-${day}T${h}:${mins}:00Z`);
+        const bj = new Date(utcDate.getTime() + 8*60*60*1000);
+        const bjMon = String(bj.getMonth()+1).padStart(2,'0');
+        const bjDay = String(bj.getDate()).padStart(2,'0');
+        const bjH = String(bj.getHours()).padStart(2,'0');
+        const bjMin = String(bj.getMinutes()).padStart(2,'0');
+        bjTime = `${bjMon}月${bjDay}日 ${bjH}:${bjMin}`;
+      }catch(e){ bjTime = dateStr+' '+timeStr; }
+      
+      html += `<div class="fixture-item">
+        <div class="fixture-date">${bjTime}</div>
+        <div class="fixture-teams">
+          <img src="${match.home.crest}" alt="${home}">
+          <span>${isHome?homeZh:awayZh}</span>
+          <span class="fixture-vs">vs</span>
+          <span>${isHome?awayZh:homeZh}</span>
+          <img src="${match.away.crest}" alt="${away}">
+        </div>
+        <div class="fixture-info">
+          <div class="comp">${comp}</div>
+          <div>${isHome?'主場':'作客'} · ${match.venue||''}</div>
+        </div>
+      </div>`;
+      count++;
     }
     list.innerHTML = html || '<p style="color:var(--muted);font-size:13px">暫無賽程</p>';
   })

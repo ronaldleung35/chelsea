@@ -135,11 +135,41 @@ def slugify(s, n=60):
     s = re.sub(r'[^a-zA-Z0-9]+', '-', s).strip('-').lower()
     return s[:n]
 
+# 赛程抓取
+FIXTURE_URL = BASE + "/en/api/fixtures/upcoming?pageId=30EGwHPO9uwBCc75RQY6kg&seasonId=SZnXY0nlLjz5ARHlc4CS5"
+
+def fetch_fixtures():
+    """抓取赛程数据，返回简化版JSON。"""
+    try:
+        data = fetch_json(FIXTURE_URL)
+        fixtures = []
+        for month in data.get('items', []):
+            for match in month.get('items', []):
+                m = match['matchUp']
+                fixtures.append({
+                    'date': match.get('kickoffDate', ''),
+                    'time': match.get('kickoffTime', ''),
+                    'competition': match.get('competition', ''),
+                    'venue': match.get('venue', ''),
+                    'isHome': m['isHomeFixture'],
+                    'home': {'name': m['home']['clubName'], 'crest': m['home']['clubCrestUrl']},
+                    'away': {'name': m['away']['clubName'], 'crest': m['away']['clubCrestUrl']},
+                })
+        return fixtures
+    except Exception as e:
+        print(f"[赛程抓取失败] {e}")
+        return []
+
 def main():
     print("== Chelsea FC 情报站抓取（含中英翻译）==")
     listing = fetch_json(LISTING_URL)
     items = listing.get('items', [])
     print(f"抓到 {len(items)} 条新闻\n")
+
+    # 抓取赛程
+    print("== 抓取赛程 ==")
+    fixtures = fetch_fixtures()
+    print(f"抓到 {len(fixtures)} 场赛程\n")
 
     news = []
     g_down = 0
@@ -217,7 +247,13 @@ def main():
     with open(outpath, 'w', encoding='utf-8') as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
+    # 写入赛程数据
+    fixture_path = os.path.join(DATA_DIR, 'fixtures.json')
+    with open(fixture_path, 'w', encoding='utf-8') as f:
+        json.dump({'updated': datetime.datetime.now().isoformat(timespec='seconds'), 'fixtures': fixtures}, f, ensure_ascii=False, indent=2)
+
     print(f"\n✅ 完成：{len(news)} 条 | 图集 {out['gallery_count']} 篇 | 翻译成功 {out['translated_count']} 条标题")
+    print(f"   赛程 {len(fixtures)} 场")
     print(f"   图集图片 {g_down} 张，共 {total_bytes/1024/1024:.1f} MB")
     print(f"   写入 {outpath}")
 
