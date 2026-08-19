@@ -1,9 +1,35 @@
 {
-  "updated": "2026-08-19T02:09:32",
+  "updated": "2026-08-19T03:08:36",
   "count": 50,
   "gallery_count": 4,
   "translated_count": 50,
   "news": [
+    {
+      "title": "OTD: Super Mario's stunning volley against West Ham!",
+      "title_zh": "OTD：超级马里奥对阵西汉姆联的惊人凌空抽射！",
+      "type": "Video",
+      "category": "Men's Team",
+      "url": "https://www.chelseafc.com/en/video/otd-super-mario-stunning-volley",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1656427843/video/2022/06/28/Mario_Stanic_v_West_Ham_Standard_16x9.png",
+      "is_gallery": false,
+      "body_en": null,
+      "body_zh": null,
+      "images": [],
+      "video_id": "zzMbwKgg"
+    },
+    {
+      "title": "OTD: Hazard's league debut ends in Wigan win",
+      "title_zh": "OTD：阿扎尔的联赛首秀以维冈胜利告终",
+      "type": "Video",
+      "category": "Men's Team",
+      "url": "https://www.chelseafc.com/en/video/hazard-s-greatest-games---wigan-2012-13",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1533764862/editorial/blogs-and-columns/2017-18/inside-blue/hazard-wigan-2012-001.jpg",
+      "is_gallery": false,
+      "body_en": null,
+      "body_zh": null,
+      "images": [],
+      "video_id": "kLnrGeZs"
+    },
     {
       "title": "Training Gallery: Blues get back to work",
       "title_zh": "培训画廊：布鲁斯重返工作岗位",
@@ -16,11 +42,11 @@
       "body_zh": null,
       "images": [
         "http://img.chelseafc.com/image/upload/v1787073669/editorial/news/2026/08/18/DTW_2580.jpg",
+        "http://img.chelseafc.com/image/upload/v1656427843/video/2022/06/28/Mario_Stanic_v_West_Ham_Standard_16x9.png",
+        "http://img.chelseafc.com/image/upload/v1533764862/editorial/blogs-and-columns/2017-18/inside-blue/hazard-wigan-2012-001.jpg",
         "http://img.chelseafc.com/image/upload/v1787047336/editorial/news/2026/08/18/morgan-rogers-chelsea-sociedad-stock.jpg",
         "http://img.chelseafc.com/image/upload/v1786973132/editorial/news/2026/08/17/GettyImages-2290585069.jpg",
         "http://img.chelseafc.com/image/upload/v1786982038/editorial/news/2026/08/17/premier-league-trophy-view-stamford-bridge.jpg",
-        "http://img.chelseafc.com/image/upload/v1756227659/editorial/news/2025/08/26/Carabao_Cup_trophy.jpg",
-        "http://img.chelseafc.com/image/upload/v1786963909/editorial/news/2026/08/17/stamford-bridge-view-inside-2627.jpg",
         "http://img.chelseafc.com/image/upload/v1787073741/editorial/news/2026/08/18/DTW_1487.jpg",
         "http://img.chelseafc.com/image/upload/v1787073661/editorial/news/2026/08/18/DTW_3466.jpg",
         "http://img.chelseafc.com/image/upload/v1787073657/editorial/news/2026/08/18/DTW_3365.jpg",
@@ -32,24 +58,24 @@
         "http://img.chelseafc.com/image/upload/v1787073819/editorial/news/2026/08/18/DAR_6897.jpg",
         "http://img.chelseafc.com/image/upload/v1787073666/editorial/news/2026/08/18/DAR_6861.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/v1756227659/editorial/news/2025/08/26/Carabao_Cup_trophy.jpg",
+        "http://img.chelseafc.com/image/upload/v1786963909/editorial/news/2026/08/17/stamford-bridge-view-inside-2627.jpg",
         "http://img.chelseafc.com/image/upload/v1786962214/editorial/news/2026/08/17/GettyImages-2290051805.jpg",
         "http://img.chelseafc.com/image/upload/v1786877935/editorial/news/2026/08/16/05.GettyImages-2290592063.jpg",
         "http://img.chelseafc.com/image/upload/v1786911439/editorial/news/2026/08/16/Joao_Pedro_Chelsea_vs_Sociedad_celebration.jpg",
         "http://img.chelseafc.com/image/upload/v1761580281/editorial/stadium-views/Stamford%20Bridge/Stamford_Bridge_turnstile_digital.jpg",
         "http://img.chelseafc.com/image/upload/v1786877930/editorial/news/2026/08/16/03.GettyImages-2290578070.jpg",
         "http://img.chelseafc.com/image/upload/v1786877918/editorial/news/2026/08/16/00.GettyImages-2290586961.jpg",
-        "http://img.chelseafc.com/image/upload/v1786803179/editorial/match-reports/2026-27/Real%20Sociedad%20%28pre-season%29/alonso-sociedad-fans-welcome.jpg",
-        "http://img.chelseafc.com/image/upload/v1786801624/video/2026/08/15/GettyImages-2290585057.jpg",
-        "http://img.chelseafc.com/image/upload/v1786794929/editorial/match-reports/2026-27/Real%20Sociedad%20%28pre-season%29/rogers-sociedad-arrival.jpg"
+        "http://img.chelseafc.com/image/upload/v1786803179/editorial/match-reports/2026-27/Real%20Sociedad%20%28pre-season%29/alonso-sociedad-fans-welcome.jpg"
       ],
       "video_id": null,
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787073669/editorial/news/2026/08/18/DTW_2580.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1656427843/video/2022/06/28/Mario_Stanic_v_West_Ham_Standard_16x9.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1533764862/editorial/blogs-and-columns/2017-18/inside-blue/hazard-wigan-2012-001.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787047336/editorial/news/2026/08/18/morgan-rogers-chelsea-sociedad-stock.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786973132/editorial/news/2026/08/17/GettyImages-2290585069.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786982038/editorial/news/2026/08/17/premier-league-trophy-view-stamford-bridge.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1756227659/editorial/news/2025/08/26/Carabao_Cup_trophy.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786963909/editorial/news/2026/08/17/stamford-bridge-view-inside-2627.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787073741/editorial/news/2026/08/18/DTW_1487.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787073661/editorial/news/2026/08/18/DTW_3466.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787073657/editorial/news/2026/08/18/DTW_3365.jpg",
@@ -61,15 +87,15 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787073819/editorial/news/2026/08/18/DAR_6897.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787073666/editorial/news/2026/08/18/DAR_6861.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1756227659/editorial/news/2025/08/26/Carabao_Cup_trophy.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786963909/editorial/news/2026/08/17/stamford-bridge-view-inside-2627.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786962214/editorial/news/2026/08/17/GettyImages-2290051805.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786877935/editorial/news/2026/08/16/05.GettyImages-2290592063.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786911439/editorial/news/2026/08/16/Joao_Pedro_Chelsea_vs_Sociedad_celebration.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1761580281/editorial/stadium-views/Stamford%20Bridge/Stamford_Bridge_turnstile_digital.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786877930/editorial/news/2026/08/16/03.GettyImages-2290578070.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786877918/editorial/news/2026/08/16/00.GettyImages-2290586961.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786803179/editorial/match-reports/2026-27/Real%20Sociedad%20%28pre-season%29/alonso-sociedad-fans-welcome.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786801624/video/2026/08/15/GettyImages-2290585057.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786794929/editorial/match-reports/2026-27/Real%20Sociedad%20%28pre-season%29/rogers-sociedad-arrival.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786803179/editorial/match-reports/2026-27/Real%20Sociedad%20%28pre-season%29/alonso-sociedad-fans-welcome.jpg"
       ]
     },
     {
@@ -380,14 +406,14 @@
         "http://img.chelseafc.com/image/upload/v1786877951/editorial/news/2026/08/16/34.GettyImages-2290596431.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
         "http://img.chelseafc.com/image/upload/v1787073669/editorial/news/2026/08/18/DTW_2580.jpg",
+        "http://img.chelseafc.com/image/upload/v1656427843/video/2022/06/28/Mario_Stanic_v_West_Ham_Standard_16x9.png",
+        "http://img.chelseafc.com/image/upload/v1533764862/editorial/blogs-and-columns/2017-18/inside-blue/hazard-wigan-2012-001.jpg",
         "http://img.chelseafc.com/image/upload/v1787047336/editorial/news/2026/08/18/morgan-rogers-chelsea-sociedad-stock.jpg",
         "http://img.chelseafc.com/image/upload/v1786973132/editorial/news/2026/08/17/GettyImages-2290585069.jpg",
         "http://img.chelseafc.com/image/upload/v1786982038/editorial/news/2026/08/17/premier-league-trophy-view-stamford-bridge.jpg",
         "http://img.chelseafc.com/image/upload/v1756227659/editorial/news/2025/08/26/Carabao_Cup_trophy.jpg",
         "http://img.chelseafc.com/image/upload/v1786963909/editorial/news/2026/08/17/stamford-bridge-view-inside-2627.jpg",
-        "http://img.chelseafc.com/image/upload/v1786962214/editorial/news/2026/08/17/GettyImages-2290051805.jpg",
-        "http://img.chelseafc.com/image/upload/v1786911439/editorial/news/2026/08/16/Joao_Pedro_Chelsea_vs_Sociedad_celebration.jpg",
-        "http://img.chelseafc.com/image/upload/v1761580281/editorial/stadium-views/Stamford%20Bridge/Stamford_Bridge_turnstile_digital.jpg"
+        "http://img.chelseafc.com/image/upload/v1786962214/editorial/news/2026/08/17/GettyImages-2290051805.jpg"
       ],
       "video_id": null,
       "images_local": [
@@ -428,14 +454,14 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786877951/editorial/news/2026/08/16/34.GettyImages-2290596431.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787073669/editorial/news/2026/08/18/DTW_2580.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1656427843/video/2022/06/28/Mario_Stanic_v_West_Ham_Standard_16x9.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1533764862/editorial/blogs-and-columns/2017-18/inside-blue/hazard-wigan-2012-001.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787047336/editorial/news/2026/08/18/morgan-rogers-chelsea-sociedad-stock.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786973132/editorial/news/2026/08/17/GettyImages-2290585069.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786982038/editorial/news/2026/08/17/premier-league-trophy-view-stamford-bridge.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1756227659/editorial/news/2025/08/26/Carabao_Cup_trophy.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786963909/editorial/news/2026/08/17/stamford-bridge-view-inside-2627.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786962214/editorial/news/2026/08/17/GettyImages-2290051805.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786911439/editorial/news/2026/08/16/Joao_Pedro_Chelsea_vs_Sociedad_celebration.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1761580281/editorial/stadium-views/Stamford%20Bridge/Stamford_Bridge_turnstile_digital.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786962214/editorial/news/2026/08/17/GettyImages-2290051805.jpg"
       ]
     },
     {
@@ -710,11 +736,11 @@
       "body_zh": null,
       "images": [
         "http://img.chelseafc.com/image/upload/v1786725458/DAZ_2284_nejqol.jpg",
+        "http://img.chelseafc.com/image/upload/v1656427843/video/2022/06/28/Mario_Stanic_v_West_Ham_Standard_16x9.png",
+        "http://img.chelseafc.com/image/upload/v1533764862/editorial/blogs-and-columns/2017-18/inside-blue/hazard-wigan-2012-001.jpg",
         "http://img.chelseafc.com/image/upload/v1787073669/editorial/news/2026/08/18/DTW_2580.jpg",
         "http://img.chelseafc.com/image/upload/v1787047336/editorial/news/2026/08/18/morgan-rogers-chelsea-sociedad-stock.jpg",
         "http://img.chelseafc.com/image/upload/v1786973132/editorial/news/2026/08/17/GettyImages-2290585069.jpg",
-        "http://img.chelseafc.com/image/upload/v1786982038/editorial/news/2026/08/17/premier-league-trophy-view-stamford-bridge.jpg",
-        "http://img.chelseafc.com/image/upload/v1756227659/editorial/news/2025/08/26/Carabao_Cup_trophy.jpg",
         "http://img.chelseafc.com/image/upload/v1786725457/DTW_0309_sb14b1.jpg",
         "http://img.chelseafc.com/image/upload/v1786725457/DTW_0323_sfbp6s.jpg",
         "http://img.chelseafc.com/image/upload/v1786725457/DTW_0260_wrxzjb.jpg",
@@ -731,24 +757,24 @@
         "http://img.chelseafc.com/image/upload/v1786725453/DTW_0986_rmuxro.jpg",
         "http://img.chelseafc.com/image/upload/v1786725661/video/2026/08/14/DAR_4914.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/v1786982038/editorial/news/2026/08/17/premier-league-trophy-view-stamford-bridge.jpg",
+        "http://img.chelseafc.com/image/upload/v1756227659/editorial/news/2025/08/26/Carabao_Cup_trophy.jpg",
         "http://img.chelseafc.com/image/upload/v1786963909/editorial/news/2026/08/17/stamford-bridge-view-inside-2627.jpg",
         "http://img.chelseafc.com/image/upload/v1786962214/editorial/news/2026/08/17/GettyImages-2290051805.jpg",
         "http://img.chelseafc.com/image/upload/v1786877935/editorial/news/2026/08/16/05.GettyImages-2290592063.jpg",
         "http://img.chelseafc.com/image/upload/v1786911439/editorial/news/2026/08/16/Joao_Pedro_Chelsea_vs_Sociedad_celebration.jpg",
         "http://img.chelseafc.com/image/upload/v1761580281/editorial/stadium-views/Stamford%20Bridge/Stamford_Bridge_turnstile_digital.jpg",
         "http://img.chelseafc.com/image/upload/v1786877930/editorial/news/2026/08/16/03.GettyImages-2290578070.jpg",
-        "http://img.chelseafc.com/image/upload/v1786877918/editorial/news/2026/08/16/00.GettyImages-2290586961.jpg",
-        "http://img.chelseafc.com/image/upload/v1786803179/editorial/match-reports/2026-27/Real%20Sociedad%20%28pre-season%29/alonso-sociedad-fans-welcome.jpg",
-        "http://img.chelseafc.com/image/upload/v1786801624/video/2026/08/15/GettyImages-2290585057.jpg"
+        "http://img.chelseafc.com/image/upload/v1786877918/editorial/news/2026/08/16/00.GettyImages-2290586961.jpg"
       ],
       "video_id": null,
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786725458/DAZ_2284_nejqol.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1656427843/video/2022/06/28/Mario_Stanic_v_West_Ham_Standard_16x9.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1533764862/editorial/blogs-and-columns/2017-18/inside-blue/hazard-wigan-2012-001.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787073669/editorial/news/2026/08/18/DTW_2580.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787047336/editorial/news/2026/08/18/morgan-rogers-chelsea-sociedad-stock.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786973132/editorial/news/2026/08/17/GettyImages-2290585069.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786982038/editorial/news/2026/08/17/premier-league-trophy-view-stamford-bridge.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1756227659/editorial/news/2025/08/26/Carabao_Cup_trophy.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786725457/DTW_0309_sb14b1.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786725457/DTW_0323_sfbp6s.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786725457/DTW_0260_wrxzjb.jpg",
@@ -765,15 +791,15 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786725453/DTW_0986_rmuxro.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786725661/video/2026/08/14/DAR_4914.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786982038/editorial/news/2026/08/17/premier-league-trophy-view-stamford-bridge.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1756227659/editorial/news/2025/08/26/Carabao_Cup_trophy.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786963909/editorial/news/2026/08/17/stamford-bridge-view-inside-2627.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786962214/editorial/news/2026/08/17/GettyImages-2290051805.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786877935/editorial/news/2026/08/16/05.GettyImages-2290592063.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786911439/editorial/news/2026/08/16/Joao_Pedro_Chelsea_vs_Sociedad_celebration.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1761580281/editorial/stadium-views/Stamford%20Bridge/Stamford_Bridge_turnstile_digital.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786877930/editorial/news/2026/08/16/03.GettyImages-2290578070.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786877918/editorial/news/2026/08/16/00.GettyImages-2290586961.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786803179/editorial/match-reports/2026-27/Real%20Sociedad%20%28pre-season%29/alonso-sociedad-fans-welcome.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786801624/video/2026/08/15/GettyImages-2290585057.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786877918/editorial/news/2026/08/16/00.GettyImages-2290586961.jpg"
       ]
     },
     {
@@ -923,32 +949,6 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786534235/editorial/women%27s-team/AUS%20NZ%20Tour/12%20Aug/CFCW_ALl_Stars_Aug_26_2.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786523783/editorial/women%27s-team/AUS%20NZ%20Tour/12%20Aug/Sydney_FC_Shirts_pic.jpg"
       ]
-    },
-    {
-      "title": "Still time to get your Chelsea vs Real Sociedad tickets!",
-      "title_zh": "还有时间购买切尔西对阵皇家社会的门票！",
-      "type": "Article",
-      "category": "Tickets",
-      "url": "https://www.chelseafc.com/en/news/article/stamford-bridge-match-vs-real-sociedad-on-general-sale",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1785223343/editorial/tickets%20and%20memberships/Xabi_Alonso_Stamford_Bridge.jpg",
-      "is_gallery": false,
-      "body_en": "Chelsea supporters are still able to secure seats for what will be Xabi Alonso&#x27;s first game in charge to be played at Stamford Bridge when we face Real Sociedad on Saturday. The game against Real Sociedad will take place on Saturday, with kick-off at 2pm. It is our first meeting for 12 years against the club that won Spain's Copa del Rey last season and the first opportunity for Chelsea’s latest signings, and our new manager, to be introduced to the Stamford Bridge supporters. This will be the final match preparation ahead of the new Premier League season, which starts the following weekend. Ticket sales will be monitored and additional areas will only open in accordance with demand. Wednesday 29 July from 2pm: Tickets on general sale up to eight tickets per person. - Click to purchase Chelsea vs Real Sociedad tickets Tickets remain on sale to season ticket holders and True Blue+ members, True Blue members, CFC Blue members and Junior Blue members who can purchase up to eight tickets per person. Loyalty points: Season ticket holders and members will receive six loyalty points for this match. Loyalty points will now only be awarded for attendance. Points will be added to eligible accounts following each game, provided the ticket has been scanned at the turnstile.As only the lower tiers are open initially, season ticket holders will NOT have their usual seat reserved. Season ticket holders will be able to purchase any available tickets online. Tickets are for Chelsea supporters ONLY and will be sold online only, subject to availability. Tickets will be dispatched digitally to supporters – further details to follow. All persons under the age of 16 will be required to attend the relevant area of the ground with, and sit in the ground next to, a person aged 18 years of age or over. Supporters with access needs can purchase tickets via the application form available by clicking here or by phoning the access team on 0371 811 2012 or 0044 207 915 1950 (international callers). East Lower £40, £43, £47 and £50 East Upper £40, £43, £47 and £50 West Lower £40, £43, £47 and £50 Matthew Harding Lower £40 and £47 Matthew Harding Upper £40 and £47 East Lower: £30, £33, £37 and £40 East Upper: £30, £33, £37 and £40 West Lower: £30, £33, £37 and £40 Matthew Harding Lower: £30 and £37 Matthew Harding Upper: £30 and £37 Under-20s, 66 or over and Under-23s will receive a 25 per cent reduction on the full adult ticket price. East Lower £40, £43, £47 and £50 East Upper £40, £43, £47 and £50 West Lower £40, £43, £47 and £50 Matthew Harding Lower £40 and £47 Matthew Harding Upper £40 and £47 Family offer*: £95 (four tickets) General sale purchasers, season ticket holders and members have access to a family offer for this fixture. Family offer for general sale purchasers: £135 (four tickets)Family offer for season ticket holders and members: £95 (four tickets)Family offer is currently only available in prices areas East Lower South (S3), East Lower North (S3) and West Lower (S3). You must select 2 x Family Adult tickets and 2 x Family Junior tickets for the offer to be eligible. Season ticket holders, True Blue+ members,True Blue members and CFC Blue members can purchase tickets in Westview. - Click for or other hospitality options All Club Chelsea ticket purchases are subject to Club Chelsea terms and conditions. Supporters with access needs can click here to make application for car parking from 10am on Thursday 30 July. You will be required to display your Blue Badge while parked at Stamford Bridge. There will be no ticket exchange in operation for this fixture. Ticket forwarding for this match will open at 10am on Wednesday 12 August and will close at 11am on Saturday 15 August. All non-accepted tickets will be returned to the original ticket holder. Ticket forwarding FAQs can be found here Click for a video guide to ticket forwarding Match dates and ticket on-sale dates are subject to change. All ticket sales are subject to availability. - Click to purchase Chelsea vs Real Sociedad tickets",
-      "body_zh": "周六我们对阵皇家社会队时，切尔西的支持者仍然能够获得座位，观看哈维·阿隆索在斯坦福桥执教的第一场比赛。对阵皇家社会的比赛将于周六下午 2 点开球。这是我们 12 年来第一次对阵上赛季赢得西班牙国王杯的俱乐部，也是切尔西最新签约球员和我们的新主教练第一次有机会向斯坦福桥球迷介绍。这将是下周末开始的新赛季英超联赛之前的最后一场比赛准备工作。门票销售将受到监控，其他区域仅根据需求开放。 7 月 29 日星期三下午 2 点起：门票公开发售，每人最多 8 张门票。 - 点击购买切尔西对阵皇家社会的门票 门票仍然向季票持有者和 True Blue+ 会员、True Blue 会员、CFC Blue 会员和 Junior Blue 会员出售，每人最多可购买 8 张门票。忠诚度积分：季票持有者和会员将在本场比赛中获得 6 个忠诚度积分。现在只有出席才能获得忠诚度积分。只要在十字转门处扫描了门票，积分将在每场比赛后添加到符合条件的帐户中。由于最初仅开放较低层，季票持有者将不会保留其通常的座位。季票持有者将能够在线购买任何可用的门票。门票仅供切尔西球迷使用，且仅在网上出售，售完即止。门票将以数字方式发送给支持者——更多细节敬请关注。所有 16 岁以下的人都必须与 18 岁或以上的人一起进入场地的相关区域，并坐在 18 岁或以上的人旁边。有访问需求的支持者可以通过单击此处提供的申请表或致电访问团队 0371 811 2012 或 0044 207 915 1950（国际电话）购买门票。东下层 £40, £43, £47 和 £50 东上层 £40, £43, £47 和 £50 西下层 £40, £43, £47 和 £50 马修·哈丁下层 £40 和 £47 马修·哈丁上层 £40 和 £47 东下层：£30, £33, £37 和 £40 东上层：£30, £33, £37 和 £40 西下层： £30、£33、£37 和 £40 马修·哈丁 (Matthew Harding) 下层：30 英镑和 37 英镑 马修·哈丁 (Matthew Harding) 上层：30 英镑和 37 英镑 20 岁以下、66 岁或以上以及 23 岁以下将获得成人票价 25% 的折扣。东下层 £40、43、47 和 50 英镑 东上层 £40、43、47 和 50 西下层 £40、43、47 和 50 英镑 马修·哈丁下层 £40 和 £47 马修·哈丁上层 £40 和 £47 家庭优惠*：95 英镑（四张票） 一般销售购买者、季票持有者和会员可以享受本场比赛的家庭优惠。面向一般销售购买者的家庭优惠：135 英镑（四张门票）面向季票持有者和会员的家庭优惠：95 英镑（四张门票）家庭优惠目前仅适用于东下南 (S3)、东下北 (S3) 和西下 (S3) 价格区域。您必须选择 2 张家庭成人门票和 2 张家庭儿童门票才符合此优惠资格。季票持有者、True Blue+会员、True Blue会员、CFC Blue会员均可在Westview购买门票。 - 单击查看或其他招待选项 所有切尔西俱乐部门票购买均须遵守切尔西俱乐部条款和条件。有通行需求的支持者可以点击此处从 7 月 30 日星期四上午 10 点开始申请停车位。您在斯坦福桥停车时需要出示您的蓝色徽章。本场比赛不提供门票兑换服务。本场比赛的门票转发将于 8 月 12 日星期三上午 10 点开放，并于 8 月 15 日星期六上午 11 点截止。所有未被接受的门票将退还给原持票人。门票转发常见问题解答可在此处找到。 单击查看门票转发视频指南 比赛日期和门票发售日期可能会发生变化。所有门票销售均视供应情况而定。 - 点击购买切尔西对阵皇家社会的门票",
-      "images": [],
-      "video_id": null
-    },
-    {
-      "title": "Vera Jones signs new contract",
-      "title_zh": "维拉·琼斯签署新合同",
-      "type": "Article",
-      "category": "Women's Team",
-      "url": "https://www.chelseafc.com/en/news/article/vera-jones-signs-new-contract",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1785983812/editorial/news/2026/08/06/Vera_Jones_contract.jpg",
-      "is_gallery": false,
-      "body_en": "Chelsea midfielder Vera Jones has put pen to paper on a new contract committing her future to the club until at least 2029. Having joined the Blues in the summer of 2024, the 18-year-old agreed her first professional contract with us in February of last year, and has now signed on for the next three years. On signing her new deal, Jones said: 'I'm really pleased to be renewing my contract at Chelsea. I've enjoyed my time so far, and I'm really looking forward to seeing what's to come and continuing to learn and grow. I've had a lot of support from everyone at the club, including the academy. 'I hope to make my debut soon, get that first goal, and then eventually play at Stamford Bridge.' Jones spent the 2025/26 campaign on loan in the Women’s Super League 2 with Bristol City, where she gained valuable experience in the senior game by making 22 appearances, five of them from the start. She has also featured internationally for England at youth level, most recently scoring for the Under-20s in a 1-1 draw with the USA in July.",
-      "body_zh": "切尔西中场球员维拉·琼斯已经签署了一份新合同，承诺她的未来至少会持续到 2029 年。这位 18 岁的球员于 2024 年夏天加入蓝军，并于去年 2 月与我们签订了她的第一份职业合同，目前已与我们签订了未来三年的合同。在签署新合同时，琼斯说：“我真的很高兴能与切尔西续约。到目前为止，我很享受我的时光，我真的很期待看到即将发生的事情并继续学习和成长。我得到了俱乐部所有人的大力支持，包括青训学院。 “我希望很快就能完成首秀，取得第一个进球，然后最终在斯坦福桥踢球。”琼斯在2025/26赛季被租借到布里斯托尔城参加女子超级联赛2，她在高级比赛中出场22次，其中有5次是首发，获得了宝贵的经验。她还曾代表英格兰青年队参加国际比赛，最近一次是在 7 月 1-1 战平美国队的比赛中为 20 岁以下青年队进球。",
-      "images": [],
-      "video_id": null
     }
   ]
 }
