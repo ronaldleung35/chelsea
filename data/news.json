@@ -1,9 +1,22 @@
 {
-  "updated": "2026-08-21T07:57:17",
+  "updated": "2026-08-21T08:31:21",
   "count": 50,
   "gallery_count": 2,
   "translated_count": 50,
   "news": [
+    {
+      "title": "Chelsea Under-18s vs Birmingham City: How to watch it live",
+      "title_zh": "切尔西 18 岁以下青年队对阵伯明翰城：如何观看直播",
+      "type": "Article",
+      "category": "U18s",
+      "url": "https://www.chelseafc.com/en/news/article/chelsea-under-18s-vs-birmingham-city-how-to-watch-it-live",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1786981291/restricted/2026/Greenwood%20contract/Badu_U18_CL1_2470-3293279_nyfbOkDg.jpg",
+      "is_gallery": false,
+      "body_en": "Chelsea Under-18s&#x27; first away trip of 2026/27 takes us to Birmingham City in the Under-18 Premier League and CFC&#x2B; subscribers can watch the game live on the Chelsea Official App and website. The Blues will be looking to bounce back and pick up our first points of the season when we travel to Birmingham this weekend, after a narrow 3-2 defeat at Cobham to Norwich City in our opening game, despite goals from Eden Perez and Jake Anderson. Here is how you can watch the Under-18 Premier League match against Birmingham live... The game kicks off at Birmingham's Knighthead training and academy grounds at midday (UK time) on Saturday 22 August. All CFC+ subscribers can watch this match, and all of Chelsea's Under-18 Premier League fixtures this season, live on the official Chelsea website and the Chelsea Official App. You can get more details on CFC+ and sign up here. You can watch the live stream in our Birmingham City vs Chelsea Under-18s Match Centre by clicking below or via the homepage of the official Chelsea website and Chelsea Official App shortly before kick-off. Ensure that you are logged in with your CFC+ subscription to view the stream. Highlights of the match will be available for free to all supporters on the Chelsea Official App and website on the morning of Sunday 23 August.",
+      "body_zh": "切尔西 18 岁以下青年队 2026/27 年的首次客场之旅将前往 18 岁以下英超联赛的伯明翰城，CFC+ 订阅者可以在切尔西官方应用程序和网站上观看比赛直播。尽管伊登·佩雷斯和杰克·安德森各进一球，但在首场比赛中以 3-2 的微弱优势输给诺维奇城后，蓝军将在本周末前往伯明翰时寻求反弹并取得本赛季的第一分。您可以通过以下方式现场观看 18 岁以下英超联赛对阵伯明翰的比赛...比赛将于 8 月 22 日星期六中午（英国时间）在伯明翰 Knighthead 训练和学院球场拉开帷幕。所有 CFC+ 订阅者都可以在切尔西官方网站和切尔西官方应用程序上观看这场比赛以及切尔西本赛季 18 岁以下英超联赛的所有比赛。您可以获取有关 CFC+ 的更多详细信息并在此处注册。您可以在开赛前点击下方或通过切尔西官方网站和切尔西官方应用程序的主页观看伯明翰城对阵切尔西 18 岁以下比赛中心的直播。确保您已使用 CFC+ 订阅登录才能查看流。 8 月 23 日（星期日）上午，所有支持者均可在切尔西官方应用程序和网站上免费观看比赛的精彩片段。",
+      "images": [],
+      "video_id": null
+    },
     {
       "title": "Pre-Season Briefing 2026/27 part five: The anniversaries ahead",
       "title_zh": "2026/27 季前简报第五部分：未来的周年纪念日",
@@ -36,12 +49,12 @@
       "type": "Article",
       "category": "Men's Team",
       "url": "https://www.chelseafc.com/en/news/article/training-gallery-close-to-the-start",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1787253527/DAR_7077_qsqlmi.jpg",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1787299857/DAR_7077_qsqlmi.jpg",
       "is_gallery": true,
       "body_en": null,
       "body_zh": null,
       "images": [
-        "http://img.chelseafc.com/image/upload/v1787253527/DAR_7077_qsqlmi.jpg",
+        "http://img.chelseafc.com/image/upload/v1787299857/DAR_7077_qsqlmi.jpg",
         "http://img.chelseafc.com/image/upload/v1787253509/DAZ_5433_z4gxdb.jpg",
         "http://img.chelseafc.com/image/upload/v1787250349/editorial/news/2026/08/20/DAZ_5403.jpg",
         "http://img.chelseafc.com/image/upload/v1787253497/DAZ_5530_wy5h4n.jpg",
@@ -53,6 +66,7 @@
         "http://img.chelseafc.com/image/upload/v1787253484/DTW_3819_m5vuzp.jpg",
         "http://img.chelseafc.com/image/upload/v1787254638/DTW_4003_brvrn5.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/v1786981291/restricted/2026/Greenwood%20contract/Badu_U18_CL1_2470-3293279_nyfbOkDg.jpg",
         "http://img.chelseafc.com/image/upload/v1549000590/asia/editorial/articles/drogba-2007-GettyImages-85605912.jpg",
         "http://img.chelseafc.com/image/upload/v1787230589/GettyImages-2285305294_dyxmqd.jpg",
         "http://img.chelseafc.com/image/upload/v1787238496/editorial/Stamford%20Bridge%20general%20shots/Stamford_Bridge_view_-_outside_West_Stand_August_2026.jpg",
@@ -66,7 +80,7 @@
       ],
       "video_id": null,
       "images_local": [
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787253527/DAR_7077_qsqlmi.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787299857/DAR_7077_qsqlmi.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787253509/DAZ_5433_z4gxdb.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787250349/editorial/news/2026/08/20/DAZ_5403.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787253497/DAZ_5530_wy5h4n.jpg",
@@ -78,6 +92,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787253484/DTW_3819_m5vuzp.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787254638/DTW_4003_brvrn5.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786981291/restricted/2026/Greenwood%20contract/Badu_U18_CL1_2470-3293279_nyfbOkDg.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1549000590/asia/editorial/articles/drogba-2007-GettyImages-85605912.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787230589/GettyImages-2285305294_dyxmqd.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787238496/editorial/Stamford%20Bridge%20general%20shots/Stamford_Bridge_view_-_outside_West_Stand_August_2026.jpg",
@@ -467,7 +482,7 @@
       "images": [
         "http://img.chelseafc.com/image/upload/v1787073669/editorial/news/2026/08/18/DTW_2580.jpg",
         "http://img.chelseafc.com/image/upload/v1549000590/asia/editorial/articles/drogba-2007-GettyImages-85605912.jpg",
-        "http://img.chelseafc.com/image/upload/v1787253527/DAR_7077_qsqlmi.jpg",
+        "http://img.chelseafc.com/image/upload/v1787299857/DAR_7077_qsqlmi.jpg",
         "http://img.chelseafc.com/image/upload/v1787230589/GettyImages-2285305294_dyxmqd.jpg",
         "http://img.chelseafc.com/image/upload/v1787238496/editorial/Stamford%20Bridge%20general%20shots/Stamford_Bridge_view_-_outside_West_Stand_August_2026.jpg",
         "http://img.chelseafc.com/image/upload/v1786821812/editorial/match-reports/2026-27/Real%20Sociedad%20%28pre-season%29/reece-james-joao-pedro-sociedad.jpg",
@@ -482,6 +497,7 @@
         "http://img.chelseafc.com/image/upload/v1787073819/editorial/news/2026/08/18/DAR_6897.jpg",
         "http://img.chelseafc.com/image/upload/v1787073666/editorial/news/2026/08/18/DAR_6861.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/v1786981291/restricted/2026/Greenwood%20contract/Badu_U18_CL1_2470-3293279_nyfbOkDg.jpg",
         "http://img.chelseafc.com/image/upload/v1787127925/editorial/news/2026/08/19/chelsea-line-up-wsw.jpg",
         "http://img.chelseafc.com/image/upload/v1787156533/editorial/news/2026/08/19/DAR_6312.jpg",
         "http://img.chelseafc.com/image/upload/v1787138136/editorial/news/2026/08/19/Chelsea_shirts_pre-Sociedad.jpg",
@@ -497,7 +513,7 @@
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787073669/editorial/news/2026/08/18/DTW_2580.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1549000590/asia/editorial/articles/drogba-2007-GettyImages-85605912.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787253527/DAR_7077_qsqlmi.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787299857/DAR_7077_qsqlmi.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787230589/GettyImages-2285305294_dyxmqd.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787238496/editorial/Stamford%20Bridge%20general%20shots/Stamford_Bridge_view_-_outside_West_Stand_August_2026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786821812/editorial/match-reports/2026-27/Real%20Sociedad%20%28pre-season%29/reece-james-joao-pedro-sociedad.jpg",
@@ -512,6 +528,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787073819/editorial/news/2026/08/18/DAR_6897.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787073666/editorial/news/2026/08/18/DAR_6861.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786981291/restricted/2026/Greenwood%20contract/Badu_U18_CL1_2470-3293279_nyfbOkDg.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787127925/editorial/news/2026/08/19/chelsea-line-up-wsw.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787156533/editorial/news/2026/08/19/DAR_6312.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787138136/editorial/news/2026/08/19/Chelsea_shirts_pre-Sociedad.jpg",
@@ -744,19 +761,6 @@
       "body_zh": "只有一小部分人认识另一个若昂·佩德罗。他在巴西是为少数特殊的人保留的，这些人早在他进入英格兰和切尔西之前就在他身边。这位若昂·佩德罗并不是一位意志坚定、才华横溢的前锋，他在斯坦福桥的第一年就加冕了世界冠军，在2025/26赛季攻入20个进球，并被蓝军球迷票选为赛季最佳球员。他只是一个年轻人，喜欢回到巴西的家乡和他关心的人在一起。 “当我去巴西和朋友们待在一起时，我尽量不去想太多关于足球的事情，”这位 24 岁的球员在我们的澳大利亚和亚洲季前之旅期间在球队酒店与我们坐下后说道。 “我不和他们一起踢足球或者类似的事情；我只是试着放松并和他们一起享受。 “巴西是我的国家；这是我长大的地方。因此，每当我放假时，与朋友和家人一起回到那里总是感觉很好。它可以帮助我恢复并享受休息时间，也意味着我可以百分百恢复状态。”不可否认，若昂·佩德罗并不想放暑假；他不想让自己在夏天休息。他更愿意代表巴西参加北美世界杯。然而，离开一段时间——其中还包括在塞浦路斯度假——让若昂·佩德罗以新鲜和锐利的方式回到切尔西。这在整个季前赛中都很明显，我们的 20 号球员在短短 5 场比赛中就打进了 7 个进球。然而他相信未来还会有更多，这位巴西国脚希望个人成就与未来赛季的集体成功保持一致。 “我在这里的第一年很特别，但这并不是我们作为一个团队想要的。所以，我会继续全力以赴，希望我能再打一个好赛季，球队也能实现我们的目标。 “我知道当一名新球员加入俱乐部时，有时会有点困难。对我在切尔西来说，情况完全不同。我立即感到宾至如归，并在短短十天后就赢得了奖杯！ “我在这里感觉很舒服，希望我们能一起赢得更多冠军。”若昂·佩德罗回到切尔西进行季前训练时，球场内外都有新的声音可供聆听，哈维·阿隆索现在领导着一线队。到目前为止，这位蓝军前锋很享受与西班牙人的合作，他强调阿隆索很快在科巴姆及其他地方建立了一个积极和开放的环境。他说：“主教练非常开放；他来这里是为了帮助大家。我和他聊过几次，我很享受。我非常期待这个赛季能够帮助他和切尔西实现目标。”在切尔西的第一个赛季中，若昂·佩德罗最突出的是他对球队内不同角色的理解以及他在球场上的适应能力。这意味着他打进了各种各样的进球，从那不勒斯的远射打桩机到主场对阵西汉姆联的近距离头球。我们也不要忽视他在对阵诺丁汉森林队的比赛中精彩的倒钩球，该进球被球迷们评为本赛季最佳进球。 “我的位置一直是第九，”若昂·佩德罗说。 “但是因为我有很好的技术，所以我可以走得更深或者去边路。但我只想在球场上踢球并帮助球队。 “有时我会深入防守，有时会在禁区里。我不能失去的是我需要在球场上的本能。有时候，在足球场上，你只需要感觉。 “如果你只是呆在禁区里，也许你不会得到很多机会。但如果你留在外面，你可能离目标很远。所以，我需要利用这种感觉，然后进球。 “当我年轻的时候，我踢过不同的位置；我认为这对我有很大帮助。但我们在球场中间有顶级球员，所以我会专注于进球！”这种方法在若昂·佩德罗在斯坦福桥的整个时期都发挥了作用，蓝军的支持者希望它在未来的赛季取得更大的成功。",
       "images": [],
       "video_id": null
-    },
-    {
-      "title": "OTD: The Story of Liverpool 1-2 Chelsea ⏪",
-      "title_zh": "OTD：利物浦 1-2 切尔西的故事 ⏪",
-      "type": "Video",
-      "category": "Video",
-      "url": "https://www.chelseafc.com/en/video/the-story-of-liverpool-1-2-chelsea-2003",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1691798341/video/2023/08/11/THE_STORY_OF_-_LIVERPOOL_V_CHELSEA_1.jpg",
-      "is_gallery": false,
-      "body_en": null,
-      "body_zh": null,
-      "images": [],
-      "video_id": "nlGBEOlY"
     }
   ]
 }
