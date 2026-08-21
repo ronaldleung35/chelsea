@@ -1,9 +1,22 @@
 {
-  "updated": "2026-08-21T17:47:04",
+  "updated": "2026-08-21T18:05:15",
   "count": 50,
   "gallery_count": 2,
-  "translated_count": 49,
+  "translated_count": 50,
   "news": [
+    {
+      "title": "Morgan Rogers: We’re confident of hitting the ground running",
+      "title_zh": "摩根·罗杰斯：我们有信心迅速起步",
+      "type": "Article",
+      "category": "Men's Team",
+      "url": "https://www.chelseafc.com/en/news/article/morgan-rogers-were-confident-of-hitting-the-ground-running",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1787159012/editorial/news/2026/08/19/morgan-rogers-training.jpg",
+      "is_gallery": false,
+      "body_en": "Chelsea have to wait until the very end of gameweek one to kick off our Premier League season. But when we do, Morgan Rogers believes the Blues are well placed to make a strong start. Our short trip to Craven Cottage to play Fulham on Monday evening follows the nine other fixtures on the opening weekend of the campaign and heralds a new dawn at Chelsea. Xabi Alonso is preparing to take charge of his first game as our manager and several new players – including Rogers – are hoping to make their competitive debut for the Blues. He may not have been at the Bridge for long, but Rogers is already acutely aware of the standards he and his team-mates are expected to meet. He wants to set the tone for the season right from the off. ‘There’s a process, and there being a new manager, it takes time to gel and fit perfectly, but we do want to hit the ground running,’ said Rogers. ‘We believe we've got the ability and the quality to. ‘The fans want to see their team perform to the level that they expect, and Chelsea Football Club as a whole expect to compete with every team and be right at the top of the league. That's our aspiration and goal. ‘It's about staying focused, and understanding it's a journey. It might not always go perfect, but with the right mentality, with the right mindset, we'll be where we deserve to be and where we need to be as a club and as a team.’ On a personal level, Rogers has been forming connections with his new colleagues as quickly as possible to ensure no time is wasted in getting up to speed. He has also taken information on board about what Alonso expects of him. What is unknown is how the Premier League will pan out this season. Several clubs, including us, Manchester City and Liverpool, have new head coaches. There is a feeling among pundits that it will be an open division and, as always, anyone can beat anyone on their day. ‘It’s exciting times ahead,’ Rogers enthused. ‘I'm as much of a Premier League fan as everyone else. I know I play in it, but I'm still a fan when I'm not playing. So I want as much excitement as possible. ‘No one knows how each team will set up or how everyone will play, and that’s exciting. That’s why we watch the game and why we love the sport. ‘And hopefully, we're in the exciting element of it at the top of the table where we want to be.’",
+      "body_zh": "切尔西必须等到第一周比赛结束才能开始我们的英超赛季。但当我们这样做时，摩根·罗杰斯相信蓝军已经做好了良好的开局准备。继本赛季首周末的其他九场比赛之后，我们周一晚上将前往克雷文小屋对阵富勒姆，这预示着切尔西的新黎明。哈维·阿隆索正准备作为我们的主教练负责他的第一场比赛，包括罗杰斯在内的几名新球员都希望为蓝军上演他们的正式比赛首秀。罗杰斯可能在蓝桥待的时间不长，但他已经敏锐地意识到他和他的队友应该达到的标准。他想从一开始就为这个赛季定下基调。罗杰斯说：“这是一个过程，而且有一位新主教练，需要时间来磨合并完美适应，但我们确实希望立即开始行动。” “我们相信我们有能力、有能力做到这一点。 “球迷希望看到他们的球队达到他们期望的水平，切尔西足球俱乐部作为一个整体希望与每支球队竞争并跻身联赛榜首。这是我们的愿望和目标。 ‘这是关于保持专注，并理解这是一个旅程。它可能并不总是完美的，但只要有正确的心态，有了正确的心态，我们就会成为我们应得的位置，以及我们作为俱乐部和团队需要达到的位置。”在个人层面上，罗杰斯一直在尽快与他的新同事建立联系，以确保不浪费时间来加快速度。他还听取了有关阿隆索对他的期望的信息。未知的是本赛季英超联赛将如何发展。包括我们、曼城和利物浦在内的几家具乐部都有了新的主教练。专家们有一种感觉，这将是一个开放的分区，一如既往，任何人都可以在当天击败任何人。 “接下来是激动人心的时刻，”罗杰斯兴奋地说。 “我和其他人一样是英超球迷。我知道我在玩它，但当我不玩的时候我仍然是它的粉丝。所以我想要尽可能多的兴奋。 “没有人知道每支球队将如何安排，或者每个人将如何比赛，这很令人兴奋。这就是我们观看比赛以及热爱这项运动的原因。 “希望我们能在积分榜上名列前茅，这是我们想要的。”",
+      "images": [],
+      "video_id": null
+    },
     {
       "title": "Mory Kromah: From one world champion to another",
       "title_zh": "莫里·克罗马：从一位世界冠军到另一位世界冠军",
@@ -32,7 +45,7 @@
     },
     {
       "title": "Training ahead of Fulham 🏠",
-      "title_zh": null,
+      "title_zh": "富勒姆之前的训练🏠",
       "type": "Video",
       "category": "Video",
       "url": "https://www.chelseafc.com/en/video/training-ahead-of-fulham-a-premier-league-2026-27",
@@ -42,19 +55,6 @@
       "body_zh": null,
       "images": [],
       "video_id": "foU6nqbo"
-    },
-    {
-      "title": "Morgan Rogers: We’re confident of hitting the ground running",
-      "title_zh": "摩根·罗杰斯：我们有信心迅速起步",
-      "type": "Article",
-      "category": "Men's Team",
-      "url": "https://www.chelseafc.com/en/news/article/morgan-rogers-were-confident-of-hitting-the-ground-running",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1787159012/editorial/news/2026/08/19/morgan-rogers-training.jpg",
-      "is_gallery": false,
-      "body_en": "Chelsea have to wait until the very end of gameweek one to kick off our Premier League season. But when we do, Morgan Rogers believes the Blues are well placed to make a strong start. Our short trip to Craven Cottage to play Fulham on Monday evening follows the nine other fixtures on the opening weekend of the campaign and heralds a new dawn at Chelsea. Xabi Alonso is preparing to take charge of his first game as our manager and several new players – including Rogers – are hoping to make their competitive debut for the Blues. He may not have been at the Bridge for long, but Rogers is already acutely aware of the standards he and his team-mates are expected to meet. He wants to set the tone for the season right from the off. ‘There’s a process, and there being a new manager, it takes time to gel and fit perfectly, but we do want to hit the ground running,’ said Rogers. ‘We believe we've got the ability and the quality to. ‘The fans want to see their team perform to the level that they expect, and Chelsea Football Club as a whole expect to compete with every team and be right at the top of the league. That's our aspiration and goal. ‘It's about staying focused, and understanding it's a journey. It might not always go perfect, but with the right mentality, with the right mindset, we'll be where we deserve to be and where we need to be as a club and as a team.’ On a personal level, Rogers has been forming connections with his new colleagues as quickly as possible to ensure no time is wasted in getting up to speed. He has also taken information on board about what Alonso expects of him. What is unknown is how the Premier League will pan out this season. Several clubs, including us, Manchester City and Liverpool, have new head coaches. There is a feeling among pundits that it will be an open division and, as always, anyone can beat anyone on their day. ‘It’s exciting times ahead,’ Rogers enthused. ‘I'm as much of a Premier League fan as everyone else. I know I play in it, but I'm still a fan when I'm not playing. So I want as much excitement as possible. ‘No one knows how each team will set up or how everyone will play, and that’s exciting. That’s why we watch the game and why we love the sport. ‘And hopefully, we're in the exciting element of it at the top of the table where we want to be.’",
-      "body_zh": "切尔西必须等到第一周比赛结束才能开始我们的英超赛季。但当我们这样做时，摩根·罗杰斯相信蓝军已经做好了良好的开局准备。继本赛季首周末的其他九场比赛之后，我们周一晚上将前往克雷文小屋对阵富勒姆，这预示着切尔西的新黎明。哈维·阿隆索正准备作为我们的主教练负责他的第一场比赛，包括罗杰斯在内的几名新球员都希望为蓝军上演他们的正式比赛首秀。罗杰斯可能在蓝桥待的时间不长，但他已经敏锐地意识到他和他的队友应该达到的标准。他想从一开始就为这个赛季定下基调。罗杰斯说：“这是一个过程，而且有一位新主教练，需要时间来磨合并完美适应，但我们确实希望立即开始行动。” “我们相信我们有能力、有能力做到这一点。 “球迷希望看到他们的球队达到他们期望的水平，切尔西足球俱乐部作为一个整体希望与每支球队竞争并跻身联赛榜首。这是我们的愿望和目标。 ‘这是关于保持专注，并理解这是一个旅程。它可能并不总是完美的，但只要有正确的心态，有了正确的心态，我们就会成为我们应得的位置，以及我们作为俱乐部和团队需要达到的位置。”在个人层面上，罗杰斯一直在尽快与他的新同事建立联系，以确保不浪费时间来加快速度。他还听取了有关阿隆索对他的期望的信息。未知的是本赛季英超联赛将如何发展。包括我们、曼城和利物浦在内的几家具乐部都有了新的主教练。专家们有一种感觉，这将是一个开放的分区，一如既往，任何人都可以在当天击败任何人。 “接下来是激动人心的时刻，”罗杰斯兴奋地说。 “我和其他人一样是英超球迷。我知道我在玩它，但当我不玩的时候我仍然是它的粉丝。所以我想要尽可能多的兴奋。 “没有人知道每支球队将如何安排，或者每个人将如何比赛，这很令人兴奋。这就是我们观看比赛以及热爱这项运动的原因。 “希望我们能在积分榜上名列前茅，这是我们想要的。”",
-      "images": [],
-      "video_id": null
     },
     {
       "title": "Xabi Alonso on Levi Colwill's importance and place among world's best centre-backs",
@@ -235,7 +235,6 @@
         "http://img.chelseafc.com/image/upload/v1787253484/DTW_3819_m5vuzp.jpg",
         "http://img.chelseafc.com/image/upload/v1787254638/DTW_4003_brvrn5.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/v1787308925/editorial/news/2026/08/21/MK_-695.jpg",
         "http://img.chelseafc.com/image/upload/v1787159012/editorial/news/2026/08/19/morgan-rogers-training.jpg",
         "http://img.chelseafc.com/image/upload/v1787247416/editorial/news/2026/08/20/GettyImages-2290660237.jpg",
         "http://img.chelseafc.com/image/upload/v1787312257/editorial/stadium-views/other-clubs/Arsenal_Emirates_Stadium_aerial_view_-_April_2025.jpg",
@@ -261,7 +260,6 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787253484/DTW_3819_m5vuzp.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787254638/DTW_4003_brvrn5.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787308925/editorial/news/2026/08/21/MK_-695.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787159012/editorial/news/2026/08/19/morgan-rogers-training.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787247416/editorial/news/2026/08/20/GettyImages-2290660237.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787312257/editorial/stadium-views/other-clubs/Arsenal_Emirates_Stadium_aerial_view_-_April_2025.jpg",
@@ -666,7 +664,6 @@
         "http://img.chelseafc.com/image/upload/v1787073819/editorial/news/2026/08/18/DAR_6897.jpg",
         "http://img.chelseafc.com/image/upload/v1787073666/editorial/news/2026/08/18/DAR_6861.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/v1787308925/editorial/news/2026/08/21/MK_-695.jpg",
         "http://img.chelseafc.com/image/upload/v1549000590/asia/editorial/articles/drogba-2007-GettyImages-85605912.jpg",
         "http://img.chelseafc.com/image/upload/v1787299857/DAR_7077_qsqlmi.jpg",
         "http://img.chelseafc.com/image/upload/v1787230589/GettyImages-2285305294_dyxmqd.jpg",
@@ -696,7 +693,6 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787073819/editorial/news/2026/08/18/DAR_6897.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787073666/editorial/news/2026/08/18/DAR_6861.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787308925/editorial/news/2026/08/21/MK_-695.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1549000590/asia/editorial/articles/drogba-2007-GettyImages-85605912.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787299857/DAR_7077_qsqlmi.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787230589/GettyImages-2285305294_dyxmqd.jpg",
