@@ -1,21 +1,6 @@
 {
-  "updated": "2026-08-24T20:54:49",
+  "updated": "2026-08-24T21:17:08",
   "fixtures": [
-    {
-      "date": "Mon 24 Aug 2026",
-      "time": "20:00",
-      "competition": "Premier League",
-      "venue": "Craven Cottage",
-      "isHome": false,
-      "home": {
-        "name": "Fulham",
-        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/654.png"
-      },
-      "away": {
-        "name": "Chelsea",
-        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
-      }
-    },
     {
       "date": "Thu 27 Aug 2026",
       "time": "19:30",
