@@ -1,9 +1,22 @@
 {
-  "updated": "2026-08-25T02:54:50",
+  "updated": "2026-08-25T03:37:11",
   "count": 50,
   "gallery_count": 3,
   "translated_count": 0,
   "news": [
+    {
+      "title": "OTD: Torres ingenuity against Newcastle!",
+      "title_zh": null,
+      "type": "Video",
+      "category": "Video",
+      "url": "https://www.chelseafc.com/en/video/fernando-torres-v-newcastle-25-august-2012-on-this-day",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1661253832/video/2022/08/23/GettyImages-611408478.jpg",
+      "is_gallery": false,
+      "body_en": null,
+      "body_zh": null,
+      "images": [],
+      "video_id": "ZGOpBpPB"
+    },
     {
       "title": "Highlights: Fulham 2-3 Chelsea ",
       "title_zh": null,
@@ -827,19 +840,6 @@
       "body_zh": null,
       "images": [],
       "video_id": "nih0i8va"
-    },
-    {
-      "title": "Xabi Alonso on Levi Colwill's importance and place among world's best centre-backs",
-      "title_zh": null,
-      "type": "Article",
-      "category": "Men's Team",
-      "url": "https://www.chelseafc.com/en/news/article/xabi-alonso-levi-colwill-one-of-worlds-best-centre-backs",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1787247416/editorial/news/2026/08/20/GettyImages-2290660237.jpg",
-      "is_gallery": false,
-      "body_en": "Xabi Alonso believes a fully fit Levi Colwill is &#x27;one of the best centre-backs in the world&#x27; and insists our Academy graduate will be a key figure for the Blues during the forthcoming campaign. For much of the 2025/26 campaign, the Blues were deprived of Colwill's qualities due to a knee ligament injury sustained on the opening day of pre-season. Thankfully, the England international made a handful of appearances before our campaign was completed, and he has been working with Alonso’s squad since they reconvened at Cobham in July. Colwill featured during our tour of Australia and Asia and started on Saturday as we overcame Real Sociedad at Stamford Bridge in our final pre-season fixture. With the start of the Premier League campaign almost upon us – we open with a short trip across west London to take on neighbours Fulham on Monday evening – Alonso has discussed Colwill’s return to full fitness and what the 23-year-old adds to the side. ‘I would say that having a proper pre-season has helped him in taking the right steps in the right moment, not trying to rush it too quick because of what he had last year,' said our manager. ‘Even last year, he finished playing in a good way. And now, after pre-season, we are expecting that he feels well and that he's confident and with the fitness to have him at the next level.’ That will be music to the Chelsea supporters’ ears, so impressive have Colwill’s performances been at the heart of the Blues defence before his injury. For Alonso, the defender’s potential importance to the team during the coming campaign is clear, too. ‘If he's feeling okay, he's for me one of the best centre-backs in the world, because of his composure, because of his presence. He’s so complete, so dominant. Levi is going to be a key player for us.’",
-      "body_zh": null,
-      "images": [],
-      "video_id": null
     }
   ]
 }
