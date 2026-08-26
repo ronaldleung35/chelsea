@@ -1,9 +1,22 @@
 {
-  "updated": "2026-08-26T12:01:37",
+  "updated": "2026-08-26T13:00:26",
   "count": 50,
   "gallery_count": 3,
   "translated_count": 0,
   "news": [
+    {
+      "title": "Xabi Alonso delivers the latest Chelsea team news ahead of Luton",
+      "title_zh": null,
+      "type": "Article",
+      "category": "Men's Team",
+      "url": "https://www.chelseafc.com/en/news/article/xabi-alonso-delivers-the-latest-chelsea-team-news-ahead-of-luton-1",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1787746817/editorial/news/2026/08/26/xabi-alonso-press-conference-stock-aug26.jpg",
+      "is_gallery": false,
+      "body_en": "Xabi Alonso confirmed at his pre-match press conference that both Moises Caicedo and Marco Palestra will miss Thursday&#x2019;s Carabao Cup clash with Luton Town. The duo were both absent against Fulham on opening day, a game that the Blues won 3-2, and Alonso has announced that the duo will again sit out on Thursday, but Caicedo could return for the weekend visit of his former side Brighton. Elsewhere, the Spaniard hinting at a possible chance for goalkeeper Mike Penders to feature while he also expects Enzo Fernandez to be in the squad. ‘Not for tomorrow, both won’t make it [against Luton],’ Alonso said of Caicedo and Palestra. ‘Let’s see, hopefully Moi could make it for the weekend, but we need to check a little bit more with Marco. ‘Otherwise everyone from Monday is okay, Cole [Palmer] is absolutely fine. ‘Penders is part of the squad, so he has an opportunity. We will decide and then I am giving the team tomorrow to the players, so I prefer to respect that they know first. ‘Enzo, yes we expect him to be involved. He is training really well, he’s a good professional, and he will be involved.’",
+      "body_zh": null,
+      "images": [],
+      "video_id": null
+    },
     {
       "title": "Chelsea vs Luton: Key statistics and facts",
       "title_zh": null,
@@ -172,11 +185,11 @@
       "body_zh": null,
       "images": [
         "http://img.chelseafc.com/image/upload/v1787687736/editorial/news/2025/08/25/Danny_Welbeck_and_Estevao_Chelsea_training_August_25_2026_Crop.jpg",
+        "http://img.chelseafc.com/image/upload/v1787746817/editorial/news/2026/08/26/xabi-alonso-press-conference-stock-aug26.jpg",
         "http://img.chelseafc.com/image/upload/v1787740493/editorial/news/2026/08/26/GettyImages-1894750421.jpg",
         "http://img.chelseafc.com/image/upload/v1729587969/editorial/news/2024/10/22/axel-disasi-gent-h.jpg",
         "http://img.chelseafc.com/image/upload/v1787679379/editorial/news/2026/08/25/GettyImages-2291875764.jpg",
         "http://img.chelseafc.com/image/upload/v1761580281/editorial/stadium-views/Stamford%20Bridge/Stamford_Bridge_turnstile_digital.jpg",
-        "http://img.chelseafc.com/image/upload/v1787660677/editorial/news/2026/08/25/GettyImages-1469764099.jpg",
         "http://img.chelseafc.com/image/upload/v1787687436/editorial/news/2025/08/25/Chelsea_players_recovery_post-Fulham.jpg",
         "http://img.chelseafc.com/image/upload/v1787686867/editorial/news/2025/08/25/Maxence_Lacroix_and_Jorrel_Hato_Chelsea_training_August_25_2026.jpg",
         "http://img.chelseafc.com/image/upload/v1787686867/editorial/news/2025/08/25/Joao_Pedro_Chelsea_training_August_25_2026.jpg",
@@ -193,6 +206,7 @@
         "http://img.chelseafc.com/image/upload/v1787686868/editorial/news/2025/08/25/Aaron_Anselmino_Chelsea_training_August_25_2026.jpg",
         "http://img.chelseafc.com/image/upload/v1787686865/editorial/news/2025/08/25/Estevao_Chelsea_training_August_25_2026.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/v1787660677/editorial/news/2026/08/25/GettyImages-1469764099.jpg",
         "http://img.chelseafc.com/image/upload/v1787312257/editorial/stadium-views/other-clubs/Arsenal_Emirates_Stadium_aerial_view_-_April_2025.jpg",
         "http://img.chelseafc.com/image/upload/v1787238496/editorial/Stamford%20Bridge%20general%20shots/Stamford_Bridge_view_-_outside_West_Stand_August_2026.jpg",
         "http://img.chelseafc.com/image/upload/v1787668681/editorial/news/2026/08/25/GettyImages-2291933320.jpg",
@@ -201,17 +215,16 @@
         "http://img.chelseafc.com/image/upload/v1756227659/editorial/news/2025/08/26/Carabao_Cup_trophy.jpg",
         "http://img.chelseafc.com/image/upload/v1787615034/editorial/match-reports/2026-27/Fulham%20%28A%29/Joao_Pedro_Cole_Palmer_Morgan_Rogers.jpg",
         "http://img.chelseafc.com/image/upload/v1787521503/editorial/news/2026/08/23/omari-kellyman-pre-season-2026.jpg",
-        "http://img.chelseafc.com/image/upload/v1787603779/editorial/match-reports/2026-27/Fulham%20%28A%29/Morgan_Rogers_celebrates_against_Fulham.jpg",
-        "http://img.chelseafc.com/image/upload/v1787606362/editorial/match-reports/2026-27/Fulham%20%28A%29/Xabi_Alonso_celebrates_our_victory_at_Fulham.jpg"
+        "http://img.chelseafc.com/image/upload/v1787603779/editorial/match-reports/2026-27/Fulham%20%28A%29/Morgan_Rogers_celebrates_against_Fulham.jpg"
       ],
       "video_id": null,
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787687736/editorial/news/2025/08/25/Danny_Welbeck_and_Estevao_Chelsea_training_August_25_2026_Crop.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787746817/editorial/news/2026/08/26/xabi-alonso-press-conference-stock-aug26.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787740493/editorial/news/2026/08/26/GettyImages-1894750421.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1729587969/editorial/news/2024/10/22/axel-disasi-gent-h.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787679379/editorial/news/2026/08/25/GettyImages-2291875764.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1761580281/editorial/stadium-views/Stamford%20Bridge/Stamford_Bridge_turnstile_digital.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787660677/editorial/news/2026/08/25/GettyImages-1469764099.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787687436/editorial/news/2025/08/25/Chelsea_players_recovery_post-Fulham.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787686867/editorial/news/2025/08/25/Maxence_Lacroix_and_Jorrel_Hato_Chelsea_training_August_25_2026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787686867/editorial/news/2025/08/25/Joao_Pedro_Chelsea_training_August_25_2026.jpg",
@@ -228,6 +241,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787686868/editorial/news/2025/08/25/Aaron_Anselmino_Chelsea_training_August_25_2026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787686865/editorial/news/2025/08/25/Estevao_Chelsea_training_August_25_2026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787660677/editorial/news/2026/08/25/GettyImages-1469764099.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787312257/editorial/stadium-views/other-clubs/Arsenal_Emirates_Stadium_aerial_view_-_April_2025.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787238496/editorial/Stamford%20Bridge%20general%20shots/Stamford_Bridge_view_-_outside_West_Stand_August_2026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787668681/editorial/news/2026/08/25/GettyImages-2291933320.jpg",
@@ -236,8 +250,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1756227659/editorial/news/2025/08/26/Carabao_Cup_trophy.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787615034/editorial/match-reports/2026-27/Fulham%20%28A%29/Joao_Pedro_Cole_Palmer_Morgan_Rogers.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787521503/editorial/news/2026/08/23/omari-kellyman-pre-season-2026.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787603779/editorial/match-reports/2026-27/Fulham%20%28A%29/Morgan_Rogers_celebrates_against_Fulham.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787606362/editorial/match-reports/2026-27/Fulham%20%28A%29/Xabi_Alonso_celebrates_our_victory_at_Fulham.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787603779/editorial/match-reports/2026-27/Fulham%20%28A%29/Morgan_Rogers_celebrates_against_Fulham.jpg"
       ]
     },
     {
@@ -559,6 +572,7 @@
         "http://img.chelseafc.com/image/upload/v1787606362/editorial/match-reports/2026-27/Fulham%20%28A%29/Xabi_Alonso_celebrates_our_victory_at_Fulham.jpg",
         "http://img.chelseafc.com/image/upload/v1787605439/editorial/match-reports/2026-27/Fulham%20%28A%29/Reece_James_Chelsea_supporters_Fulham.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/v1787746817/editorial/news/2026/08/26/xabi-alonso-press-conference-stock-aug26.jpg",
         "http://img.chelseafc.com/image/upload/v1787740493/editorial/news/2026/08/26/GettyImages-1894750421.jpg",
         "http://img.chelseafc.com/image/upload/v1729587969/editorial/news/2024/10/22/axel-disasi-gent-h.jpg",
         "http://img.chelseafc.com/image/upload/v1787679379/editorial/news/2026/08/25/GettyImages-2291875764.jpg",
@@ -567,8 +581,7 @@
         "http://img.chelseafc.com/image/upload/v1787312257/editorial/stadium-views/other-clubs/Arsenal_Emirates_Stadium_aerial_view_-_April_2025.jpg",
         "http://img.chelseafc.com/image/upload/v1787238496/editorial/Stamford%20Bridge%20general%20shots/Stamford_Bridge_view_-_outside_West_Stand_August_2026.jpg",
         "http://img.chelseafc.com/image/upload/v1787687736/editorial/news/2025/08/25/Danny_Welbeck_and_Estevao_Chelsea_training_August_25_2026_Crop.jpg",
-        "http://img.chelseafc.com/image/upload/v1787668681/editorial/news/2026/08/25/GettyImages-2291933320.jpg",
-        "http://img.chelseafc.com/image/upload/v1787669954/editorial/news/2026/08/25/stamford-bridge-view-2026-cup.jpg"
+        "http://img.chelseafc.com/image/upload/v1787668681/editorial/news/2026/08/25/GettyImages-2291933320.jpg"
       ],
       "video_id": null,
       "images_local": [
@@ -594,6 +607,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787606362/editorial/match-reports/2026-27/Fulham%20%28A%29/Xabi_Alonso_celebrates_our_victory_at_Fulham.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787605439/editorial/match-reports/2026-27/Fulham%20%28A%29/Reece_James_Chelsea_supporters_Fulham.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787746817/editorial/news/2026/08/26/xabi-alonso-press-conference-stock-aug26.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787740493/editorial/news/2026/08/26/GettyImages-1894750421.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1729587969/editorial/news/2024/10/22/axel-disasi-gent-h.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787679379/editorial/news/2026/08/25/GettyImages-2291875764.jpg",
@@ -602,8 +616,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787312257/editorial/stadium-views/other-clubs/Arsenal_Emirates_Stadium_aerial_view_-_April_2025.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787238496/editorial/Stamford%20Bridge%20general%20shots/Stamford_Bridge_view_-_outside_West_Stand_August_2026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787687736/editorial/news/2025/08/25/Danny_Welbeck_and_Estevao_Chelsea_training_August_25_2026_Crop.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787668681/editorial/news/2026/08/25/GettyImages-2291933320.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787669954/editorial/news/2026/08/25/stamford-bridge-view-2026-cup.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787668681/editorial/news/2026/08/25/GettyImages-2291933320.jpg"
       ]
     },
     {
@@ -699,7 +712,7 @@
         "http://img.chelseafc.com/image/upload/v1787577546/editorial/women%27s-team/Galleries/Lola%20Brown%20renewal%20gallery/Lola_Brown_signing_gallery_7.jpg",
         "http://img.chelseafc.com/image/upload/v1787577546/editorial/women%27s-team/Galleries/Lola%20Brown%20renewal%20gallery/Lola_Brown_signing_gallery_8.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/v1787740493/editorial/news/2026/08/26/GettyImages-1894750421.jpg",
+        "http://img.chelseafc.com/image/upload/v1787746817/editorial/news/2026/08/26/xabi-alonso-press-conference-stock-aug26.jpg",
         "http://img.chelseafc.com/image/upload/v1787675691/editorial/news/2026/08/25/HLR18908_dASPtouT_copy.jpg",
         "http://img.chelseafc.com/image/upload/v1787668806/editorial/news/2026/08/25/HLR18990_1H8VXLHq_copy.jpg",
         "http://img.chelseafc.com/image/upload/v1787582477/editorial/news/2026/08/24/CFCW_ALeague_AllStars.jpg",
@@ -730,7 +743,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787577546/editorial/women%27s-team/Galleries/Lola%20Brown%20renewal%20gallery/Lola_Brown_signing_gallery_7.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787577546/editorial/women%27s-team/Galleries/Lola%20Brown%20renewal%20gallery/Lola_Brown_signing_gallery_8.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787740493/editorial/news/2026/08/26/GettyImages-1894750421.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787746817/editorial/news/2026/08/26/xabi-alonso-press-conference-stock-aug26.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787675691/editorial/news/2026/08/25/HLR18908_dASPtouT_copy.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787668806/editorial/news/2026/08/25/HLR18990_1H8VXLHq_copy.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787582477/editorial/news/2026/08/24/CFCW_ALeague_AllStars.jpg",
@@ -830,19 +843,6 @@
       "thumbnail": "http://img.chelseafc.com/image/upload/v1787502540/editorial/news/2026/08/23/chelsea-fulham-craven-cottage-2025-26-season_1.jpg",
       "is_gallery": false,
       "body_en": "A west London derby kicks off Chelsea&#x2019;s league campaign for the first time in our history with the short trip down the river for Monday&#x2019;s 8pm fixture at Fulham. This will be the fourth time the Blues’ season opens on the first day of the week – we won each of the previous three at Burnley (2014/15), home to West Ham (2016/17) and away to Brighton (2020/21). Two of those became title-winning seasons and the other ended in Champions League glory. Overall, Chelsea have won eleven of the past 14 Premier League matches played on a Monday. The World champions have also taken three points from four of the past five all-capital clashes in the top flight. Chelsea’s new manager Xabi Alonso and his Cottagers counterpart Alvaro Arbeloa have much in common. They both managed Real Madrid in 2025/26 and were Liverpool team-mates in nine historic games against the Blues, losing four and drawing three. This is the first time any manager’s Premier League bow has come against a former team-mate in that competition. The Blues’ 2-1 loss on the bank of the Thames was one of many affected by red cards last season – Marc Cucurella receiving his marching orders for denying a goalscoring opportunity after just 22 minutes. One legacy of that unhappy collection of red and yellow cards is that Wes Fofana is suspended for our opening two fixtures. 22 Man United20 Chelsea = Arsenal17 Man City16 Liverpool Chelsea have started the Premier League season with a London derby five times without defeat. A highlight of the 4-2 home win against West Ham in 2000 was a spectacular debut goal from distance by Mario Stanic, while the 3-2 at Charlton is remembered as much for red-carded Paul Konchesky’s elbow as the visitors’ Gianfranco Zola-inspired comeback and Frank Lampard’s coup de grace. The Hammers were beaten again in 2016, ushering in what would be a title-winning season under Antonio Conte. This time it was Diego Costa’s turn to settle the outcome in a 2-1 win. In 2021 Crystal Palace were the victims of a 3-0 pounding at the Bridge, Trevoh Chalobah among the goalscorers with his first for the Blues. When the same opponents rolled up in west London as FA Cup and Community Shield-winners last season, the run of wins in derby openers ended with an uneventful goalless draw. So far, all-capital clashes have accounted for 14 starts to a Chelsea league campaign. Back in 1957 at White Hart Lane, 17-year-old Jimmy Greaves made an auspicious scoring debut against Tottenham. In 1984, the Blues’ long-awaited return to the top tier was marked with an opener at Arsenal and John Neal’s newly-promoted side shared the spoils thanks to Kerry Dixon’s volleyed equaliser. - This is Chelsea's 35th campaign in the Premier League, and we are one of just six ever-present clubs in the competition. - Twenty-seven Chelsea players have scored a Premier League debut goal, most recently Christopher Nkunku at Wolves in December 2023. - The Blues have failed to win the opening Premier League game in each of the past three seasons (two draws, one loss). - However, the World champions have won six of the last eight league meetings at Craven Cottage, Fulham two. - Alonso’s first fixture outside London will be at Everton on 17 October – we will play at least seven matches across the capital before then. - Ten years ago Chelsea finished tenth in the Premier League with no European qualification but went on to win the title the following season, 2016/17. - Three Blues managers (Jose Mourinho, Carlo Ancelotti and Conte) have won the Premier League title during their debut season in charge – more than any other club. - The transfer window will close on Tuesday 1 September at 11pm UK time. - The building of the River Thames embankment near Craven Cottage stadium was carried out by contractors working for the Mears family out of Crabtree Wharf. The Mears family were later founding members of Chelsea FC.",
-      "body_zh": null,
-      "images": [],
-      "video_id": null
-    },
-    {
-      "title": "Summer transfers 2026: All the Chelsea ins, outs and new contracts so far",
-      "title_zh": null,
-      "type": "Article",
-      "category": "Men's Team",
-      "url": "https://www.chelseafc.com/en/news/article/summer-transfers-2026-all-the-chelsea-ins-outs-and-new-contracts-so-far",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1785568851/restricted/2026/Danny%20Welbeck/Danny_Welbeck_Chelsea_contract.jpg",
-      "is_gallery": false,
-      "body_en": "With the 2026 summer transfer window now open, we keep you updated with all the deals done so far this summer... Versatile midfielder Barco arrived from Strasbourg, signing a contract until 2033. He has previous experience of English football with Brighton. The 29-year-old Spaniard joined Chelsea early in August following four seasons with Rayo Vallecano. The experienced England international joined the Blues in August after leaving Brentford, agreeing a two-year deal at Stamford Bridge. Lacroix made the short journey from Crystal Palace to Chelsea towards the end of July, fresh from his involvement for France at the 2026 World Cup. Lacroix's deal lasts until 2032. The Italian international became our first signing of the summer when he joined on a permanent deal from Atalanta at the start of July. Palestra signed a contract through to 2033. The winger's move to Chelsea was first confirmed in March 2025, before officially completing his move from Sporting Lisbon this summer. The Portuguese teenager signed a contract until 2034. England international Morgan Rogers signed from Aston Villa in July 2026, penning a contract until 2033. He has played 22 times for the Three Lions, including at this summer's World Cup, and established himself as one of the top attacking talents in the Premier League. Dastan Satpayev completed a transfer to Chelsea after his 18th birthday, having been a part of our pre-season tour in Australia and Asia. He subsequently joined Burnley on loan. Joining from Brighton and Hove Albion, where he had impressed in recent seasons, striker Welbeck became our fifth signing of the summer. His contract runs to 2028. 18-year-old Bettoni joined from Wigan Athletic on a contract until 2030. The attacking midfielder featured 27 times for the Latics last season, scoring four goals. Osborne, 18, joined from Hearts in Scotland and put pen to paper on a contract with the Blues until 2030. Toby Bell signed his first professional contract. The goalkeeper made his Under-18 debut in November 2024 and has represented England throughout his development pathway. The young winger commited his long-term future to Chelsea by signing a new contract until 2032, shortly before agreeing a loan switch to swap London for Lisbon in the 2026/27 season with a spell at Sporting. Academy attacker Sol Gordon signed a new contract until 2029. Having joined Chelsea's development centre at Under-8 level, Gordon has progressed through the Academy ranks to become a regular for our Under-18s and has also featured for the Blues' Under-21s. Academy striker Jashayde Greenwood signed his first professional contract with the club following his 17th birthday and after a successful maiden campaign at Chelsea. Harrison, an Academy midfielder who established himself as a regular for our Under-21s last season as we lifted the Premier League 2 title, signed a new contract until 2029. He later joined Wimbledon on loan. Our midfielder signed his first professional contract with the Blues following his 17th birthday. He has been with our Academy since Under-8s level. Academy defender Osagie signed a new contract keeping him at the club until 2029. He established himself as an important member of our Under-21 side last season. Ahead of the campaign starting, Joao Pedro signed a new contract with Chelsea until 2034. The Brazilian netted 20 goals in his debut season at the Bridge and was voted our Player of the Year. Before joining Dulwich Hamlet on loan, Academy goalkeeper Sands signed a new three-year contract. After captaining Chelsea Under-18s to victory in the Under-18 Premier League national final in 2026, the centre-back signed his first professional contract with the Blues. The 19-year-old Academy player embarked on his first loan in August 2026, joining Ligue 1 side Strasbourg for the forthcoming campaign. The defender, who has played 71 times for the Blues, joined Napoli on loan for the season. The Argentina international joined Aston Villa on loan for 2026/27 having scored eight goals in 43 appearances in his first season at Stamford Bridge. Academy midfielder Harrison signed for League One side AFC Wimbledon for the season, embarking on his maiden loan away from the Bridge. The goalkeeper has moved to Strasbourg on loan for the season. The 17-year-old winger departed on his maiden loan spell in the senior game, signing for Portsmouth ahead of the Championship season starting. Young goalkeeper Max Merrick embarked on his third loan away from the Bridge by joining Hartlepool United of the National League for the season. He has been in our first team matchday squad on 11 occasions in recent years. Chelsea Academy defender Murray-Campbell, who made his senior Blues debut against Shamrock Rovers in the 2024/25 UEFA Conference League, will spend the coming season gaining further experience of men's football with KV Kortrijk in the Belgian first division. The defender has joined Notts County of League One for the 2026/27 campaign, following his loan spell with Swansea City last term. The young goalkeeper signed a new contract until 2029 and joined non-league side Dulwich Hamlet on a youth loan. After completing his transfer to Chelsea, the Kazakh attacker moved to Burnley on loan for the season. Walsh, who played four games for our senior team in 2025 including as a 16-year-old, will spend the season on loan at Wigan Athletic in League One this season. Wilson embarked on his first loan in senior football in July 2026, joining newly-promoted League Two side Rochdale for the forthcoming campaign. The winger left for Ipswich Town after a season playing for our Academy sides. Chalobah completed a permanent transfer to Como in August, bringing his time as a Chelsea player to an end after nearly two decades with the Blues. He won four trophies, having established himself in our first team ahead of the 2021/22 campaign. The Spaniard left for Real Madrid after four successful seasons at Stamford Bridge during which he won the Club World Cup and the UEFA Conference League, as well as helping Spain triumph in the 2024 Euros. The winger made his loan move to Everton permanent this summer, departing Chelsea after progressing through our Academy and making 37 appearances for the senior team. The versatile defender spent 13 years in our Academy having joined as an Under-8. He was released at the end of the 2025/26 season, which he spent on loan at AFC Wimbledon. The Academy forward completed a permanent move to Championship side West Bromwich Albion after impressing on loan at Peterborough last season. Morgan had returned to Chelsea, where he spent time in our Academy as a youngster, in February 2023. Olise also moved on after a decade with the club. Signed by Chelsea as an Under-9, Olise featured throughout the age groups in our Academy and was named in the first-team squad for our UEFA Conference League trip to Astana during the 2024/25 season. Runham sealed a permanent switch to Ipswich Town having spent the second half of last season on loan with the Tractor Boys. The move brought the attacking midfielder's long association with Chelsea to an end. Rak-Sakyi made four first-team appearances, all in our triumphant Conference League campaign, having developed through our Academy. The midfield was released at the expiry of his contract. The midfielder made 47 appearances for Chelsea and became a full Brazil international during his three years as a Blue. He has now completed a permanent transfer to Manchester United. The Finnish youth international's six-year spell at Chelsea ended this summer. He made his first-team debut in an FA Cup win over Leeds in March 2024, and also featured in the Premier League when he came on in a home victory against Tottenham. The young defender spent the second half of last season on loan at Brentford, featuring mainly for their reserve side, and made that switch permanent over the summer.",
       "body_zh": null,
       "images": [],
       "video_id": null
