@@ -1,21 +1,6 @@
 {
-  "updated": "2026-08-27T19:54:28",
+  "updated": "2026-08-28T03:52:50",
   "fixtures": [
-    {
-      "date": "Thu 27 Aug 2026",
-      "time": "19:30",
-      "competition": "Carabao Cup",
-      "venue": "Stamford Bridge",
-      "isHome": true,
-      "home": {
-        "name": "Chelsea",
-        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
-      },
-      "away": {
-        "name": "Luton Town",
-        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/LutonTownFC.png"
-      }
-    },
     {
       "date": "Sun 30 Aug 2026",
       "time": "14:00",
