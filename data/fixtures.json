@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T15:42:40",
+  "updated": "2026-08-29T00:06:38",
   "fixtures": [
     {
       "date": "Sun 30 Aug 2026",
@@ -29,6 +29,21 @@
       "away": {
         "name": "Chelsea",
         "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      }
+    },
+    {
+      "date": "Wed 09 Sept 2026",
+      "time": "20:00",
+      "competition": "Carabao Cup",
+      "venue": "Stamford Bridge",
+      "isHome": true,
+      "home": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
+      },
+      "away": {
+        "name": "Leeds United",
+        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/671.png"
       }
     },
     {
