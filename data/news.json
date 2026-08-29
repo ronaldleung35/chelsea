@@ -1,9 +1,22 @@
 {
-  "updated": "2026-08-29T00:06:38",
+  "updated": "2026-08-29T06:59:12",
   "count": 50,
   "gallery_count": 1,
   "translated_count": 0,
   "news": [
+    {
+      "title": "Xabi Alonso explains how 'great influence' Danny Welbeck raises standards",
+      "title_zh": null,
+      "type": "Article",
+      "category": "Men's Team",
+      "url": "https://www.chelseafc.com/en/news/article/xabi-alonso-explains-how-great-influence-danny-welbeck-raises-standards",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1787955279/editorial/news/2026/08/28/Danny_Welbeck_Chelsea.jpg",
+      "is_gallery": false,
+      "body_en": "Danny Welbeck has a history of scoring in fixtures between Chelsea and Brighton & Hove Albion. Thankfully, when the two sides meet tomorrow at Stamford Bridge, he will be trying to do so for the Blues. Before moving to the Bridge this summer, Welbeck spent six years with the Seagulls and became a thorn in the Blues' side.  He netted six goals and claimed two assists for Brighton in nine Premier League meetings with Chelsea, the most recent of which came in April. Welbeck displayed his goal-scoring instincts in a Chelsea shirt for the first time on Thursday. The 35-year-old was handed his debut in our Carabao Cup second-round tie against Luton Town, and he opened the scoring with a well-taken header. Whether Welbeck features in tomorrow's contest in west London is a decision for Blues manager Xabi Alonso. The Spaniard knows the qualities the striker provides – and is pleased Welbeck will not be lining up for Brighton on this occasion. 'I am aware [of his record in the fixture] and I am happy he is with us!' joked Alonso in his pre-match press conference. 'He has many qualities. As a player, you see how intelligent he is, and he links well. Out of the box, he is able to combine, and in the box he is very intelligent to be in the right place. We saw that [against Luton]. 'On a daily basis, he is a great influence for the rest of the players. He trains really hard and is raising all the standards in training. This is something we think is important.' While Welbeck and fellow summer arrival Jordan Henderson have brought a wealth of experience to the Blues squad, Alonso has been keen to stress the influence of several other players within the first-team group. 'They [Henderson and Welbeck] help but it’s not just them,' said Alonso. 'Reece [James], Maxence [Lacroix], Morgan [Rogers] as well. Even if they are younger, they have a good impact. 'That was a very important decision in the squad planning - that we were bringing players who add not just on the field, but are ready to compete and who don’t need much time to make an impact. We are happy with that.'",
+      "body_zh": null,
+      "images": [],
+      "video_id": null
+    },
     {
       "title": "Nicolas Jackson departs Chelsea on permanent transfer",
       "title_zh": null,
@@ -458,7 +471,7 @@
         "http://img.chelseafc.com/image/upload/v1787827350/editorial/women%27s-team/2026/August/CFCW_RSO_Aug_26_19.jpg",
         "http://img.chelseafc.com/image/upload/v1787827342/editorial/women%27s-team/2026/August/CFCW_RSO_Aug_26_18.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/v1787916404/editorial/news/2026/08/28/Nicolas_Jackson_Chelsea.jpg",
+        "http://img.chelseafc.com/image/upload/v1787955279/editorial/news/2026/08/28/Danny_Welbeck_Chelsea.jpg",
         "http://img.chelseafc.com/image/upload/v1787761464/editorial/women%27s-team/2026/August/HL3_5463_yjd8QKxO_copy.jpg",
         "http://img.chelseafc.com/image/upload/v1787686322/editorial/news/2025/08/25/Chelsea_Women_players_celebrate_against.jpg",
         "http://img.chelseafc.com/image/upload/v1787675691/editorial/news/2026/08/25/HLR18908_dASPtouT_copy.jpg",
@@ -499,7 +512,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787827350/editorial/women%27s-team/2026/August/CFCW_RSO_Aug_26_19.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787827342/editorial/women%27s-team/2026/August/CFCW_RSO_Aug_26_18.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787916404/editorial/news/2026/08/28/Nicolas_Jackson_Chelsea.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787955279/editorial/news/2026/08/28/Danny_Welbeck_Chelsea.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787761464/editorial/women%27s-team/2026/August/HL3_5463_yjd8QKxO_copy.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787686322/editorial/news/2025/08/25/Chelsea_Women_players_celebrate_against.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1787675691/editorial/news/2026/08/25/HLR18908_dASPtouT_copy.jpg",
@@ -719,19 +732,6 @@
       "body_zh": null,
       "images": [],
       "video_id": "QtBUDPL2"
-    },
-    {
-      "title": "UWCL Full Match: Chelsea 5-2 Real Sociedad",
-      "title_zh": null,
-      "type": "Video",
-      "category": "Video",
-      "url": "https://www.chelseafc.com/en/video/uwcl-full-match-chelsea-5-2-real-sociedad-2026-27",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1787792100/video/2026/08/26/FULL_Chelsea_5-2_Real_Sociedad_3rd_Qualifying_Round_UWCL_2026-27.jpg",
-      "is_gallery": false,
-      "body_en": null,
-      "body_zh": null,
-      "images": [],
-      "video_id": "Y238reWv"
     }
   ]
 }
