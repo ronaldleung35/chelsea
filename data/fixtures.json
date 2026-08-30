@@ -1,21 +1,6 @@
 {
-  "updated": "2026-08-30T12:59:51",
+  "updated": "2026-08-30T17:14:23",
   "fixtures": [
-    {
-      "date": "Sun 30 Aug 2026",
-      "time": "14:00",
-      "competition": "Premier League",
-      "venue": "Stamford Bridge",
-      "isHome": true,
-      "home": {
-        "name": "Chelsea",
-        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
-      },
-      "away": {
-        "name": "Brighton & Hove Albion",
-        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/618.png"
-      }
-    },
     {
       "date": "Sun 06 Sept 2026",
       "time": "16:30",
