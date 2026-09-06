@@ -1,21 +1,6 @@
 {
-  "updated": "2026-09-06T15:53:28",
+  "updated": "2026-09-06T17:47:44",
   "fixtures": [
-    {
-      "date": "Sun 06 Sept 2026",
-      "time": "16:30",
-      "competition": "Premier League",
-      "venue": "Emirates Stadium",
-      "isHome": false,
-      "home": {
-        "name": "Arsenal",
-        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/602.png"
-      },
-      "away": {
-        "name": "Chelsea",
-        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
-      }
-    },
     {
       "date": "Wed 09 Sept 2026",
       "time": "20:00",
