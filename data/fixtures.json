@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T06:31:39",
+  "updated": "2026-09-21T13:10:58",
   "fixtures": [
     {
       "date": "Sat 10 Oct 2026",
@@ -44,6 +44,21 @@
       "away": {
         "name": "Tottenham Hotspur",
         "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/728.png"
+      }
+    },
+    {
+      "date": "Wed 28 Oct 2026",
+      "time": "20:00",
+      "competition": "Carabao Cup",
+      "venue": "Anfield",
+      "isHome": false,
+      "home": {
+        "name": "Liverpool",
+        "crest": "https://img.chelseafc.com/image/upload/f_auto,w_300,q_90/logos/team-logos/liverpool_logo"
+      },
+      "away": {
+        "name": "Chelsea",
+        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
       }
     },
     {
