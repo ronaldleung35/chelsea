@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T13:10:58",
+  "updated": "2026-09-21T18:39:41",
   "fixtures": [
     {
       "date": "Sat 10 Oct 2026",
@@ -77,8 +77,8 @@
       }
     },
     {
-      "date": "Sat 07 Nov 2026",
-      "time": "15:00",
+      "date": "Sun 08 Nov 2026",
+      "time": "14:00",
       "competition": "Premier League",
       "venue": "Stadium of Light",
       "isHome": false,
@@ -107,8 +107,8 @@
       }
     },
     {
-      "date": "Sat 28 Nov 2026",
-      "time": "15:00",
+      "date": "Fri 27 Nov 2026",
+      "time": "20:00",
       "competition": "Premier League",
       "venue": "The City Ground",
       "isHome": false,
