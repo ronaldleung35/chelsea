@@ -1,9 +1,22 @@
 {
-  "updated": "2026-09-23T22:31:15",
+  "updated": "2026-09-24T00:45:40",
   "count": 50,
   "gallery_count": 1,
   "translated_count": 50,
   "news": [
+    {
+      "title": "UWCL Highlights: Chelsea 1-0 Austria Vienna",
+      "title_zh": "UWCL 集锦：切尔西 1-0 奥地利维也纳",
+      "type": "Video",
+      "category": "Video",
+      "url": "https://www.chelseafc.com/en/video/uwcl-highlights-chelsea-1-0-austria-vienna-2026-27",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1790204638/video/2026/09/23/3MINS_Chelsea_1-0_Austria_Vienna_League_Phase_UWCL_2026-27.jpg",
+      "is_gallery": false,
+      "body_en": null,
+      "body_zh": null,
+      "images": [],
+      "video_id": "SNxAlYJo"
+    },
     {
       "title": "Match Report: Chelsea 1-0 Austria Vienna",
       "title_zh": "比赛战报：切尔西 1-0 奥地利维也纳",
@@ -170,6 +183,19 @@
       "is_gallery": false,
       "body_en": "Summer signing Danny Welbeck is the latest player to cast his mind back to the beginning of his career and share his early football memories. What was the football match you went to? I think it was a Man City game at Maine Road. It was at Maine Road, so I was really young then. What were your first pair of football boots? They might have been the Reebok Sidewinder. A black pair of boots with a red or yellow stripe, Andy Cole wore them. I think I had the red ones then. What was the first football kit you owned? First kit I owned was a Man United kit. A replica one. It was Umbro with Sharp on the front. What was the first team you played for? My first team was Fletcher Moss Rangers. My first coach was Neil Brown at Fletcher Moss Rangers. I owe him a lot, 100 per cent. I still keep in contact with him to this day. We send messages back and forth now and then. What was the first piece of advice you remember receiving? Just to enjoy it really. It's probably silly and sounds cliche, but it was to enjoy it, and then obviously the pieces of advice developed later on down the line. Who was your first friend in football? It would probably be Rhys Brown, Wes Brown's little brother. We grew up across the road from each other and it was his dad who first took me to Fletcher Moss Rangers as well. So he'd be my first friend. Who was your first room-mate on away trips? The first team-mate I roomed with… It would have been Cameron Stewart in the United youth team, back in our academy days. Who was your first professional goal against? It was against Stoke City, the same game as my Premier League debut for Man United. When was the first time someone recognised you in public? The levels increased after that Stoke game, but there were some hardcore Man United fans who would have been following the youth team back in the day and there was MUTV and all that sort of stuff. I was still in high school when I was playing in the Youth Cup and I scored a winner to get us to final. So around the hardcore United fans who would have been watching MUTV I got spotted a couple of times. I was thinking: ‘This is crazy’! What was your first emotion when you signed for Chelsea? Just that it was a privilege, a pride and an honour.",
       "body_zh": "夏季签约的丹尼·维尔贝克是最新一位将思绪带回到职业生涯初期并分享他早期足球记忆的球员。你去看了哪场足球比赛？我认为这是曼城在缅因路举行的比赛。那是在缅因路，所以那时我还很年轻。您的第一双足球鞋是什么？它们可能是 Reebok Sidewinder。安迪·科尔穿着一双带有红色或黄色条纹的黑色靴子。我想我当时有红色的。您拥有的第一套足球装备是什么？我拥有的第一件球衣是曼联球衣。一个复制品。这是茵宝，前面是夏普。您效力的第一支球队是哪支球队？我的第一支球队是弗莱彻莫斯流浪者队。我的第一位教练是弗莱彻莫斯流浪者队的尼尔·布朗。我欠他很多，百分之一百。直到今天我仍然和他保持着联系。我们时不时地来回发送消息。您记得收到的第一条建议是什么？只是为了真正享受它。这可能很愚蠢，听起来很陈词滥调，但这是为了享受它，然后显然是后来提出的建议。你在足球界的第一个朋友是谁？这可能是韦斯·布朗的弟弟里斯·布朗。我们在马路对面长大，也是他的父亲第一个带我去弗莱彻莫斯流浪者队。所以他会是我的第一个朋友。谁是你外出旅行时的第一个室友？与我同住的第一个队友……是曼联青年队的卡梅伦·斯图尔特，那是在我们青训时期的时候。你的第一个职业进球是对阵谁？那是对阵斯托克城的比赛，也是我在曼联的英超首秀。第一次有人在公共场合认出你是什么时候？斯托克城的比赛之后，球迷的水平有所提高，但也有一些曼联的铁杆球迷，他们会在当时关注青年队，而且还有曼联电视台和诸如此类的东西。当我参加青年杯比赛时，我还在读高中，我打进了制胜球，帮助我们进入了决赛。因此，在那些一直在观看 MUTV 的铁杆曼联球迷周围，我被发现了好几次。我当时想：‘这太疯狂了’！当你加盟切尔西时，你的第一感觉是什么？只是那是一种特权、一种骄傲和一种荣誉。",
+      "images": [],
+      "video_id": null
+    },
+    {
+      "title": "Sonia Bompastor gives injury update on Keira Walsh and reflects on an 'important' three points",
+      "title_zh": "索尼娅·邦帕斯特 (Sonia Bompastor) 提供了凯拉·沃尔什 (Keira Walsh) 的最新伤情，并反思了“重要”的三分",
+      "type": "Article",
+      "category": "Women's Team",
+      "url": "https://www.chelseafc.com/en/news/article/sonia-bompastor-gives-injury-update-on-keira-walsh-and-reflects-on-an",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1790197837/editorial/women%27s-team/2026/Sept/Austria%20Vienna%20%28h%29/Bompastor_Vienna_Sep_26.jpg",
+      "is_gallery": false,
+      "body_en": "Sonia Bompastor gave details of why midfielder Keira Walsh was substituted after 20 minutes during our 1-0 win over Austria Vienna on Wednesday night, before giving her thoughts on our overall performance. Walsh had to be replaced with Lexi Potter after only 20 minutes, but as the head coach explained, the substitution was more of a precaution than for anything serious. 'We were trying to be cautious with her,' said Bompastor. 'She just felt a little bit of something in her quad, so hopefully it's not too bad. We'll assess her tomorrow (Thursday) and see if she's available for Sunday's game. 'It's too soon now for me to tell you something. I will probably know more tomorrow and so you will have to wait for the press conference.' Maika Hamano also replaced Melvine Malard at half-time during our 1-0 win, but Blues supporters need not worry about her early departure from the pitch. 'It was pre-planned,' continued the head coach. 'Today the plan was for Melvine to get 45 minutes. She didn't have a proper pre-season, so we are trying now to build her up for the next games. I think it was appropriate for her to get 45 minutes today and hopefully, she'll be fine to be available for the game on Sunday.' Despite playing in the Women's Champions League for the first time, Austria Vienna provided a stern test for Chelsea, and in fact, managed to match us in terms of shots on target as the game ended with six apiece. That was despite our superior possession of the ball, but Bompastor was not shocked by the threat they posed. 'I'm not surprised because I observed their games, especially the two games they played against Brann,' she continued. 'I think their physicality was really showcased in those two games. Tonight I put a really experienced team out to start the game, and the reason was we were expecting a tough test. 'Probably the performance is not the one we wanted to have. We could have controlled the game a little bit better in terms of maybe scoring the second goal, or killing the opposition's hope. But, you know, sometimes you need to also take what is most important, and I think tonight that was to win and to take the three points from the game. 'I think the players on these teams are able to match the intensity of a Champions League game from the beginning of the game until the end, as you could see tonight. The coaches are good in terms of the tactical aspects. When they come into the games, they are really well prepared, and they have a good game plan. 'So, as I said, nothing is easy. Tonight the most important thing was to win. To keep the clean sheet also. I think even if we conceded more situations than in our previous games, we stayed strong. We didn't concede, and that's good. I think we had a really good team performance in those aspects, in terms of mentality not to concede.' The Blues have no time to rest on the laurels of tonight's win, as we face a big London derby against Arsenal at Stamford Bridge on Sunday afternoon. Yet Bompastor was unconcerned about the turnaround time between the two fixtures and feels fully confident the team will be ready. 'We have enough time to recover for the game at the weekend,' she said. I'm not worried about that. I know we will be coming in with fresh legs and the game will be so different. And it's the London derby, so we'll be ready.' Don't miss our huge London derby clash against Arsenal at Stamford Bridge! Secure your seat now...",
+      "body_zh": "索尼娅·邦帕斯托详细介绍了周三晚上我们 1-0 战胜奥地利维也纳的比赛中，中场球员凯拉·沃尔什在 20 分钟后被换下的原因，然后给出了她对我们整体表现的看法。仅仅20分钟后，沃尔什就不得不被莱克西·波特换下，但正如主教练所解释的那样，换人更多的是一种预防措施，而不是任何严重的事情。 “我们试图对她保持谨慎，”邦帕斯特说。 “她只是感觉她的四肢有点不舒服，所以希望情况不会太糟糕。”我们将在明天（周四）对她进行评估，看看她是否可以参加周日的比赛。 “现在我告诉你一些事情还为时过早。明天我可能会知道更多，所以你必须等待新闻发布会。”在我们1-0获胜的比赛中，滨野麦卡也在半场替换了梅尔文·马拉德，但蓝军的支持者不必担心她提前离开球场。 “这是预先计划好的，”主教练继续说道。 “今天梅尔文的计划是上场 45 分钟。她没有参加适当的季前赛，所以我们现在正在努力让她为接下来的比赛做好准备。我认为她今天上场 45 分钟是合适的，希望她能顺利参加周日的比赛。”尽管是首次参加女足欧冠联赛，奥地利维也纳队还是给切尔西队带来了严峻的考验，事实上，他们在射正次数方面与我们不相上下，比赛结束时双方各打进六球。尽管我们拥有出色的控球权，但邦帕斯特并没有对他们构成的威胁感到震惊。 “我并不感到惊讶，因为我观察了他们的比赛，尤其是他们对阵布莱恩的两场比赛，”她继续说道。 “我认为他们的身体素质在这两场比赛中得到了真正的展示。今晚我派了一支非常有经验的队伍来开始比赛，原因是我们期待着一场艰难的考验。 “可能表演不是我们想要的。我们本可以更好地控制比赛，也许可以打进第二个进球，或者扼杀对手的希望。但是，你知道，有时你还需要抓住最重要的东西，我认为今晚那就是赢得比赛并从比赛中拿下三分。 “我认为这些球队的球员能够从比赛开始到结束都达到欧冠比赛的强度，正如你今晚所看到的那样。教练们在战术方面都做得很好。当他们进入比赛时，他们确实做好了充分的准备，并且有很好的比赛计划。 “所以，正如我所说，没有什么是容易的。今晚最重要的事情就是赢球。也保持零失球。我认为即使我们比之前的比赛失球更多，我们仍然保持强势。我们没有认输，这很好。我认为我们在这些方面表现得非常好，在不失球的心态方面。”蓝军没有时间满足于今晚胜利的荣誉，周日下午我们将在斯坦福桥迎战阿森纳的伦敦德比大战。然而，邦帕斯托并不关心两场比赛之间的周转时间，并且完全有信心球队会做好准备。 “我们有足够的时间为周末的比赛恢复，”她说。我对此并不担心。我知道我们会带着新鲜的球员进来，比赛将会非常不同。这是伦敦德比，所以我们会做好准备。”不要错过我们在斯坦福桥对阵阿森纳的伦敦德比大战！赶紧抢座位吧……",
       "images": [],
       "video_id": null
     },
@@ -480,6 +506,7 @@
         "http://img.chelseafc.com/image/upload/v1789915272/editorial/news/2026/09/20/GettyImages-2296132189.jpg",
         "http://img.chelseafc.com/image/upload/v1789837614/editorial/women%27s-team/2026/Sept/Birmingham%20%28h%29/Ohanian_Williams_Malard.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/v1790197837/editorial/women%27s-team/2026/Sept/Austria%20Vienna%20%28h%29/Bompastor_Vienna_Sep_26.jpg",
         "http://img.chelseafc.com/image/upload/v1790090732/editorial/news/2026/09/22/CFCW_training_Sep_26.jpg",
         "http://img.chelseafc.com/image/upload/v1790193509/editorial/news/2026/09/23/bompastor-champions-league-press-presser-conference-2026.jpg",
         "http://img.chelseafc.com/image/upload/v1677672484/editorial/news/2023/03/01/groupama-stadium-lyon-view.jpg",
@@ -487,8 +514,7 @@
         "http://img.chelseafc.com/image/upload/v1790072434/editorial/news/2026/09/22/CFCW_RSO_Aug_26_28.jpg",
         "http://img.chelseafc.com/image/upload/v1790067476/editorial/news/2026/09/22/Elise_Christian.jpg",
         "http://img.chelseafc.com/image/upload/v1788609337/editorial/women%27s-team/2026/Sept/Aston%20Villa%20%28h%29/James_VIlla_Sep_26_1.jpg",
-        "http://img.chelseafc.com/image/upload/v1789923973/editorial/news/2026/09/20/GettyImages-2293068931.jpg",
-        "http://img.chelseafc.com/image/upload/v1789922222/editorial/news/2026/09/20/GettyImages-2296044412.jpg"
+        "http://img.chelseafc.com/image/upload/v1789923973/editorial/news/2026/09/20/GettyImages-2293068931.jpg"
       ],
       "video_id": null,
       "images_local": [
@@ -528,6 +554,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1789915272/editorial/news/2026/09/20/GettyImages-2296132189.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1789837614/editorial/women%27s-team/2026/Sept/Birmingham%20%28h%29/Ohanian_Williams_Malard.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790197837/editorial/women%27s-team/2026/Sept/Austria%20Vienna%20%28h%29/Bompastor_Vienna_Sep_26.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790090732/editorial/news/2026/09/22/CFCW_training_Sep_26.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790193509/editorial/news/2026/09/23/bompastor-champions-league-press-presser-conference-2026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1677672484/editorial/news/2023/03/01/groupama-stadium-lyon-view.jpg",
@@ -535,8 +562,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790072434/editorial/news/2026/09/22/CFCW_RSO_Aug_26_28.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790067476/editorial/news/2026/09/22/Elise_Christian.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1788609337/editorial/women%27s-team/2026/Sept/Aston%20Villa%20%28h%29/James_VIlla_Sep_26_1.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1789923973/editorial/news/2026/09/20/GettyImages-2293068931.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1789922222/editorial/news/2026/09/20/GettyImages-2296044412.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1789923973/editorial/news/2026/09/20/GettyImages-2293068931.jpg"
       ]
     },
     {
@@ -720,32 +746,6 @@
       "body_zh": null,
       "images": [],
       "video_id": "9jRuoC79"
-    },
-    {
-      "title": "PL2 Highlights: Cobham Next Gen 3-1 Fulham U21",
-      "title_zh": "PL2 亮点：科巴姆下一代 3-1 富勒姆 U21",
-      "type": "Video",
-      "category": "Video",
-      "url": "https://www.chelseafc.com/en/video/pl2-highlights-cobham-next-gen-3-1-fulham-u21-19-09-26",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1789838522/video/2026/09/19/HIGHLIGHTS_U21.jpg",
-      "is_gallery": false,
-      "body_en": null,
-      "body_zh": null,
-      "images": [],
-      "video_id": "zyC5apF3"
-    },
-    {
-      "title": "Full Match: Chelsea U18 vs Bournemouth U18",
-      "title_zh": "完整比赛： 切尔西 U18 VS 伯恩茅斯 U18",
-      "type": "Video",
-      "category": "Video",
-      "url": "https://www.chelseafc.com/en/video/full-match-chelsea-u18-5-0-bournemouth-u18-19-09-26",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1789822458/video/2026/09/19/FULL_MATCH.jpg",
-      "is_gallery": false,
-      "body_en": null,
-      "body_zh": null,
-      "images": [],
-      "video_id": "DXSmzytG"
     }
   ]
 }
