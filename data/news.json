@@ -1,9 +1,22 @@
 {
-  "updated": "2026-09-26T22:45:50",
+  "updated": "2026-09-27T00:54:31",
   "count": 50,
   "gallery_count": 1,
   "translated_count": 50,
   "news": [
+    {
+      "title": "Ready for the London derby test 💪",
+      "title_zh": "准备好伦敦德比测试吧💪",
+      "type": "Video",
+      "category": "Video",
+      "url": "https://www.chelseafc.com/en/video/cfc01mstr-all-wpl-chelsea-v-arsenal-hype-film-16x9-v8-history-shot-s-8.pm",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1790462666/video/2026/09/26/GettyImages-2196095006.jpg",
+      "is_gallery": false,
+      "body_en": null,
+      "body_zh": null,
+      "images": [],
+      "video_id": "biCFnQ5T"
+    },
     {
       "title": "Internationals: Morgan Rogers features in England defeat",
       "title_zh": "国际比赛：摩根·罗杰斯在英格兰失利中发挥重要作用",
@@ -286,7 +299,7 @@
       "thumbnail": "http://img.chelseafc.com/image/upload/v1790288822/editorial/news/2026/09/24/GettyImages-2296304256.jpg",
       "is_gallery": false,
       "body_en": "Pedro Neto helped Portugal begin their Nations League campaign with a 1-0 victory over Wales. Neto started for Portugal at the Estadio Jose Alvalade in Lisbon as new head coach Jorge Jesus marked his first match in charge with three points. It was former Blue Joao Felix who broke the deadlock midway through the first half. His effort from outside the penalty area took a deflection off Ben Davies to beat Wales goalkeeper Danny Ward, and ultimately proved enough to settle the contest. Portugal were more dominant than the scoreline suggested, having 23 shots at goal to Wales' five and Neto created an opening which saw a Ronaldo effort easily saved by Ward. The former Real Madrid and Manchester United man had the ball in the back of the net early in the second half but the goal was ruled out for offside. Elsewhere, Jorrel Hato remained on the bench as the Netherlands left it late to secure a 1-1 draw with Germany in Amsterdam. Felix Nmecha put the visitors ahead after 32 minutes, but Cody Gakpo struck in the second minute of stoppage time to earn the hosts a point in their Nations League opener. Both nations are back in action on Sunday, with Hato’s Netherlands travelling to Serbia before Neto and Portugal take on Norway in Oslo.",
-      "body_zh": "佩德罗·内托帮助葡萄牙以 1-0 战胜威尔士，开启了欧国联征程。内托在里斯本的何塞阿尔瓦拉德球场为葡萄牙队首发，新任主教练豪尔赫·热苏斯在他执教的第一场比赛中拿下三分。上半场中段，前蓝军球员若昂·菲利克斯打破了僵局。他在禁区外的射门击中了本戴维斯的射门，击败了威尔士门将丹尼沃德，最终证明足以解决比赛问题。葡萄牙队比比分显示的更具统治力，有 23 次射门，威尔士只有 5 次射门，内托创造了一个空档，罗纳尔多的射门被沃德轻松扑出。这位前皇马和曼联球员在下半场一开始就将球打入网内，但进球因越位而被判无效。其他方面，哈托（Jorrel Hato）仍然坐在替补席上，荷兰队在阿姆斯特丹以 1-1 战平德国队。菲利克斯·恩梅查 (Felix Nmecha) 在第 32 分钟帮助客队取得领先，但科迪·加克波 (Cody Gakpo) 在补时第二分钟的进球为东道主在欧国联首场比赛中赢得一分。两国队将于周日重返赛场，哈托领导的荷兰队将前往塞尔维亚，然后内托和葡萄牙队将在奥斯陆迎战挪威队。",
+      "body_zh": "佩德罗·内托帮助葡萄牙以 1-0 战胜威尔士，开启了欧国联征程。内托在里斯本的何塞阿尔瓦拉德球场为葡萄牙队首发，新任主教练豪尔赫·热苏斯在他执教的第一场比赛中拿下三分。上半场中段，前蓝军球员若昂·菲利克斯打破僵局。他在禁区外的射门击中了本戴维斯的射门，击败了威尔士门将丹尼沃德，最终证明足以解决比赛问题。葡萄牙队比比分显示的更具统治力，有 23 次射门，威尔士只有 5 次射门，内托创造了一个空档，罗纳尔多的射门被沃德轻松扑出。这位前皇马和曼联球员在下半场一开始就将球打入网内，但进球因越位而被判无效。其他方面，哈托（Jorrel Hato）仍然坐在替补席上，荷兰队在阿姆斯特丹以 1-1 战平德国队。菲利克斯·恩梅查 (Felix Nmecha) 在第 32 分钟帮助客队取得领先，但科迪·加克波 (Cody Gakpo) 在补时第二分钟的进球为东道主在欧国联首场比赛中赢得一分。两国队将于周日重返赛场，哈托的荷兰队将前往塞尔维亚，然后内托和葡萄牙队将在奥斯陆迎战挪威队。",
       "images": [],
       "video_id": null
     },
@@ -709,19 +722,6 @@
       "body_zh": "切尔西足球俱乐部很高兴宣布球迷顾问委员会 (FAB) 的最新成员。经过正式选拔流程后，FAB 的三名新成员已被选出。我们很高兴地欢迎达伦·威廉姆斯、彼得·特伦特和乔恩·凯利首次来到 FAB。我们还欢迎阿尔琼·皮莱 (Arjun Pillai) 再次当选，他已成功重新担任现有职位。所有四人都被任命为两个赛季。我们收到了大量的申请，每位候选人都接受了由来自球迷群体、俱乐部董事会和足球支持者协会的独立代表组成的小组的面试。我们的最新成员将加入我们选出的代表尼尔·比尔德、特雷西·查普曼和安娜·菲利普斯的行列，他们都担任董事会的支持顾问。 2026/27赛季，FAB将继续定期与俱乐部会面，就战略举措以及对球迷情绪的影响提供建议和指导。支持者关系主管迈克尔·康纳尔 (Michael Cornall) 表示：“我们期待着乔恩、达伦和彼得加入粉丝顾问委员会。 “FAB 代表我们的支持者群体至关重要。我们很高兴欢迎我们的新成员，并期待他们的各种观点能够为我们作为一个团队的讨论做出贡献并丰富我们的讨论。”我们最新成员的简短传记如下： 彼得在切尔西的第一场比赛是在 1968 年。他是高级特许主客场季票持有者，也是切尔西支持者小组的主席。他期待着加入 FAB，并在提出影响我们热情球迷群的重要决定时代表切尔西支持者。达伦是一名退伍军人，也是切尔西的终身球迷。成为切尔西会员多年后，达伦终于实现了自己的目标，成为 2026/27 赛季流动季票持有者。他自豪地定期关注切尔西，并对自己在 FAB 中的角色感到兴奋，同时继续主客场支持俱乐部。乔恩是一位狂热的切尔西球迷，也是切尔西俱乐部季票持有者，他经常与他的三个儿子一起观看主客场比赛。 Jon 是一位拥有 20 多年行业经验的退休金融专业人士，致力于确保球迷的声音真正为整个俱乐部的决策提供意见。 Arjun 再次被任命为 FAB 成员，任期两年。他六岁时第一次观看比赛，近 20 年来一直持有季票，同时也是切尔西球场所有者的股东。 Arjun 曾在纽约和伦敦的投资银行工作。他还是布卢姆斯伯里足球基金会增长委员会主席，毕业于牛津大学。 FAB 的最新成员取代了 Zane Elmasri、Emily Kraftman 和 Mark Meehan。我们感谢三人对俱乐部的奉献和承诺。有关 FAB 的更多信息，包括最近的新闻通讯，请访问此处",
       "images": [],
       "video_id": null
-    },
-    {
-      "title": "Ultimate Goal of the Season | Group A",
-      "title_zh": "本赛季终极进球| A组",
-      "type": "Video",
-      "category": "Video",
-      "url": "https://www.chelseafc.com/en/video/ultimate-goal-of-the-season-or-group-a-sept-2026",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1790167855/video/2026/09/23/260922_ULTIMATE_GOTS_GROUP_A_V1_1.jpg",
-      "is_gallery": false,
-      "body_en": null,
-      "body_zh": null,
-      "images": [],
-      "video_id": "xuSv3OfI"
     }
   ]
 }
