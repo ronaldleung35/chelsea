@@ -1,9 +1,22 @@
 {
-  "updated": "2026-09-28T19:05:26",
+  "updated": "2026-09-28T23:48:46",
   "count": 50,
   "gallery_count": 2,
   "translated_count": 50,
   "news": [
+    {
+      "title": "Internationals: Lavia landmark but Lacroix wins battle of the Blues",
+      "title_zh": "国际比赛：拉维亚具有里程碑意义，但拉克鲁瓦赢得了蓝军之战",
+      "type": "Article",
+      "category": "Men's Team",
+      "url": "https://www.chelseafc.com/en/news/article/internationals-lavia-landmark-but-lacroix-wins-battle-of-the-blues",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1790630817/editorial/news/2026/09/28/lavia-belgium-france-full-debut.jpg",
+      "is_gallery": false,
+      "body_en": "There was Chelsea representation on both sides of the pitch as France snatched a late winner away to Belgium in UEFA Nations League action on Monday night. For the first time in his senior international career, Romeo Lavia was named in the Belgium starting line-up, anchoring the midfield in a double pivot alongside Youri Tielemans. Lavia put in an energetic performance and impressed with his defensive contributions, including a goal-line clearance. For the visitors, Maxence Lacroix helped France to a second clean sheet away from home in the space of four days, with Les Bleus emerging triumphant courtesy of substitute Michael Olise’s 88th-minute winner. The only goal arrived shortly after Lavia was replaced, while Lacroix played the full game. Mike Penders was not involved due to injury. France’s next game is at home to Italy on Friday night, the same evening Belgium host Turkey. At youth level, Chelsea Academy attacker Heze Grimwade scored the winning goal for England Under-17s as they came from behind to beat Israel 2-1 in Germany. The Young Lions equalised with 20 minutes remaining and almost immediately went ahead when substitute Grimwade finished clinically. Josh Henry and Reggie Watson both started the game – the first in a four-nation tournament – with Henry completing the 90 minutes and Watson withdrawn after England went 2-1 ahead. They next play Venezuela on Thursday.",
+      "body_zh": "周一晚上，法国队在欧洲国家联赛中客场战胜比利时队，球场两侧都有切尔西队的代表。罗密欧·拉维亚在他的国家队职业生涯中首次入选比利时首发阵容，与尤里·蒂莱曼斯一起担任中场双后腰。拉维亚的表现充满活力，他的防守贡献给人留下了深刻的印象，其中包括门线解围。对于客队来说，马克森斯·拉克鲁瓦帮助法国队在四天内第二次客场不失球，而法国队凭借替补迈克尔·奥利斯在第 88 分钟的制胜球取得了胜利。唯一的进球是在拉维亚被换下后不久打进的，而拉克鲁瓦踢满了整场比赛。迈克·潘德斯因伤没有参加比赛。法国队的下一场比赛将于周五晚上主场对阵意大利，同日晚上比利时队将主场迎战土耳其队。在青年组比赛中，切尔西青训球员赫泽·格里姆韦德为英格兰U-17队在德国以2-1逆转击败以色列队打入制胜一球。幼狮队在比赛还剩 20 分钟时扳平比分，并在替补出场的格里姆韦德冷静射门后几乎立即取得领先。乔什·亨利和雷吉·沃森双双首发——这是四国锦标赛中的第一场比赛——亨利打满了90分钟，沃森在英格兰2-1领先后退出。他们下周四将对阵委内瑞拉。",
+      "images": [],
+      "video_id": null
+    },
     {
       "title": "Analysis: How Chelsea turned the tide against Arsenal",
       "title_zh": "分析：切尔西如何力挽狂澜战胜阿森纳",
@@ -29,11 +42,11 @@
       "body_zh": null,
       "images": [
         "http://img.chelseafc.com/image/upload/v1790610224/editorial/news/2026/09/28/DSC_2199.jpg",
+        "http://img.chelseafc.com/image/upload/v1790630817/editorial/news/2026/09/28/lavia-belgium-france-full-debut.jpg",
         "http://img.chelseafc.com/image/upload/v1790591020/editorial/news/2026/09/28/gittens-england-16x9.jpg",
         "http://img.chelseafc.com/image/upload/v1790588952/editorial/news/2026/09/28/GettyImages-633782828.jpg",
         "http://img.chelseafc.com/image/upload/v1790536675/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/neto-portugal-norway.jpg",
         "http://img.chelseafc.com/image/upload/v1790258363/editorial/news/2026/09/24/GettyImages-86443864.jpg",
-        "http://img.chelseafc.com/image/upload/v1790456360/GettyImages-2297279826_1_lufgvy.jpg",
         "http://img.chelseafc.com/image/upload/v1790610217/editorial/news/2026/09/28/DSC_2129.jpg",
         "http://img.chelseafc.com/image/upload/v1790610226/editorial/news/2026/09/28/DSC_2735.jpg",
         "http://img.chelseafc.com/image/upload/v1790610226/editorial/news/2026/09/28/DSC_2665.jpg",
@@ -45,7 +58,7 @@
         "http://img.chelseafc.com/image/upload/v1790610204/editorial/news/2026/09/28/DSC_3037.jpg",
         "http://img.chelseafc.com/image/upload/v1790610192/editorial/news/2026/09/28/DSC_3047.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/v1790610846/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/GettyImages-2297405633.jpg",
+        "http://img.chelseafc.com/image/upload/v1790456360/GettyImages-2297279826_1_lufgvy.jpg",
         "http://img.chelseafc.com/image/upload/v1790415859/GettyImages-143336005_1_1_ntb9kt.jpg",
         "http://img.chelseafc.com/image/upload/v1790248176/editorial/news/2026/09/24/CL1_0771_copy_Evuqp9LP_16x9.jpg",
         "http://img.chelseafc.com/image/upload/v1790371034/editorial/news/2026/09/25/GettyImages-2296526302.jpg",
@@ -54,17 +67,16 @@
         "http://img.chelseafc.com/image/upload/v1790179166/editorial/news/2026/09/23/CL2_1536-3372501_kaVrDKAh.jpg",
         "http://img.chelseafc.com/image/upload/v1790252177/editorial/news/2026/09/24/GettyImages-611429062.jpg",
         "http://img.chelseafc.com/image/upload/v1790288822/editorial/news/2026/09/24/GettyImages-2296304256.jpg",
-        "http://img.chelseafc.com/image/upload/v1790255702/editorial/news/2026/09/24/2006-stamford-bridge-celebrations.jpg",
-        "http://img.chelseafc.com/image/upload/v1790248392/editorial/news/2026/09/24/06173_CCS2627_WA_CFCplus_Morgan-Rogers_Web-header_2400x1170.jpg"
+        "http://img.chelseafc.com/image/upload/v1790255702/editorial/news/2026/09/24/2006-stamford-bridge-celebrations.jpg"
       ],
       "video_id": null,
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790610224/editorial/news/2026/09/28/DSC_2199.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790630817/editorial/news/2026/09/28/lavia-belgium-france-full-debut.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790591020/editorial/news/2026/09/28/gittens-england-16x9.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790588952/editorial/news/2026/09/28/GettyImages-633782828.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790536675/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/neto-portugal-norway.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790258363/editorial/news/2026/09/24/GettyImages-86443864.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790456360/GettyImages-2297279826_1_lufgvy.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790610217/editorial/news/2026/09/28/DSC_2129.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790610226/editorial/news/2026/09/28/DSC_2735.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790610226/editorial/news/2026/09/28/DSC_2665.jpg",
@@ -76,7 +88,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790610204/editorial/news/2026/09/28/DSC_3037.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790610192/editorial/news/2026/09/28/DSC_3047.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790610846/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/GettyImages-2297405633.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790456360/GettyImages-2297279826_1_lufgvy.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790415859/GettyImages-143336005_1_1_ntb9kt.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790248176/editorial/news/2026/09/24/CL1_0771_copy_Evuqp9LP_16x9.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790371034/editorial/news/2026/09/25/GettyImages-2296526302.jpg",
@@ -85,8 +97,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790179166/editorial/news/2026/09/23/CL2_1536-3372501_kaVrDKAh.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790252177/editorial/news/2026/09/24/GettyImages-611429062.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790288822/editorial/news/2026/09/24/GettyImages-2296304256.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790255702/editorial/news/2026/09/24/2006-stamford-bridge-celebrations.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790248392/editorial/news/2026/09/24/06173_CCS2627_WA_CFCplus_Morgan-Rogers_Web-header_2400x1170.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790255702/editorial/news/2026/09/24/2006-stamford-bridge-celebrations.jpg"
       ]
     },
     {
@@ -323,6 +334,7 @@
         "http://img.chelseafc.com/image/upload/v1790532165/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/iw_11757.jpg",
         "http://img.chelseafc.com/image/upload/v1790533708/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/Bompastor_Arsenal_Sep_26_2.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/v1790630817/editorial/news/2026/09/28/lavia-belgium-france-full-debut.jpg",
         "http://img.chelseafc.com/image/upload/v1790525900/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/CFCW_AFCW_Sep_26_8.jpg",
         "http://img.chelseafc.com/image/upload/v1790515663/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/CFCW_AFCW_Shirts_pic_Sep_26.jpg",
         "http://img.chelseafc.com/image/upload/v1790343155/editorial/news/2026/09/25/Millie_doc.jpg",
@@ -376,6 +388,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790532165/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/iw_11757.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790533708/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/Bompastor_Arsenal_Sep_26_2.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790630817/editorial/news/2026/09/28/lavia-belgium-france-full-debut.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790525900/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/CFCW_AFCW_Sep_26_8.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790515663/editorial/women%27s-team/2026/Sept/Arsenal%20%28h%29/CFCW_AFCW_Shirts_pic_Sep_26.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1790343155/editorial/news/2026/09/25/Millie_doc.jpg",
@@ -480,7 +493,7 @@
     },
     {
       "title": "Make it a Blue Day this weekend when CFCW take on Arsenal!",
-      "title_zh": "CFCW 迎战阿森纳，让这个周末成为蓝色日！",
+      "title_zh": "让这个周末成为蓝色日，CFCW 迎战阿森纳！",
       "type": "Article",
       "category": "Women's Team",
       "url": "https://www.chelseafc.com/en/news/article/make-it-a-blue-day-when-cfcw-take-on-arsenal",
@@ -786,7 +799,7 @@
       "thumbnail": "http://img.chelseafc.com/image/upload/v1790255126/editorial/women%27s-team/2026/Sept/Austria%20Vienna%20%28h%29/Thompson_Vienna_Sep_26_2.jpg",
       "is_gallery": false,
       "body_en": "Cast your mind back to our first Women&#x2019;s Champions League match of last season. We played away at FC Twente, a team we were expected to beat comfortably, but only came away with a 1-1 draw. That result, coupled with a well-earned 1-1 stalemate against Barcelona at Stamford Bridge, meant that it came down to the last league phase match – a difficult test away at Wolfsburg – to ensure that we made it straight through to the knockout stage without having to play an extra two-legged knockout tie. And as Alyssa Thompson pointed out after our 1-0 win over Austria Vienna on Wednesday night, we are now in a better position than we were one year ago, even if the performance wasn’t one that will live long in supporters’ memories. Results in the next five league phase games are not guaranteed of course, especially with a difficult test to come away at Lyon - Sonia Bompastor’s former side. Yet all we could do last night was put three points on the board, and that’s exactly what we did. Thompson was keen to point this out after the final whistle, and described how the team dug in to secure a victory which could prove to be vital come mid-December, when the UWCL league phase concludes. ‘They were a good opponent, definitely physical,’ she said. ‘But we got the win in the end. We wanted to start the campaign with three points. We didn't do that last year, so we're starting off better than we did. ‘We had to play a little bit to their game at the end, but we won that battle, and we got the three points. We were ready for the physical fight. It turned into that, and then we knew what game we had to play. We're strong, and we know we can play different styles, so in the end we just had to fight it out. ‘We have a deep squad, and we're ready,' added Thompson. 'We showed our fight, and we have a lot of technical ability too, so once we start finishing our chances, we'll be great. ‘It's still early, but we're definitely clicking. We’ve had some injuries too, so once we get everyone back, I feel like we have a super deep squad. We're able to win games, and I think we've been playing well together, connecting, and doing well physically. ‘I feel great with the team that we have, and we know we can put up a fight and play in these physical games.' Thompson put in a strong performance on the night with three shots on goal, two of which were on target. She also completed ten passes in the final third of the pitch, dribbled the ball successfully six times (the most of any Chelsea player), won both tackles she attempted, and recovered the ball from the opposition on both occasions. Yet elite players are always looking for more from their performances, and afterwards she felt like she could’ve scored from her attempts, even though they only produced an xG (expected goals) rating of 0.12. ‘I feel like I could've finished my chances,’ Thompson continued. ‘As a forward, I always want to contribute either a goal or an assist, so I feel like I could do better in that for the team. But it was a physical game, so I did the best that I could to try to hold up the ball for the team, move the ball forward and things like that to get the win. ‘It was great for us to get the win, and it gives us a lot of momentum going into this weekend. All the girls just need to rest and recover, and we'll be good. We'll be fresh. I think we're going to play so many different teams and styles during the Champions League, so every test is great for us, and we came out with the three points, so it was a good one.’",
-      "body_zh": "让你的思绪回到我们上赛季的第一场女子冠军联赛比赛。我们客场对阵特温特队，本以为可以轻松击败这支球队，但最终只以 1-1 战平。这个结果，再加上在斯坦福桥与巴塞罗那队1-1平局，意味着我们必须在联赛阶段的最后一场比赛——客场对阵沃尔夫斯堡的一场艰难考验——才能确保我们直接进入淘汰赛阶段，而无需进行额外的两回合淘汰赛。正如艾莉莎·汤普森在周三晚上 1-0 战胜奥地利维也纳后指出的那样，我们现在的处境比一年前更好，即使这场表现不会长久留在支持者的记忆中。当然，接下来的五场联赛阶段比赛的结果并不能保证，尤其是在客场对阵索尼娅·邦帕斯托的前东家里昂的艰难考验。然而昨晚我们所能做的就是在板上拿下三分，而这正是我们所做的。汤普森在终场哨响后热衷于指出这一点，并描述了球队如何努力确保胜利，这对于 12 月中旬 UWCL 联赛阶段结束时至关重要。 “他们是一个很好的对手，绝对是身体上的，”她说。 ‘但我们最终取得了胜利。我们希望以三分开始这场比赛。去年我们没有这样做，所以我们的起步比以前更好。 “最后我们不得不跟上他们的节奏，但我们赢了那场比赛，拿到了三分。我们已经做好了身体对抗的准备。事情变成了这样，然后我们就知道我们必须玩什么游戏了。我们很强大，而且我们知道我们可以打出不同的风格，所以最后我们只能拼尽全力。 “我们有一支深度阵容，我们已经准备好了，”汤普森补充道。 “我们展示了我们的战斗力，我们也有很多技术能力，所以一旦我们开始完成我们的机会，我们就会很棒。 “现在还为时过早，但我们肯定会取得进展。我们也有一些伤病，所以一旦我们让所有人都回来，我觉得我们有一个超级深度的阵容。我们能够赢得比赛，我认为我们在一起踢得很好，相互配合，身体素质也很好。 “我对我们的球队感觉很好，我们知道我们可以在这些体育比赛中奋力拼搏。”汤普森当晚表现出色，三脚射门，其中两次射正。她还在球场的最后三分之一处完成了十次传球，六次成功带球（是所有切尔西球员中最多的），两次尝试都成功了，并两次从对手手中夺回了球。然而，精英球员总是从自己的表现中寻求更多，事后她觉得自己可以从自己的尝试中得分，尽管他们的xG（预期进球）评分仅为0.12。 “我觉得我已经完成了我的机会，”汤普森继续说道。 “作为一名前锋，我总是想贡献一个进球或一次助攻，所以我觉得我可以在这方面为球队做得更好。但这是一场身体对抗的比赛，所以我尽了最大努力为球队控球、向前推进等等，以赢得胜利。 “赢得胜利对我们来说很棒，这给了我们进入这个周末的动力。所有的女孩都需要休息和恢复，我们会没事的。我们就会有新鲜感。我认为我们在冠军联赛期间将对阵许多不同的球队和风格，所以每一次测试对我们来说都很棒，我们拿下了三分，所以这是一个很好的测试。",
+      "body_zh": "让你的思绪回到我们上赛季的第一场女子冠军联赛比赛。我们客场对阵特温特队，本以为可以轻松击败这支球队，但最终只以 1-1 战平。这个结果，再加上在斯坦福桥与巴塞罗那队1-1平局，意味着我们必须在联赛阶段的最后一场比赛——客场对阵沃尔夫斯堡的一场艰难考验——才能确保我们直接进入淘汰赛阶段，而无需进行额外的两回合淘汰赛。正如艾莉莎·汤普森在周三晚上 1-0 战胜奥地利维也纳后指出的那样，我们现在的处境比一年前更好，即使这场表现不会长久留在支持者的记忆中。当然，接下来的五场联赛阶段比赛的结果并不能保证，尤其是在客场对阵索尼娅·邦帕斯托的前东家里昂的艰难考验。然而昨晚我们所能做的就是在板上拿下三分，而这正是我们所做的。汤普森在终场哨响后热衷于指出这一点，并描述了球队如何努力确保胜利，这对于 12 月中旬 UWCL 联赛阶段结束时至关重要。 “他们是一个很好的对手，绝对是身体上的，”她说。 ‘但我们最终取得了胜利。我们希望以三分开始这场比赛。去年我们没有这样做，所以我们的起步比以前更好。 “最后我们不得不跟上他们的节奏，但我们赢了那场比赛，拿到了三分。我们已经做好了身体对抗的准备。事情变成了这样，然后我们就知道我们必须玩什么游戏了。我们很强大，而且我们知道我们可以打出不同的风格，所以最后我们只能拼尽全力。 “我们有一支深度阵容，我们已经准备好了，”汤普森补充道。 “我们展示了我们的战斗力，我们也有很多技术能力，所以一旦我们开始完成我们的机会，我们就会很棒。 “现在还为时过早，但我们肯定会取得进展。我们也有一些伤病，所以一旦我们让所有人都回来，我觉得我们有一个超级深度的阵容。我们能够赢得比赛，我认为我们在一起踢得很好，相互配合，身体素质也很好。 “我对我们的球队感觉很好，我们知道我们可以在这些体育比赛中奋力拼搏。”汤普森当晚表现出色，三脚射门，其中两脚命中目标。她还在球场的最后三分之一处完成了十次传球，六次成功带球（是所有切尔西球员中最多的），两次尝试都成功了，并两次从对手手中夺回了球。然而，精英球员总是从自己的表现中寻求更多，事后她觉得自己可以从自己的尝试中得分，尽管他们的xG（预期进球）评分仅为0.12。 “我觉得我已经完成了我的机会，”汤普森继续说道。 “作为一名前锋，我总是想贡献一个进球或一次助攻，所以我觉得我可以在这方面为球队做得更好。但这是一场身体对抗的比赛，所以我尽了最大努力为球队控球、向前推进等等，以赢得胜利。 “赢得胜利对我们来说很棒，这给了我们进入这个周末的动力。所有的女孩都需要休息和恢复，我们会没事的。我们就会有新鲜感。我认为我们在冠军联赛期间将对阵许多不同的球队和风格，所以每一次测试对我们来说都很棒，我们拿下了三分，所以这是一个很好的测试。",
       "images": [],
       "video_id": null
     },
@@ -799,20 +812,7 @@
       "thumbnail": "http://img.chelseafc.com/image/upload/v1790331542/editorial/news/2026/09/25/Grimwade_ENGU17-v-ROIU17-297.jpg",
       "is_gallery": false,
       "body_en": "Chelsea duo Heze Grimwade and Josh Henry scored for England U17s to help Barry Lewtas&#x2019; side to a 5-1 win against Republic of Ireland at St George&#x2019;s Park. The Young Lions were captained by Chelsea’s Reggie Watson and dominated the contest, giving them a vital boost ahead of their trip to Germany for a three-match tournament. Grimwade (pictured top) broke the deadlock in the 23rd minute with an outstanding left-footed half-volley. His fantastic strike kissed the right post on its way into the back of the net to hand England the initial advantage. In the second half, the floodgates opened and fellow Chelsea Under-18 player Henry got his name on the scoresheet. The centre-half extended England’s lead, converting his team-mate’s cross with a well-taken header to make it 3-0. Lewtas’ side will now head to Wedau, Duisburg to face Israel, Venezuela and hosts Germany. Over in Alicante, Alfie Osborne captained Scotland Under-19s as they beat Finland 3-1 under new Head Coach Tam Courts. The summer signing is set to feature in a total of three friendly matches in this international break. Up next, Scotland will face Czechia before concluding their Spanish tour with a game against Ukraine.",
-      "body_zh": "切尔西二人组赫泽·格里姆韦德和约什·亨利为英格兰 U17 队进球，帮助巴里·卢塔斯的球队在圣乔治公园以 5-1 战胜爱尔兰共和国。幼狮队由切尔西队的雷吉·沃森担任队长，统治了比赛，为他们前往德国参加三场比赛之前提供了重要的推动力。格里姆韦德（上图）在第23分钟以一脚出色的左脚半抽射打破僵局。他的精彩射门在进入网后时亲吻了右门柱，为英格兰队带来了最初的优势。下半场，闸门打开，切尔西 18 岁以下球员亨利的名字出现在进球表上。这位中后卫扩大了英格兰队的领先优势，他接队友的传中，头球攻门，将比分改写为3-0。莱塔斯的球队现在将前往杜伊斯堡韦杜迎战以色列、委内瑞拉和东道主德国。在阿利坎特，阿尔菲·奥斯本 (Alfie Osborne) 担任苏格兰 19 岁以下国家队队长，在新任主教练塔姆·考特斯 (Tam Courts) 的带领下，苏格兰 3-1 击败芬兰。这名夏季签约球员将在国际比赛日期间参加总共三场友谊赛。接下来，苏格兰将迎战捷克队，然后以一场对阵乌克兰的比赛结束他们的西班牙之旅。",
-      "images": [],
-      "video_id": null
-    },
-    {
-      "title": "Chelsea’s Ultimate Goal of the Season: Group A results",
-      "title_zh": "切尔西本赛季的终极目标：A 组结果",
-      "type": "Article",
-      "category": "Men's Team",
-      "url": "https://www.chelseafc.com/en/news/article/chelseas-ultimate-goal-of-the-season-group-a-results",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1790255702/editorial/news/2026/09/24/2006-stamford-bridge-celebrations.jpg",
-      "is_gallery": false,
-      "body_en": "The results are in for the opening round of Chelsea&#x27;s Ultimate Goal of the Season competition, with Michael Essien and Eden Hazard securing the top two spots in Group A to progress to the quarter-finals. The vote, featuring five spectacular strikes spanning two decades of Goal of the Season winners, was contested on the Chelsea Official App and it was Essien and Hazard who came out on top. Both goals were iconic late equalisers against London rivals at Stamford Bridge. Essien’s swerving bolt from the blue earned us a point in a 1-1 draw with Arsenal, while Hazard’s unstoppable top-corner finish against Tottenham sealed the fate of the title race in 2016. The two winners beat off Goal of the Season winners from Oscar (2015), Fikayo Tomori (2020), and Pedro Neto (2025). The hunt for Chelsea’s Ultimate Goal of the Season continues tomorrow (Friday) as we open the polls for Group B, so you make sure you log back in to the Chelsea Official App to watch the contenders and cast your vote!",
-      "body_zh": "切尔西赛季终极进球比赛的首轮比赛结果已出炉，迈克尔·埃辛和伊登·阿扎尔包揽了 A 组前两名，晋级四分之一决赛。此次投票在切尔西官方应用程序上进行，其中包括二十年来赛季最佳进球得主的五次精彩进球，最终埃辛和阿扎尔脱颖而出。在斯坦福桥对阵伦敦对手的比赛中，这两个进球都是标志性的最后时刻扳平比分的进球。埃辛的灵光一闪为我们在 1-1 战平阿森纳的比赛中赢得一分，而阿扎尔在对阵托特纳姆热刺的比赛中不可阻挡的上角射门决定了 2016 年冠军争夺战的命运。这两位获奖者击败了奥斯卡（2015 年）、菲卡约·托莫里（2020 年）和佩德罗·内托（2025 年）的赛季最佳进球得主。明天（周五）我们将继续争夺切尔西赛季最佳进球，届时我们将开启 B 组投票，因此请务必重新登录切尔西官方应用程序，观看竞争者并投票！",
+      "body_zh": "切尔西二人组赫泽·格里姆韦德和约什·亨利为英格兰 U17 队进球，帮助巴里·卢塔斯的球队在圣乔治公园以 5-1 战胜爱尔兰共和国。幼狮队由切尔西队的雷吉·沃森担任队长，统治了比赛，为他们前往德国参加三场比赛之前提供了重要的推动力。格里姆韦德（上图）在第23分钟以一脚出色的左脚半抽射打破僵局。他的精彩射门在进入网后时亲吻了右门柱，为英格兰队带来了最初的优势。下半场，闸门打开，切尔西 18 岁以下球员亨利的名字出现在进球表上。这位中后卫扩大了英格兰队的领先优势，他接队友的传中，头球攻门，将比分改写为3-0。莱塔斯的球队现在将前往杜伊斯堡韦杜迎战以色列、委内瑞拉和东道主德国。在阿利坎特，阿尔菲·奥斯本 (Alfie Osborne) 担任苏格兰 19 岁以下国家队队长，在新任主教练塔姆·考特斯 (Tam Courts) 的带领下，苏格兰 3-1 击败了芬兰队。这名夏季签约球员将在国际比赛日期间参加总共三场友谊赛。接下来，苏格兰将迎战捷克队，然后以一场对阵乌克兰的比赛结束他们的西班牙之旅。",
       "images": [],
       "video_id": null
     }
