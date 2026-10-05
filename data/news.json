@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T21:57:10",
+  "updated": "2026-10-05T00:21:14",
   "count": 50,
   "gallery_count": 4,
   "translated_count": 50,
@@ -185,11 +185,11 @@
       "video_id": "gvyfUr8r"
     },
     {
-      "title": "WSL Full Match: West Ham Women 0-3 Chelsea Women",
-      "title_zh": "WSL全场比赛：西汉姆女足0-3切尔西女足",
+      "title": "WSL Full Match: West Ham Women vs Chelsea Women",
+      "title_zh": "WSL 完整比赛：西汉姆女足 VS 切尔西女足",
       "type": "Video",
       "category": "Video",
-      "url": "https://www.chelseafc.com/en/video/wsl-full-match-west-ham-women-0-3-chelsea-women-2026-27",
+      "url": "https://www.chelseafc.com/en/video/wsl-full-match-west-ham-women-vs-chelsea-women-2026-27",
       "thumbnail": "http://img.chelseafc.com/image/upload/v1791136920/video/2026/10/04/FULL_West_Ham_0-3_Chelsea_WSL_2026-27.jpg",
       "is_gallery": false,
       "body_en": null,
