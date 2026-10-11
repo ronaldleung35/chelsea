@@ -1,9 +1,22 @@
 {
-  "updated": "2026-10-11T00:42:48",
+  "updated": "2026-10-11T06:27:24",
   "count": 50,
   "gallery_count": 4,
   "translated_count": 0,
   "news": [
+    {
+      "title": "Xabi Alonso highlights impact of 'very complete modern player' Morgan Rogers",
+      "title_zh": null,
+      "type": "Article",
+      "category": "Men's Team",
+      "url": "https://www.chelseafc.com/en/news/article/xabi-alonso-highlights-impact-of-very-complete-modern-player-morgan-rogers",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1791664238/editorial/match-reports/2026-27/Bournemouth%20home/Morgan_Rogers_Chelsea_celebrates_against_Bournemouth.jpg",
+      "is_gallery": false,
+      "body_en": "Xabi Alonso described Morgan Rogers as a &#x2018;very complete modern player&#x2019; after the England international struck his fourth Chelsea goal in our 5-1 win against Bournemouth. Signed from Aston Villa this summer, Rogers has needed little time to settle into his new surroundings at Stamford Bridge despite undertaking a truncated pre-season after helping the Three Lions finish third at this summer's World Cup. The 24-year-old netted on his Blues debut on the opening weekend against Fulham and has also scored away at Arsenal, in our draw with Hull City and in yesterday’s win over the Cherries. Rogers has also registered four assists in his eight Chelsea appearances. It's a testament to Rogers' fitness that despite his workload over the past year – he has played more than 70 games for club and country since the start of last season – he continues to have a decisive impact in games. That point was made to Alonso after our latest victory, and the Blues manager responded by highlighting Rogers' durability and the strong connections he has already built at Stamford Bridge. 'No, [his form isn't a surprise] because he is young, he’s fresh, he’s strong and he’s quick – he is a very complete modern football player,' explained Alonso in his post-match press conference. 'His availability is also very high and this is very important. He looks fresh and he is enjoying [his football] because he’s a great guy and is connecting very well with his team-mates, and with everyone. 'He is having a great impact on the team and the club.'",
+      "body_zh": null,
+      "images": [],
+      "video_id": null
+    },
     {
       "title": "Extended: Chelsea 5-1 Bournemouth",
       "title_zh": null,
@@ -55,11 +68,11 @@
       "body_zh": null,
       "images": [
         "http://img.chelseafc.com/image/upload/v1791662975/editorial/match-reports/2026-27/Bournemouth%20home/00.GettyImages-2299534556.jpg",
+        "http://img.chelseafc.com/image/upload/v1791664238/editorial/match-reports/2026-27/Bournemouth%20home/Morgan_Rogers_Chelsea_celebrates_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791657075/editorial/match-reports/2026-27/Bournemouth%20home/GettyImages-2299534923.jpg",
         "http://img.chelseafc.com/image/upload/v1791655388/editorial/match-reports/2026-27/Bournemouth%20home/Cole_Palmer_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791651367/editorial/match-reports/2026-27/Bournemouth%20home/Xabi_Alonso_Chelsea_manager_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg",
-        "http://img.chelseafc.com/image/upload/v1791639160/editorial/news/2026/10/10/Xabi_Alonso_Chelsea_arrival_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791654214/video/2026/10/10/HIGHLIGHTS-bournemouth.png",
         "http://img.chelseafc.com/image/upload/v1791662975/editorial/match-reports/2026-27/Bournemouth%20home/01.GettyImages-2299513547.jpg",
         "http://img.chelseafc.com/image/upload/v1791662986/editorial/match-reports/2026-27/Bournemouth%20home/02.GettyImages-2299516926.jpg",
@@ -92,7 +105,7 @@
         "http://img.chelseafc.com/image/upload/v1791662997/editorial/match-reports/2026-27/Bournemouth%20home/29.GettyImages-2299538377.jpg",
         "http://img.chelseafc.com/image/upload/v1791662997/editorial/match-reports/2026-27/Bournemouth%20home/30.GettyImages-2299537749.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/v1791666129/editorial/news/2026/10/10/Melvine_Malard_France.jpg",
+        "http://img.chelseafc.com/image/upload/v1791639160/editorial/news/2026/10/10/Xabi_Alonso_Chelsea_arrival_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791635977/editorial/news/2026/10/10/Chelsea_shirts_dressing_room_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791620593/restricted/2026/Cole%20Palmer%20contract/DAR_4056.jpg",
         "http://img.chelseafc.com/image/upload/v1791553670/editorial/news/2026/10/09/00_250713_GettyImages-2224319029.jpg",
@@ -101,17 +114,16 @@
         "http://img.chelseafc.com/image/upload/v1791559653/editorial/news/2026/10/09/caicedo-alonso-oct-2026.jpg",
         "http://img.chelseafc.com/image/upload/v1791559459/editorial/news/2026/10/09/DTW_1284.jpg",
         "http://img.chelseafc.com/image/upload/v1791539681/GettyImages-2296030908_klv1mv.jpg",
-        "http://img.chelseafc.com/image/upload/v1791561785/DAR_3924_1_ctysbr.jpg",
-        "http://img.chelseafc.com/image/upload/v1791556274/editorial/news/2026/10/09/DSC_8497.jpg"
+        "http://img.chelseafc.com/image/upload/v1791561785/DAR_3924_1_ctysbr.jpg"
       ],
       "video_id": null,
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791662975/editorial/match-reports/2026-27/Bournemouth%20home/00.GettyImages-2299534556.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791664238/editorial/match-reports/2026-27/Bournemouth%20home/Morgan_Rogers_Chelsea_celebrates_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791657075/editorial/match-reports/2026-27/Bournemouth%20home/GettyImages-2299534923.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791655388/editorial/match-reports/2026-27/Bournemouth%20home/Cole_Palmer_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791651367/editorial/match-reports/2026-27/Bournemouth%20home/Xabi_Alonso_Chelsea_manager_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791639160/editorial/news/2026/10/10/Xabi_Alonso_Chelsea_arrival_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791654214/video/2026/10/10/HIGHLIGHTS-bournemouth.png",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791662975/editorial/match-reports/2026-27/Bournemouth%20home/01.GettyImages-2299513547.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791662986/editorial/match-reports/2026-27/Bournemouth%20home/02.GettyImages-2299516926.jpg",
@@ -144,7 +156,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791662997/editorial/match-reports/2026-27/Bournemouth%20home/29.GettyImages-2299538377.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791662997/editorial/match-reports/2026-27/Bournemouth%20home/30.GettyImages-2299537749.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791666129/editorial/news/2026/10/10/Melvine_Malard_France.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791639160/editorial/news/2026/10/10/Xabi_Alonso_Chelsea_arrival_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791635977/editorial/news/2026/10/10/Chelsea_shirts_dressing_room_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791620593/restricted/2026/Cole%20Palmer%20contract/DAR_4056.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791553670/editorial/news/2026/10/09/00_250713_GettyImages-2224319029.jpg",
@@ -153,8 +165,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791559653/editorial/news/2026/10/09/caicedo-alonso-oct-2026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791559459/editorial/news/2026/10/09/DTW_1284.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791539681/GettyImages-2296030908_klv1mv.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791561785/DAR_3924_1_ctysbr.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791556274/editorial/news/2026/10/09/DSC_8497.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791561785/DAR_3924_1_ctysbr.jpg"
       ]
     },
     {
@@ -325,11 +336,11 @@
       "body_zh": null,
       "images": [
         "http://img.chelseafc.com/image/upload/v1791553670/editorial/news/2026/10/09/00_250713_GettyImages-2224319029.jpg",
+        "http://img.chelseafc.com/image/upload/v1791664238/editorial/match-reports/2026-27/Bournemouth%20home/Morgan_Rogers_Chelsea_celebrates_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791662975/editorial/match-reports/2026-27/Bournemouth%20home/00.GettyImages-2299534556.jpg",
         "http://img.chelseafc.com/image/upload/v1791657075/editorial/match-reports/2026-27/Bournemouth%20home/GettyImages-2299534923.jpg",
         "http://img.chelseafc.com/image/upload/v1791655388/editorial/match-reports/2026-27/Bournemouth%20home/Cole_Palmer_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791651367/editorial/match-reports/2026-27/Bournemouth%20home/Xabi_Alonso_Chelsea_manager_against_Bournemouth.jpg",
-        "http://img.chelseafc.com/image/upload/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791553670/editorial/news/2026/10/09/01_230901_GettyImages-1652367725.jpg",
         "http://img.chelseafc.com/image/upload/v1791549898/editorial/news/2026/10/09/GettyImages-1722500125.jpg",
         "http://img.chelseafc.com/image/upload/v1791553670/editorial/news/2026/10/09/03_240330_GettyImages-2125321872.jpg",
@@ -363,7 +374,7 @@
         "http://img.chelseafc.com/image/upload/v1791553696/editorial/news/2026/10/09/29_260909_GettyImages-2293846469.jpg",
         "http://img.chelseafc.com/image/upload/v1791576983/restricted/2026/Cole%20Palmer%20contract/DAR_4027.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/v1791666129/editorial/news/2026/10/10/Melvine_Malard_France.jpg",
+        "http://img.chelseafc.com/image/upload/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791639160/editorial/news/2026/10/10/Xabi_Alonso_Chelsea_arrival_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791635977/editorial/news/2026/10/10/Chelsea_shirts_dressing_room_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791620593/restricted/2026/Cole%20Palmer%20contract/DAR_4056.jpg",
@@ -372,17 +383,16 @@
         "http://img.chelseafc.com/image/upload/v1791559653/editorial/news/2026/10/09/caicedo-alonso-oct-2026.jpg",
         "http://img.chelseafc.com/image/upload/v1791559459/editorial/news/2026/10/09/DTW_1284.jpg",
         "http://img.chelseafc.com/image/upload/v1791539681/GettyImages-2296030908_klv1mv.jpg",
-        "http://img.chelseafc.com/image/upload/v1791561785/DAR_3924_1_ctysbr.jpg",
-        "http://img.chelseafc.com/image/upload/v1791556274/editorial/news/2026/10/09/DSC_8497.jpg"
+        "http://img.chelseafc.com/image/upload/v1791561785/DAR_3924_1_ctysbr.jpg"
       ],
       "video_id": null,
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791553670/editorial/news/2026/10/09/00_250713_GettyImages-2224319029.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791664238/editorial/match-reports/2026-27/Bournemouth%20home/Morgan_Rogers_Chelsea_celebrates_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791662975/editorial/match-reports/2026-27/Bournemouth%20home/00.GettyImages-2299534556.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791657075/editorial/match-reports/2026-27/Bournemouth%20home/GettyImages-2299534923.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791655388/editorial/match-reports/2026-27/Bournemouth%20home/Cole_Palmer_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791651367/editorial/match-reports/2026-27/Bournemouth%20home/Xabi_Alonso_Chelsea_manager_against_Bournemouth.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791553670/editorial/news/2026/10/09/01_230901_GettyImages-1652367725.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791549898/editorial/news/2026/10/09/GettyImages-1722500125.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791553670/editorial/news/2026/10/09/03_240330_GettyImages-2125321872.jpg",
@@ -416,7 +426,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791553696/editorial/news/2026/10/09/29_260909_GettyImages-2293846469.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791576983/restricted/2026/Cole%20Palmer%20contract/DAR_4027.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791666129/editorial/news/2026/10/10/Melvine_Malard_France.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791639160/editorial/news/2026/10/10/Xabi_Alonso_Chelsea_arrival_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791635977/editorial/news/2026/10/10/Chelsea_shirts_dressing_room_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791620593/restricted/2026/Cole%20Palmer%20contract/DAR_4056.jpg",
@@ -425,8 +435,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791559653/editorial/news/2026/10/09/caicedo-alonso-oct-2026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791559459/editorial/news/2026/10/09/DTW_1284.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791539681/GettyImages-2296030908_klv1mv.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791561785/DAR_3924_1_ctysbr.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791556274/editorial/news/2026/10/09/DSC_8497.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791561785/DAR_3924_1_ctysbr.jpg"
       ]
     },
     {
@@ -571,11 +580,11 @@
       "body_zh": null,
       "images": [
         "http://img.chelseafc.com/image/upload/v1791561785/DAR_3924_1_ctysbr.jpg",
+        "http://img.chelseafc.com/image/upload/v1791664238/editorial/match-reports/2026-27/Bournemouth%20home/Morgan_Rogers_Chelsea_celebrates_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791662975/editorial/match-reports/2026-27/Bournemouth%20home/00.GettyImages-2299534556.jpg",
         "http://img.chelseafc.com/image/upload/v1791657075/editorial/match-reports/2026-27/Bournemouth%20home/GettyImages-2299534923.jpg",
         "http://img.chelseafc.com/image/upload/v1791655388/editorial/match-reports/2026-27/Bournemouth%20home/Cole_Palmer_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791651367/editorial/match-reports/2026-27/Bournemouth%20home/Xabi_Alonso_Chelsea_manager_against_Bournemouth.jpg",
-        "http://img.chelseafc.com/image/upload/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791560512/DTW_4707_u4bo68.jpg",
         "http://img.chelseafc.com/image/upload/v1791560514/DAZ_4084_httnxr.jpg",
         "http://img.chelseafc.com/image/upload/v1791560514/DTW_4375_dubqsn.jpg",
@@ -587,7 +596,7 @@
         "http://img.chelseafc.com/image/upload/v1791560512/DTW_4732_m7jyy2.jpg",
         "http://img.chelseafc.com/image/upload/v1791560935/DTW_4368_1_bmvyyh.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/v1791666129/editorial/news/2026/10/10/Melvine_Malard_France.jpg",
+        "http://img.chelseafc.com/image/upload/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791639160/editorial/news/2026/10/10/Xabi_Alonso_Chelsea_arrival_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791635977/editorial/news/2026/10/10/Chelsea_shirts_dressing_room_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791620593/restricted/2026/Cole%20Palmer%20contract/DAR_4056.jpg",
@@ -595,17 +604,16 @@
         "http://img.chelseafc.com/image/upload/v1791571687/editorial/news/2026/10/09/GettyImages-2294855822.jpg",
         "http://img.chelseafc.com/image/upload/v1791559653/editorial/news/2026/10/09/caicedo-alonso-oct-2026.jpg",
         "http://img.chelseafc.com/image/upload/v1791559459/editorial/news/2026/10/09/DTW_1284.jpg",
-        "http://img.chelseafc.com/image/upload/v1791539681/GettyImages-2296030908_klv1mv.jpg",
-        "http://img.chelseafc.com/image/upload/v1791556274/editorial/news/2026/10/09/DSC_8497.jpg"
+        "http://img.chelseafc.com/image/upload/v1791539681/GettyImages-2296030908_klv1mv.jpg"
       ],
       "video_id": null,
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791561785/DAR_3924_1_ctysbr.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791664238/editorial/match-reports/2026-27/Bournemouth%20home/Morgan_Rogers_Chelsea_celebrates_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791662975/editorial/match-reports/2026-27/Bournemouth%20home/00.GettyImages-2299534556.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791657075/editorial/match-reports/2026-27/Bournemouth%20home/GettyImages-2299534923.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791655388/editorial/match-reports/2026-27/Bournemouth%20home/Cole_Palmer_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791651367/editorial/match-reports/2026-27/Bournemouth%20home/Xabi_Alonso_Chelsea_manager_against_Bournemouth.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791560512/DTW_4707_u4bo68.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791560514/DAZ_4084_httnxr.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791560514/DTW_4375_dubqsn.jpg",
@@ -617,7 +625,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791560512/DTW_4732_m7jyy2.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791560935/DTW_4368_1_bmvyyh.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791666129/editorial/news/2026/10/10/Melvine_Malard_France.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791639160/editorial/news/2026/10/10/Xabi_Alonso_Chelsea_arrival_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791635977/editorial/news/2026/10/10/Chelsea_shirts_dressing_room_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791620593/restricted/2026/Cole%20Palmer%20contract/DAR_4056.jpg",
@@ -625,8 +633,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791571687/editorial/news/2026/10/09/GettyImages-2294855822.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791559653/editorial/news/2026/10/09/caicedo-alonso-oct-2026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791559459/editorial/news/2026/10/09/DTW_1284.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791539681/GettyImages-2296030908_klv1mv.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791556274/editorial/news/2026/10/09/DSC_8497.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791539681/GettyImages-2296030908_klv1mv.jpg"
       ]
     },
     {
@@ -771,11 +778,11 @@
       "body_zh": null,
       "images": [
         "http://img.chelseafc.com/image/upload/v1791468556/editorial/news/2026/10/08/Estevao_DTW_3515.jpg",
+        "http://img.chelseafc.com/image/upload/v1791664238/editorial/match-reports/2026-27/Bournemouth%20home/Morgan_Rogers_Chelsea_celebrates_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791662975/editorial/match-reports/2026-27/Bournemouth%20home/00.GettyImages-2299534556.jpg",
         "http://img.chelseafc.com/image/upload/v1791657075/editorial/match-reports/2026-27/Bournemouth%20home/GettyImages-2299534923.jpg",
         "http://img.chelseafc.com/image/upload/v1791655388/editorial/match-reports/2026-27/Bournemouth%20home/Cole_Palmer_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791651367/editorial/match-reports/2026-27/Bournemouth%20home/Xabi_Alonso_Chelsea_manager_against_Bournemouth.jpg",
-        "http://img.chelseafc.com/image/upload/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791468560/editorial/news/2026/10/08/Chavarria_DAR_0688.jpg",
         "http://img.chelseafc.com/image/upload/v1791468556/editorial/news/2026/10/08/Estevao_DAR_2287.jpg",
         "http://img.chelseafc.com/image/upload/v1791468550/editorial/news/2026/10/08/Alonso_DTW_3901.jpg",
@@ -787,7 +794,7 @@
         "http://img.chelseafc.com/image/upload/v1791468556/editorial/news/2026/10/08/Fofana_DTW_3787.jpg",
         "http://img.chelseafc.com/image/upload/v1791468555/editorial/news/2026/10/08/Barco_DTW_3420.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/v1791666129/editorial/news/2026/10/10/Melvine_Malard_France.jpg",
+        "http://img.chelseafc.com/image/upload/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791639160/editorial/news/2026/10/10/Xabi_Alonso_Chelsea_arrival_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791635977/editorial/news/2026/10/10/Chelsea_shirts_dressing_room_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/v1791620593/restricted/2026/Cole%20Palmer%20contract/DAR_4056.jpg",
@@ -796,17 +803,16 @@
         "http://img.chelseafc.com/image/upload/v1791571687/editorial/news/2026/10/09/GettyImages-2294855822.jpg",
         "http://img.chelseafc.com/image/upload/v1791559653/editorial/news/2026/10/09/caicedo-alonso-oct-2026.jpg",
         "http://img.chelseafc.com/image/upload/v1791559459/editorial/news/2026/10/09/DTW_1284.jpg",
-        "http://img.chelseafc.com/image/upload/v1791539681/GettyImages-2296030908_klv1mv.jpg",
-        "http://img.chelseafc.com/image/upload/v1791561785/DAR_3924_1_ctysbr.jpg"
+        "http://img.chelseafc.com/image/upload/v1791539681/GettyImages-2296030908_klv1mv.jpg"
       ],
       "video_id": null,
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791468556/editorial/news/2026/10/08/Estevao_DTW_3515.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791664238/editorial/match-reports/2026-27/Bournemouth%20home/Morgan_Rogers_Chelsea_celebrates_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791662975/editorial/match-reports/2026-27/Bournemouth%20home/00.GettyImages-2299534556.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791657075/editorial/match-reports/2026-27/Bournemouth%20home/GettyImages-2299534923.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791655388/editorial/match-reports/2026-27/Bournemouth%20home/Cole_Palmer_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791651367/editorial/match-reports/2026-27/Bournemouth%20home/Xabi_Alonso_Chelsea_manager_against_Bournemouth.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791468560/editorial/news/2026/10/08/Chavarria_DAR_0688.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791468556/editorial/news/2026/10/08/Estevao_DAR_2287.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791468550/editorial/news/2026/10/08/Alonso_DTW_3901.jpg",
@@ -818,7 +824,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791468556/editorial/news/2026/10/08/Fofana_DTW_3787.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791468555/editorial/news/2026/10/08/Barco_DTW_3420.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791666129/editorial/news/2026/10/10/Melvine_Malard_France.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791646901/editorial/match-reports/2026-27/Bournemouth%20home/Chelsea_celebrate_Jordan_Henderson_s_second_goal_against_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791639160/editorial/news/2026/10/10/Xabi_Alonso_Chelsea_arrival_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791635977/editorial/news/2026/10/10/Chelsea_shirts_dressing_room_Bournemouth.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791620593/restricted/2026/Cole%20Palmer%20contract/DAR_4056.jpg",
@@ -827,8 +833,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791571687/editorial/news/2026/10/09/GettyImages-2294855822.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791559653/editorial/news/2026/10/09/caicedo-alonso-oct-2026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791559459/editorial/news/2026/10/09/DTW_1284.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791539681/GettyImages-2296030908_klv1mv.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791561785/DAR_3924_1_ctysbr.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791539681/GettyImages-2296030908_klv1mv.jpg"
       ]
     },
     {
@@ -960,19 +965,6 @@
       "body_zh": null,
       "images": [],
       "video_id": null
-    },
-    {
-      "title": "The Pride of London Collection",
-      "title_zh": null,
-      "type": "Video",
-      "category": "Video",
-      "url": "https://www.chelseafc.com/en/video/the-pride-of-london-collection",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1791388733/editorial/kit%20launches%202026-27/Pride%20of%20London%20Collection/Pride_of_London_Collection_Article_Image_8.jpg",
-      "is_gallery": false,
-      "body_en": null,
-      "body_zh": null,
-      "images": [],
-      "video_id": "7mA1kCnt"
     }
   ]
 }
