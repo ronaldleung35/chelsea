@@ -1,9 +1,35 @@
 {
-  "updated": "2026-10-10T22:00:14",
+  "updated": "2026-10-11T00:42:48",
   "count": 50,
   "gallery_count": 4,
   "translated_count": 0,
   "news": [
+    {
+      "title": "Extended: Chelsea 5-1 Bournemouth",
+      "title_zh": null,
+      "type": "Video",
+      "category": "Video",
+      "url": "https://www.chelseafc.com/en/video/pl-extended-chelsea-5-1-bournemouth-or-2026-27",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1791664201/video/2026/10/10/EXTENDED-Bour.png",
+      "is_gallery": false,
+      "body_en": null,
+      "body_zh": null,
+      "images": [],
+      "video_id": "hYpccMjj"
+    },
+    {
+      "title": "Full match: Chelsea vs Bournemouth",
+      "title_zh": null,
+      "type": "Video",
+      "category": "Video",
+      "url": "https://www.chelseafc.com/en/video/pl-full-match-chelsea-vs-bournemouth-or-2026-27",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1791664201/video/2026/10/10/FULL_MATCH-Bour.png",
+      "is_gallery": false,
+      "body_en": null,
+      "body_zh": null,
+      "images": [],
+      "video_id": "tfVo0xGn"
+    },
     {
       "title": "Baltimore and Malard make mark in dominant France win",
       "title_zh": null,
@@ -947,32 +973,6 @@
       "body_zh": null,
       "images": [],
       "video_id": "7mA1kCnt"
-    },
-    {
-      "title": "Pedro’s best goals and Chelsea highlights",
-      "title_zh": null,
-      "type": "Article",
-      "category": "History",
-      "url": "https://www.chelseafc.com/en/news/article/pedros-best-goals-and-chelsea-highlights",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1755614457/editorial/news/2025/08/19/pedro-chelsea-celebration-2015.jpg",
-      "is_gallery": false,
-      "body_en": "We celebrate Pedro&#x27;s Chelsea career after our brilliant former winger announced his retirement from the game. It was 11 years ago that Chelsea secured a major coup by signing the venerable Pedro from Barcelona. At that point the most decorated player to ever represent the Blues, the Spaniard went on to enjoy a stellar five-year career at Stamford Bridge. It was rare for any game to pass Pedro by and in his 206 appearances for us he scored 43 goals and provided 28 assists. So many of those came at significant moments; plenty were of elite quality. Indeed, of those 43 goals, Pedro scored more with his supposedly weaker left foot (21 to 18), testament to his all-round ability and deftness of touch. Watch his best Blues goals in the video below – you’ll notice the variety of finish and foot involved! Pedro departed Chelsea in the summer of 2020, at the end of a season elongated by the pandemic, and in which he captained the Blues for the first time and brought up 200 appearances for the club. ‘He’s been an incredible servant,’ then head coach Frank Lampard said after Pedro’s last game in a Chelsea shirt. ‘The impact he has had here has been huge.’ Alongside the goals, the facts and figures also help do justice to the Chelsea career of Pedro, who is still going strong with Lazio in Serie A aged 38. Here are some of the best! Chelsea debut: West Bromwich Albion (a) 23.08.15. Won 3-2, scored the opening goal Chelsea career: 260 appearances, 43 goals Selected in UEFA’s Europa League 2018/19 squad of the season Runners-up medals: FA Cup 2017 and 2020, FA Community Shield 2017 and 2018, League Cup 2019, UEFA Super Cup 2019 100th appearance vs Liverpool (a) - 25 November 2017, substitute for Tiemoue Bakayoko. Drew 1-1 200th appearance vs Liverpool (h) - FA Cup 3 March 2020. Won 2-0 International honours: 2010 World Cup winner, Euro 2012 winner, 2013 Confederations Cup runner-up Major international tournaments: 2010 World Cup (2+3 games), Euro 2012 (3 games), 2014 World Cup (1+1 games), Euro 2016 (0+2 games) International recognition: Spain 65 caps, 17 goals, Under-21s two caps International caps won with Chelsea: Spain 14 caps, one goal Chelsea never lost when Pedro scored for the Blues. He scored 43 goals and in the 39 games he found the net, we won 37 and drew two. Our 1000th Premier League goal at Stamford Bridge was scored by Pedro against Fulham in 2018/19.",
-      "body_zh": null,
-      "images": [],
-      "video_id": null
-    },
-    {
-      "title": "Classic Match: Chelsea 2-0 Bournemouth",
-      "title_zh": null,
-      "type": "Video",
-      "category": "Video",
-      "url": "https://www.chelseafc.com/en/video/pl-classic-match-chelsea-2-0-bournemouth-premier-league-2018-19",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1791382761/video/2026/10/07/chelsea_vs_bournemouth.png",
-      "is_gallery": false,
-      "body_en": null,
-      "body_zh": null,
-      "images": [],
-      "video_id": "1y0yLBii"
     }
   ]
 }
