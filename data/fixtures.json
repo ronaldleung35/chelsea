@@ -1,21 +1,6 @@
 {
-  "updated": "2026-10-17T11:34:15",
+  "updated": "2026-10-17T14:22:48",
   "fixtures": [
-    {
-      "date": "Sat 17 Oct 2026",
-      "time": "12:30",
-      "competition": "Premier League",
-      "venue": "Hill Dickinson Stadium",
-      "isHome": false,
-      "home": {
-        "name": "Everton",
-        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/650.png"
-      },
-      "away": {
-        "name": "Chelsea",
-        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
-      }
-    },
     {
       "date": "Sat 24 Oct 2026",
       "time": "17:30",
