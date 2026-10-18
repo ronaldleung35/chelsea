@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-18T19:05:12",
+  "updated": "2026-10-18T21:25:11",
   "count": 50,
   "gallery_count": 2,
-  "translated_count": 49,
+  "translated_count": 50,
   "news": [
     {
       "title": "WSL Highlights: Chelsea Women 6-2 Spurs Women",
@@ -110,7 +110,7 @@
     },
     {
       "title": "Confirmed Chelsea Women line up vs Tottenham",
-      "title_zh": null,
+      "title_zh": "确认切尔西女足对阵托特纳姆热刺的阵容",
       "type": "Article",
       "category": "Women's Team",
       "url": "https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-line-up-vs-tottenham-wsl",
