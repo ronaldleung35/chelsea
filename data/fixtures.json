@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T13:37:37",
+  "updated": "2026-10-19T19:28:11",
   "fixtures": [
     {
       "date": "Sat 24 Oct 2026",
@@ -93,7 +93,7 @@
     },
     {
       "date": "Wed 02 Dec 2026",
-      "time": "20:00",
+      "time": "19:30",
       "competition": "Premier League",
       "venue": "Stamford Bridge",
       "isHome": true,
@@ -108,7 +108,7 @@
     },
     {
       "date": "Sat 05 Dec 2026",
-      "time": "15:00",
+      "time": "12:30",
       "competition": "Premier League",
       "venue": "Stamford Bridge",
       "isHome": true,
@@ -123,7 +123,7 @@
     },
     {
       "date": "Sat 12 Dec 2026",
-      "time": "15:00",
+      "time": "17:30",
       "competition": "Premier League",
       "venue": "Etihad Stadium",
       "isHome": false,
@@ -137,8 +137,8 @@
       }
     },
     {
-      "date": "Sat 19 Dec 2026",
-      "time": "15:00",
+      "date": "Mon 21 Dec 2026",
+      "time": "20:00",
       "competition": "Premier League",
       "venue": "Stamford Bridge",
       "isHome": true,
