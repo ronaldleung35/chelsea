@@ -1,21 +1,6 @@
 {
-  "updated": "2026-10-28T19:10:12",
+  "updated": "2026-10-28T23:09:23",
   "fixtures": [
-    {
-      "date": "Wed 28 Oct 2026",
-      "time": "20:00",
-      "competition": "Carabao Cup",
-      "venue": "Anfield",
-      "isHome": false,
-      "home": {
-        "name": "Liverpool",
-        "crest": "https://img.chelseafc.com/image/upload/f_auto,w_300,q_90/logos/team-logos/liverpool_logo"
-      },
-      "away": {
-        "name": "Chelsea",
-        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
-      }
-    },
     {
       "date": "Sat 31 Oct 2026",
       "time": "12:30",
