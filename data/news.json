@@ -1,9 +1,48 @@
 {
-  "updated": "2026-11-01T02:30:55",
+  "updated": "2026-11-01T09:33:11",
   "count": 50,
   "gallery_count": 3,
   "translated_count": 0,
   "news": [
+    {
+      "title": "The Haunted Cottage",
+      "title_zh": null,
+      "type": "Video",
+      "category": "Video",
+      "url": "https://www.chelseafc.com/en/video/261027-haunted-house-v5.2-1",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1793525229/editorial/news/2026/11/01/Screenshot_2026-11-01_092343.png",
+      "is_gallery": false,
+      "body_en": null,
+      "body_zh": null,
+      "images": [],
+      "video_id": "jdhzbf83"
+    },
+    {
+      "title": "Xabi Alonso reflects on a 'very important' clean sheet and stable Mike Penders",
+      "title_zh": null,
+      "type": "Article",
+      "category": "Men's Team",
+      "url": "https://www.chelseafc.com/en/news/article/xabi-alonso-reflects-on-a-very-important-clean-sheet-and-stable-mike",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1793481825/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Mike_Penders_celebrates_vs_Man_united.jpg",
+      "is_gallery": false,
+      "body_en": "Xabi Alonso has emphasised the importance of the Blues keeping our second clean sheet in three Premier League matches and highlighted Mike Penders&#x2019; role in our victory over Manchester United. Our shutout in yesterday's game at Stamford Bridge was hard-earned. The visitors, particularly in the opening 45 minutes, created several goalscoring opportunities and Penders was tested on several occasions. He produced good stops to deny Amad Diallo, but the best came late in the game. With the Blues leading by two goals after Morgan Rogers and Cole Palmer had found the net, Bryan Mbeumo rasped a 20-yard drive toward our goal. Penders produced a full-length dive as the ball ricocheted off the crossbar and was cleared. Only the slow-motion replay showed that the Belgian goalkeeper had got a small but decisive touch on the ball to divert it onto the woodwork and preserve our clean sheet. Alonso insisted that should not be taken lightly, with the Blues manager explaining after our win: '[The clean sheet] is very important, and it’s the second one in three Premier League games. 'We need many more and we don’t take them for granted. Three points and a clean sheet is good and we need to keep on repeating this scoreline.’ On Penders, he added: ‘Not just today, I think at Liverpool he was really solid. Mike had a very good performance today and was very stable for a goalkeeper. 'He has shown a good level [against Man United], and we kept another clean sheet, the second one in three games. Now we need to keep going. 'Mike has overcome the difficult moment that we had last Saturday and this is part of the development of any goalkeeper, or any player.’ The Blues return home after the international break to take on our old rivals, Leeds United. Secure your place early with Club Chelsea. VIP tickets available now.",
+      "body_zh": null,
+      "images": [],
+      "video_id": null
+    },
+    {
+      "title": "Romeo Lavia on hard work paying off with ‘statement performance’",
+      "title_zh": null,
+      "type": "Article",
+      "category": "Men's Team",
+      "url": "https://www.chelseafc.com/en/news/article/romeo-lavia-on-hard-work-paying-off-with-statement-performance",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1793514827/editorial/news/2026/11/01/romeo-lavia-man-utd-October-2026-two.jpg",
+      "is_gallery": false,
+      "body_en": "Romeo Lavia believes Chelsea&#x2019;s performance in the 2-0 victory over Manchester United laid down a marker for what he and the Blues are capable of this season. The Belgian was in fine form as we got back to winning ways at Stamford Bridge on Saturday and played an important part in the opening goal shortly after half-time. It was Lavia who halted a United attack with a crucial tackle and then reacted quickly to nip in and send the loose ball to Morgan Rogers. From there, Rogers powered forward through the Man Utd defence and lifted a composed finish over the keeper. Cole Palmer then added a second from the penalty spot to extend our lead and ensure it was the Blues who would take all three points. For Lavia, it was a performance which further underlined his growing momentum in the Chelsea midfield, as he continues to put a difficult period with injury behind him. ‘I like to say that my job is to make the job for the other players in front of me easier, and everyone around me,’ reflected Lavia. ‘So I'm happy I've been able to do that and help the team to get a good win. ‘I feel very comfortable. Like I've always said, it's been in the weeks a lot of work that goes unseen with everyone in the building, at the training ground. So I'm very happy that it's all paying off and hopefully it just continues this way.’ The win at the Bridge saw Chelsea bounce back from the double disappointment of last week’s loss to Tottenham Hotspur and the midweek Carabao Cup exit at Liverpool on penalties, with the added bonus of returning the Blues to the top four of the Premier League table, at least until Liverpool’s meeting with Arsenal on Sunday. ‘It was a very important game and important win,’ Lavia continued. ‘I think the team effort was amazing. Everyone, from the players who started to the players who came on, was engaged and I think that’s a good statement for what's ahead. ‘It was quite obvious that the chances that they had in the first half were coming from our mistakes, sometimes rushing things a little bit when we had the control. So the message was just to rectify that little detail in the second half and for the rest not to change anything. I think we did that and we got the clean sheet as well, so it's a very good win. ‘We’re very happy with the win, but we're not overthinking things. We are very focused and we know that it's a process. It's a good day, but a performance like this is a good statement of what we're capable of delivering.’ With Lavia completing his second full 90 minutes in the space of four days and Chelsea making it three wins from our last four Premier League games, it seems he and the team are beginning to hit their stride just as we approach the busy winter period. Our next home fixture after the international break sees us face Leeds United. Secure your place early with Club Chelsea. VIP tickets available now.",
+      "body_zh": null,
+      "images": [],
+      "video_id": null
+    },
     {
       "title": "PL Extended: Chelsea 2-0 Man Utd",
       "title_zh": null,
@@ -44,19 +83,6 @@
       "video_id": null
     },
     {
-      "title": "Under-18 Premier League report: West Ham 5-3 Chelsea",
-      "title_zh": null,
-      "type": "Article",
-      "category": "U18s",
-      "url": "https://www.chelseafc.com/en/news/article/under-18-premier-league-report-west-ham-5-3-chelsea",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1793454379/editorial/Academy/Heze-trivela.jpg",
-      "is_gallery": false,
-      "body_en": "Chelsea Under-18s suffered our first defeat in almost two months as, despite goals from Heze Grimwade, Ibrahim Rabbaj and Riley Ebho, the Blues were beaten by West Ham United. We started superbly, asking plenty of questions of the hosts' backline, and broke the deadlock in the 26th minute through yet another Grimwade set piece. Rabbaj claimed our second with a placed finish into the left corner just after the half-hour mark, but the score was 2-1 at the break as Tyrone Omotoye pulled a goal back for the hosts. In the second period, we re-established our two-goal lead thanks to Ebho. Unfortunately, West Ham scored three goals in six minutes to make it 4-3 and, while we tried to equalise, the Hammers had the final say as they netted their fifth of the afternoon. The Blues came racing out the blocks, piling pressure on West Ham’s backline. Within seven minutes, we had earned three corners, and our pressure midway through the half was after Rabbaj received the ball on the right flank and made a darting run towards the penalty area. His quick feet and pace were too much for the West Ham defence, who were forced to foul the Moroccan in a dangerous area. Grimwade stepped up and continued to prove himself as a free-kick specialist, firing the ball into the far corner. Rabbaj extended our lead five minutes later, netting his first goal of the season. Jayden Malundama came close to marking his return to the starting eleven with a goal but was thwarted by Felix Lewis-Ayesta. The loose ball fell to the edge of the box and Rabbaj picked his spot perfectly. He almost had a brace before the interval when he spotted the Hammers keeper off his line at the start of another attack. Rabbaj went for the spectacular from the halfway line and wasn’t far away, his effort whistled just wide of the right post. However, in the final action of the half, West Ham made it 2-1 through Omotoye. Hungry for more in the second period, Rabbaj kept testing Lewis-Ayesta and troubling the opposition. We had an array of chances, with Andrew Pennie unlucky not to turn his header toward goal and Jashayde Greenwood a whisker away from close range. It was Ebho who got our third, though, as he collected the ball off Grimwade and let fly from distance. His effort took a deflection and beat Lewis-Ayesta to reinstate our two-goal advantage. It wasn't one we were able to keep, though. With 20 minutes remaining, we were caught in possession and Jude Longman halved the deficit once more. The Blues responded well initially, as Greenwood's thumping strike was tipped onto the crossbar by Lewis-Ayesta, earning us a corner. Unfortunately, we were caught on the counter and punished as Omotoye got his second of the afternoon and equalise for the Hammers. Moments after the leveller, we conceded a penalty which Longman converted to put us behind for the first time in the contest. We pushed for an equaliser but West Ham managed a fifth before the final whistle to inflict our first defeat since the start of September. This defeat sees us drop to 2nd position and remain on 21 points. We now trail the league leaders by two points. Chelsea Under-18s host Charlton Athletic in the Premier League Cup on Saturday 7 November at Cobham Training Ground. The game gets underway at 11am GMT and supporters can watch the match live with a CFC+ subscription. Chelsea (4-3-3): Toby Bell; Riley Ebho (Gabriel Sambou60’), Dante Waite (Josh Henry 64’) (C), Jacob Hall, Yisa Alao; Isaac Badu, Jayden Malundama (Bilal Shah-Berkouz 79’), Heze Grimwade; Ibrahim Rabbaj, Jashayde Greenwood, Andrew Pennie (Isaac McGillvary 60’)Unused subs: Isago Silva, Rico SealeyScorers: Grimwade 26, Rabbaj 31, Ebho 54Booked: Malundama 45, Rabbaj 68, McGillvary 70, Badu 89 West Ham (4-3-3): Felix Lewis-Ayesta; Isaac Thoams, Tomas Jonyla (Zak Magowan 83’), Arnaldo Bato Ugate, Reon Smith; Reginald-Ray Agyemang, Tyrone Omotoye, Jude Longman (Oluwadarasimi Akinlolu 87’); Martin Peychev, Chuk Obi, Jephthah MedineUnused subs: Charles Gadsdon, Jack Tomlin, Mitchell Brown, Lenny Noble, Glenn MacAjScorers: Omotoye 45+2 74, Longman 71, 77, Akinlolu 90+4Booked: Ugate 13, Jonyla 20, Magowan 85, Medine 90+4",
-      "body_zh": null,
-      "images": [],
-      "video_id": null
-    },
-    {
       "title": "Cole Palmer on Rogers' impact against Man United and love for Estevao",
       "title_zh": null,
       "type": "Article",
@@ -82,11 +108,11 @@
       "images": [
         "http://img.chelseafc.com/image/upload/v1793289481/ChatGPT_Image_Oct_29_2026_03_57_35_PM_dupk0z.png",
         "http://img.chelseafc.com/image/upload/v1793470491/editorial/news/2026/10/31/00.c_GettyImages-2302841930.jpg",
+        "http://img.chelseafc.com/image/upload/v1793481825/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Mike_Penders_celebrates_vs_Man_united.jpg",
+        "http://img.chelseafc.com/image/upload/v1793514827/editorial/news/2026/11/01/romeo-lavia-man-utd-October-2026-two.jpg",
         "http://img.chelseafc.com/image/upload/v1793461446/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_hugs_Estevao_during_Manchester_United.jpg",
         "http://img.chelseafc.com/image/upload/v1793466621/editorial/news/2026/10/31/GettyImages-2302843557.jpg",
         "http://img.chelseafc.com/image/upload/v1793461568/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_vs_Man_United_2.jpg",
-        "http://img.chelseafc.com/image/upload/v1793457866/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Morgan_Rogers_celebrates_vs_Man_United.jpg",
-        "http://img.chelseafc.com/image/upload/v1793447756/editorial/news/2026/10/30/GettyImages-2302821803.jpg",
         "http://img.chelseafc.com/image/upload/v1793459200/video/2026/10/31/2MINS_Chelsea_2-0_Man_Utd_EPL_2026-27.jpg",
         "http://img.chelseafc.com/image/upload/v1793470491/editorial/news/2026/10/31/01.a_GettyImages-2302821803.jpg",
         "http://img.chelseafc.com/image/upload/v1793470504/editorial/news/2026/10/31/02.a_GettyImages-2302840632.jpg",
@@ -126,6 +152,8 @@
         "http://img.chelseafc.com/image/upload/v1793470521/editorial/news/2026/10/31/35.f_GettyImages-2302849197.jpg",
         "http://img.chelseafc.com/image/upload/v1793289254/ChatGPT_Image_Oct_29_2026_03_54_04_PM_rsc1ki.png",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/v1793457866/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Morgan_Rogers_celebrates_vs_Man_United.jpg",
+        "http://img.chelseafc.com/image/upload/v1793447756/editorial/news/2026/10/30/GettyImages-2302821803.jpg",
         "http://img.chelseafc.com/image/upload/v1793445120/editorial/news/2026/10/30/DAZ_9029-3461912.jpg",
         "http://img.chelseafc.com/image/upload/v1793367865/editorial/news/2026/10/30/cover_website_man_utd_prog.jpg",
         "http://img.chelseafc.com/image/upload/v1793375732/editorial/news/2026/10/30/GettyImages-2301887727.jpg",
@@ -133,19 +161,17 @@
         "http://img.chelseafc.com/image/upload/v1793380606/editorial/news/2026/10/30/Caicedo_DTW_2646.jpg",
         "http://img.chelseafc.com/image/upload/v1793371391/editorial/news/2026/10/30/fofana-stock-2627.jpg",
         "http://img.chelseafc.com/image/upload/v1789996192/editorial/news/2026/09/21/city-ground-night-viewGettyImages-2258891479_edited.jpg",
-        "http://img.chelseafc.com/image/upload/v1793372149/editorial/news/2026/10/30/alonso-oct-26-sokin-press-conference.jpg",
-        "http://img.chelseafc.com/image/upload/v1793358448/editorial/news/2026/10/30/GettyImages-2301889526.jpg",
-        "http://img.chelseafc.com/image/upload/v1793287513/editorial/news/2026/10/29/stamford-bridge-inside-view-2026.jpg"
+        "http://img.chelseafc.com/image/upload/v1793372149/editorial/news/2026/10/30/alonso-oct-26-sokin-press-conference.jpg"
       ],
       "video_id": null,
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793289481/ChatGPT_Image_Oct_29_2026_03_57_35_PM_dupk0z.png",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793470491/editorial/news/2026/10/31/00.c_GettyImages-2302841930.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793481825/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Mike_Penders_celebrates_vs_Man_united.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793514827/editorial/news/2026/11/01/romeo-lavia-man-utd-October-2026-two.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793461446/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_hugs_Estevao_during_Manchester_United.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793466621/editorial/news/2026/10/31/GettyImages-2302843557.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793461568/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_vs_Man_United_2.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793457866/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Morgan_Rogers_celebrates_vs_Man_United.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793447756/editorial/news/2026/10/30/GettyImages-2302821803.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793459200/video/2026/10/31/2MINS_Chelsea_2-0_Man_Utd_EPL_2026-27.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793470491/editorial/news/2026/10/31/01.a_GettyImages-2302821803.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793470504/editorial/news/2026/10/31/02.a_GettyImages-2302840632.jpg",
@@ -185,6 +211,8 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793470521/editorial/news/2026/10/31/35.f_GettyImages-2302849197.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793289254/ChatGPT_Image_Oct_29_2026_03_54_04_PM_rsc1ki.png",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793457866/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Morgan_Rogers_celebrates_vs_Man_United.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793447756/editorial/news/2026/10/30/GettyImages-2302821803.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793445120/editorial/news/2026/10/30/DAZ_9029-3461912.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793367865/editorial/news/2026/10/30/cover_website_man_utd_prog.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793375732/editorial/news/2026/10/30/GettyImages-2301887727.jpg",
@@ -192,9 +220,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793380606/editorial/news/2026/10/30/Caicedo_DTW_2646.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793371391/editorial/news/2026/10/30/fofana-stock-2627.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1789996192/editorial/news/2026/09/21/city-ground-night-viewGettyImages-2258891479_edited.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793372149/editorial/news/2026/10/30/alonso-oct-26-sokin-press-conference.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793358448/editorial/news/2026/10/30/GettyImages-2301889526.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793287513/editorial/news/2026/10/29/stamford-bridge-inside-view-2026.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793372149/editorial/news/2026/10/30/alonso-oct-26-sokin-press-conference.jpg"
       ]
     },
     {
@@ -263,6 +289,19 @@
       "video_id": null
     },
     {
+      "title": "Under-18 Premier League report: West Ham 5-3 Chelsea",
+      "title_zh": null,
+      "type": "Article",
+      "category": "U18s",
+      "url": "https://www.chelseafc.com/en/news/article/under-18-premier-league-report-west-ham-5-3-chelsea",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1793454379/editorial/Academy/Heze-trivela.jpg",
+      "is_gallery": false,
+      "body_en": "Chelsea Under-18s suffered our first defeat in almost two months as, despite goals from Heze Grimwade, Ibrahim Rabbaj and Riley Ebho, the Blues were beaten by West Ham United. We started superbly, asking plenty of questions of the hosts' backline, and broke the deadlock in the 26th minute through yet another Grimwade set piece. Rabbaj claimed our second with a placed finish into the left corner just after the half-hour mark, but the score was 2-1 at the break as Tyrone Omotoye pulled a goal back for the hosts. In the second period, we re-established our two-goal lead thanks to Ebho. Unfortunately, West Ham scored three goals in six minutes to make it 4-3 and, while we tried to equalise, the Hammers had the final say as they netted their fifth of the afternoon. The Blues came racing out the blocks, piling pressure on West Ham’s backline. Within seven minutes, we had earned three corners, and our pressure midway through the half was after Rabbaj received the ball on the right flank and made a darting run towards the penalty area. His quick feet and pace were too much for the West Ham defence, who were forced to foul the Moroccan in a dangerous area. Grimwade stepped up and continued to prove himself as a free-kick specialist, firing the ball into the far corner. Rabbaj extended our lead five minutes later, netting his first goal of the season. Jayden Malundama came close to marking his return to the starting eleven with a goal but was thwarted by Felix Lewis-Ayesta. The loose ball fell to the edge of the box and Rabbaj picked his spot perfectly. He almost had a brace before the interval when he spotted the Hammers keeper off his line at the start of another attack. Rabbaj went for the spectacular from the halfway line and wasn’t far away, his effort whistled just wide of the right post. However, in the final action of the half, West Ham made it 2-1 through Omotoye. Hungry for more in the second period, Rabbaj kept testing Lewis-Ayesta and troubling the opposition. We had an array of chances, with Andrew Pennie unlucky not to turn his header toward goal and Jashayde Greenwood a whisker away from close range. It was Ebho who got our third, though, as he collected the ball off Grimwade and let fly from distance. His effort took a deflection and beat Lewis-Ayesta to reinstate our two-goal advantage. It wasn't one we were able to keep, though. With 20 minutes remaining, we were caught in possession and Jude Longman halved the deficit once more. The Blues responded well initially, as Greenwood's thumping strike was tipped onto the crossbar by Lewis-Ayesta, earning us a corner. Unfortunately, we were caught on the counter and punished as Omotoye got his second of the afternoon and equalise for the Hammers. Moments after the leveller, we conceded a penalty which Longman converted to put us behind for the first time in the contest. We pushed for an equaliser but West Ham managed a fifth before the final whistle to inflict our first defeat since the start of September. This defeat sees us drop to 2nd position and remain on 21 points. We now trail the league leaders by two points. Chelsea Under-18s host Charlton Athletic in the Premier League Cup on Saturday 7 November at Cobham Training Ground. The game gets underway at 11am GMT and supporters can watch the match live with a CFC+ subscription. Chelsea (4-3-3): Toby Bell; Riley Ebho (Gabriel Sambou60’), Dante Waite (Josh Henry 64’) (C), Jacob Hall, Yisa Alao; Isaac Badu, Jayden Malundama (Bilal Shah-Berkouz 79’), Heze Grimwade; Ibrahim Rabbaj, Jashayde Greenwood, Andrew Pennie (Isaac McGillvary 60’)Unused subs: Isago Silva, Rico SealeyScorers: Grimwade 26, Rabbaj 31, Ebho 54Booked: Malundama 45, Rabbaj 68, McGillvary 70, Badu 89 West Ham (4-3-3): Felix Lewis-Ayesta; Isaac Thoams, Tomas Jonyla (Zak Magowan 83’), Arnaldo Bato Ugate, Reon Smith; Reginald-Ray Agyemang, Tyrone Omotoye, Jude Longman (Oluwadarasimi Akinlolu 87’); Martin Peychev, Chuk Obi, Jephthah MedineUnused subs: Charles Gadsdon, Jack Tomlin, Mitchell Brown, Lenny Noble, Glenn MacAjScorers: Omotoye 45+2 74, Longman 71, 77, Akinlolu 90+4Booked: Ugate 13, Jonyla 20, Magowan 85, Medine 90+4",
+      "body_zh": null,
+      "images": [],
+      "video_id": null
+    },
+    {
       "title": "Xabi Alonso explains Jordan Henderson absence against Man United",
       "title_zh": null,
       "type": "Article",
@@ -284,6 +323,19 @@
       "thumbnail": "http://img.chelseafc.com/image/upload/v1793445120/editorial/news/2026/10/30/DAZ_9029-3461912.jpg",
       "is_gallery": false,
       "body_en": "Xabi Alonso has opted to make four changes to his Chelsea starting XI for this afternoon&#x27;s Premier League meeting with Manchester United at Stamford Bridge. We return to top-flight action after midweek Carabao Cup heartache and host a Man United side that have won just one of their eight league fixtures this term. Mike Penders continues in goal for the Blues after an impressive showing at Liverpool on Wednesday night, and is set to be protected by a back four of Josh Acheampong, Wesley Fofana, Levi Colwill and Marco Palestra, who makes his first Premier League start. Moises Caicedo captains the Blues and continues in midfield alongside Romeo Lavia. Jordan Henderson is not in the matchday squad. Estevao Willian comes into the Chelsea attack, Cole Palmer returns after serving a one-match suspension, and Morgan Rogers and Pedro Neto start once again. Chelsea: Penders; Acheampong, Fofana, Colwill, Palestra; Caicedo (c), Lavia; Estevao, Palmer, Neto; Rogers Chelsea substitutes: Sharman-Lowe, Gusto, Subuloye, Chavarria, Barco, Nicoll-Jazuli, Quenda, Welbeck, Emegha",
+      "body_zh": null,
+      "images": [],
+      "video_id": null
+    },
+    {
+      "title": "We’ve got your matchday covered in the Chelsea Official App!",
+      "title_zh": null,
+      "type": "Article",
+      "category": "Club",
+      "url": "https://www.chelseafc.com/en/news/article/weve-got-your-matchday-covered-in-the-chelsea-official-app",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1793365670/editorial/news/2026/10/30/Chelsea_app_campaign_social_post_1920_x_1080_px.png",
+      "is_gallery": false,
+      "body_en": "From Jason Cundy on live commentary to the latest updates from inside Stamford Bridge, the Chelsea Official App is the place to follow the Blues before, during and after every game. Here is how the app can take you through matchday from the build-up to the final reaction. Download or update the Chelsea Official App now! Match-day begins on the App long before kick-off. Stories and Moments on the homepage take you behind the scenes at the Bridge, with team arrivals, warm-ups and exclusive build-up content throughout the day. You can also head to the Game Centre to put your Chelsea knowledge to the test. Predict the result with Play Predictor and select the starting line-up you think Xabi Alonso will choose with Pick The XI. See how you perform in our weekly leagues and there are monthly and season-long leaderboards to climb, private leagues for competing with friends and exclusive Chelsea prizes to be won every single week. Once the action begins, the enhanced Match Centre has everything you need to stay across the game. Follow minute-by-minute updates and listen to live audio commentary with Jason Cundy, alongside team news, scores and detailed match statistics. Brand-new features including player heat maps, formations and interactive visualisations help bring the action to life, giving you a clearer picture of how the game is unfolding. And if you’re on the move, supporters using iOS can receive live scores directly to your Lock Screen, making it easy to stay up to date no matter what you’re doing. Stories and Moments are also updated throughout the game, providing another view of matchday from inside the stadium. The app is also home to selected live Academy fixtures via CFC+, giving supporters the chance to watch the next generation in action throughout the season. After the final whistle is blown, return to the app for the match report, highlights and all the post-match reaction. You can also explore the game’s statistics, catch up on the key moments and watch extended highlights and full-match replays when available. From the arrival at the stadium to the final word after the game, we’ve got your matchday covered. Download or update the Chelsea Official App and follow the Blues on matchday!",
       "body_zh": null,
       "images": [],
       "video_id": null
@@ -392,11 +444,11 @@
       "images": [
         "http://img.chelseafc.com/image/upload/v1793289481/ChatGPT_Image_Oct_29_2026_03_57_35_PM_dupk0z.png",
         "http://img.chelseafc.com/image/upload/v1793380606/editorial/news/2026/10/30/Caicedo_DTW_2646.jpg",
+        "http://img.chelseafc.com/image/upload/v1793481825/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Mike_Penders_celebrates_vs_Man_united.jpg",
+        "http://img.chelseafc.com/image/upload/v1793514827/editorial/news/2026/11/01/romeo-lavia-man-utd-October-2026-two.jpg",
         "http://img.chelseafc.com/image/upload/v1793461446/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_hugs_Estevao_during_Manchester_United.jpg",
         "http://img.chelseafc.com/image/upload/v1793466621/editorial/news/2026/10/31/GettyImages-2302843557.jpg",
         "http://img.chelseafc.com/image/upload/v1793470491/editorial/news/2026/10/31/00.c_GettyImages-2302841930.jpg",
-        "http://img.chelseafc.com/image/upload/v1793461568/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_vs_Man_United_2.jpg",
-        "http://img.chelseafc.com/image/upload/v1793457866/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Morgan_Rogers_celebrates_vs_Man_United.jpg",
         "http://img.chelseafc.com/image/upload/v1793380550/editorial/news/2026/10/30/DAZ_8200.jpg",
         "http://img.chelseafc.com/image/upload/v1793380545/editorial/news/2026/10/30/Gusto_DAZ_8378.jpg",
         "http://img.chelseafc.com/image/upload/v1793380544/editorial/news/2026/10/30/Barco_DAZ_8680.jpg",
@@ -409,6 +461,8 @@
         "http://img.chelseafc.com/image/upload/v1793380546/editorial/news/2026/10/30/Penders_DTW_2944.jpg",
         "http://img.chelseafc.com/image/upload/v1793289254/ChatGPT_Image_Oct_29_2026_03_54_04_PM_rsc1ki.png",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/v1793461568/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_vs_Man_United_2.jpg",
+        "http://img.chelseafc.com/image/upload/v1793457866/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Morgan_Rogers_celebrates_vs_Man_United.jpg",
         "http://img.chelseafc.com/image/upload/v1793447756/editorial/news/2026/10/30/GettyImages-2302821803.jpg",
         "http://img.chelseafc.com/image/upload/v1793445120/editorial/news/2026/10/30/DAZ_9029-3461912.jpg",
         "http://img.chelseafc.com/image/upload/v1793367865/editorial/news/2026/10/30/cover_website_man_utd_prog.jpg",
@@ -416,19 +470,17 @@
         "http://img.chelseafc.com/image/upload/v1793362304/editorial/news/2026/10/30/alonso-training-291026.jpg",
         "http://img.chelseafc.com/image/upload/v1793371391/editorial/news/2026/10/30/fofana-stock-2627.jpg",
         "http://img.chelseafc.com/image/upload/v1789996192/editorial/news/2026/09/21/city-ground-night-viewGettyImages-2258891479_edited.jpg",
-        "http://img.chelseafc.com/image/upload/v1793372149/editorial/news/2026/10/30/alonso-oct-26-sokin-press-conference.jpg",
-        "http://img.chelseafc.com/image/upload/v1793358448/editorial/news/2026/10/30/GettyImages-2301889526.jpg",
-        "http://img.chelseafc.com/image/upload/v1793287513/editorial/news/2026/10/29/stamford-bridge-inside-view-2026.jpg"
+        "http://img.chelseafc.com/image/upload/v1793372149/editorial/news/2026/10/30/alonso-oct-26-sokin-press-conference.jpg"
       ],
       "video_id": null,
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793289481/ChatGPT_Image_Oct_29_2026_03_57_35_PM_dupk0z.png",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793380606/editorial/news/2026/10/30/Caicedo_DTW_2646.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793481825/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Mike_Penders_celebrates_vs_Man_united.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793514827/editorial/news/2026/11/01/romeo-lavia-man-utd-October-2026-two.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793461446/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_hugs_Estevao_during_Manchester_United.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793466621/editorial/news/2026/10/31/GettyImages-2302843557.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793470491/editorial/news/2026/10/31/00.c_GettyImages-2302841930.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793461568/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_vs_Man_United_2.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793457866/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Morgan_Rogers_celebrates_vs_Man_United.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793380550/editorial/news/2026/10/30/DAZ_8200.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793380545/editorial/news/2026/10/30/Gusto_DAZ_8378.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793380544/editorial/news/2026/10/30/Barco_DAZ_8680.jpg",
@@ -441,6 +493,8 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793380546/editorial/news/2026/10/30/Penders_DTW_2944.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793289254/ChatGPT_Image_Oct_29_2026_03_54_04_PM_rsc1ki.png",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793461568/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_vs_Man_United_2.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793457866/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Morgan_Rogers_celebrates_vs_Man_United.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793447756/editorial/news/2026/10/30/GettyImages-2302821803.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793445120/editorial/news/2026/10/30/DAZ_9029-3461912.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793367865/editorial/news/2026/10/30/cover_website_man_utd_prog.jpg",
@@ -448,9 +502,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793362304/editorial/news/2026/10/30/alonso-training-291026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793371391/editorial/news/2026/10/30/fofana-stock-2627.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1789996192/editorial/news/2026/09/21/city-ground-night-viewGettyImages-2258891479_edited.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793372149/editorial/news/2026/10/30/alonso-oct-26-sokin-press-conference.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793358448/editorial/news/2026/10/30/GettyImages-2301889526.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793287513/editorial/news/2026/10/29/stamford-bridge-inside-view-2026.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793372149/editorial/news/2026/10/30/alonso-oct-26-sokin-press-conference.jpg"
       ]
     },
     {
@@ -501,19 +553,6 @@
       "thumbnail": "http://img.chelseafc.com/image/upload/v1793375804/editorial/news/2026/10/30/potter-roma-home-lexi.jpg",
       "is_gallery": false,
       "body_en": "Sonia Bompastor was pleased to confirm Lexi Potter&#x2019;s knee injury is not serious, and while the midfielder will likely miss the game against Charlton, our head coach hopes to have her back before too long. The Blues face yet another London derby this weekend, this time against newly-promoted Charlton at The Valley. We sit at the top of the WSL table after seven games, equal on points with Manchester City on 19, but with a superior goal difference. We come into the game off the back of the midweek European victory against Roma. The only disappointment on the night was an injury picked up by Potter late on, but Bompastor reported it is not as bad as it could have been. ‘Lexi did an MRI yesterday evening and nothing major from her knee, so it’s good news,’ said the head coach at her media conference at Cobham. ‘She probably won’t be available for this weekend. We just need things to settle down a little bit, but nothing major. ‘We will see how she improves next week, and if she can be available for the Everton game.’ So far this season Bompastor has benefitted from having a largely fit squad to pick from, in contrast to the 2025/26 campaign. Managing players’ loads is of course a crucial component of her management, and she explained why the quality on display in the Women’s Super League and the Champions League makes finding that balance difficult. ‘You can’t really have the mindset to rotate your team in the league, even when sometimes you’ve played in the Champions League in midweek,’ she explained. ‘The level of both competitions doesn’t always give you that opportunity. In France you could easily play in the league with a really young team against some teams and you will still get a result. ‘Here it’s about making sure the recovery between the games is appropriate and as efficient as possible, because the players need to perform at a really good level every three days. When you play for a club like Chelsea that’s what happens. She added: ‘The players need to be robust, but as a manager you need to find opportunities to sometimes give them that rest, mental and physical rest, because they are not machines – maybe Lucy Bronze is the only one! ‘But they need some break. Off the back of this summer, the players didn’t have a big tournament, and certainly here at Chelsea availability has been a lot better than in past years.’",
-      "body_zh": null,
-      "images": [],
-      "video_id": null
-    },
-    {
-      "title": "We’ve got your matchday covered in the Chelsea Official App!",
-      "title_zh": null,
-      "type": "Article",
-      "category": "Club",
-      "url": "https://www.chelseafc.com/en/news/article/weve-got-your-matchday-covered-in-the-chelsea-official-app",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1793365670/editorial/news/2026/10/30/Chelsea_app_campaign_social_post_1920_x_1080_px.png",
-      "is_gallery": false,
-      "body_en": "From Jason Cundy on live commentary to the latest updates from inside Stamford Bridge, the Chelsea Official App is the place to follow the Blues before, during and after every game. Here is how the app can take you through matchday from the build-up to the final reaction. Download or update the Chelsea Official App now! Match-day begins on the App long before kick-off. Stories and Moments on the homepage take you behind the scenes at the Bridge, with team arrivals, warm-ups and exclusive build-up content throughout the day. You can also head to the Game Centre to put your Chelsea knowledge to the test. Predict the result with Play Predictor and select the starting line-up you think Xabi Alonso will choose with Pick The XI. See how you perform in our weekly leagues and there are monthly and season-long leaderboards to climb, private leagues for competing with friends and exclusive Chelsea prizes to be won every single week. Once the action begins, the enhanced Match Centre has everything you need to stay across the game. Follow minute-by-minute updates and listen to live audio commentary with Jason Cundy, alongside team news, scores and detailed match statistics. Brand-new features including player heat maps, formations and interactive visualisations help bring the action to life, giving you a clearer picture of how the game is unfolding. And if you’re on the move, supporters using iOS can receive live scores directly to your Lock Screen, making it easy to stay up to date no matter what you’re doing. Stories and Moments are also updated throughout the game, providing another view of matchday from inside the stadium. The app is also home to selected live Academy fixtures via CFC+, giving supporters the chance to watch the next generation in action throughout the season. After the final whistle is blown, return to the app for the match report, highlights and all the post-match reaction. You can also explore the game’s statistics, catch up on the key moments and watch extended highlights and full-match replays when available. From the arrival at the stadium to the final word after the game, we’ve got your matchday covered. Download or update the Chelsea Official App and follow the Blues on matchday!",
       "body_zh": null,
       "images": [],
       "video_id": null
@@ -765,11 +804,11 @@
       "images": [
         "http://img.chelseafc.com/image/upload/v1793289481/ChatGPT_Image_Oct_29_2026_03_57_35_PM_dupk0z.png",
         "http://img.chelseafc.com/image/upload/v1793295473/editorial/news/2026/10/29/Palmer_DTW_2014.jpg",
+        "http://img.chelseafc.com/image/upload/v1793481825/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Mike_Penders_celebrates_vs_Man_united.jpg",
+        "http://img.chelseafc.com/image/upload/v1793514827/editorial/news/2026/11/01/romeo-lavia-man-utd-October-2026-two.jpg",
         "http://img.chelseafc.com/image/upload/v1793461446/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_hugs_Estevao_during_Manchester_United.jpg",
         "http://img.chelseafc.com/image/upload/v1793466621/editorial/news/2026/10/31/GettyImages-2302843557.jpg",
         "http://img.chelseafc.com/image/upload/v1793470491/editorial/news/2026/10/31/00.c_GettyImages-2302841930.jpg",
-        "http://img.chelseafc.com/image/upload/v1793461568/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_vs_Man_United_2.jpg",
-        "http://img.chelseafc.com/image/upload/v1793457866/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Morgan_Rogers_celebrates_vs_Man_United.jpg",
         "http://img.chelseafc.com/image/upload/v1793295472/editorial/news/2026/10/29/Barco_DTW_2174.jpg",
         "http://img.chelseafc.com/image/upload/v1793295483/editorial/news/2026/10/29/Palestra_DTW_2202.jpg",
         "http://img.chelseafc.com/image/upload/v1793295481/editorial/news/2026/10/29/Palmer_DTW_2183.jpg",
@@ -781,6 +820,8 @@
         "http://img.chelseafc.com/image/upload/v1793295481/editorial/news/2026/10/29/Quenda_DTW_2096.jpg",
         "http://img.chelseafc.com/image/upload/v1793295472/editorial/news/2026/10/29/Estevao_DTW_2077.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/v1793461568/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_vs_Man_United_2.jpg",
+        "http://img.chelseafc.com/image/upload/v1793457866/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Morgan_Rogers_celebrates_vs_Man_United.jpg",
         "http://img.chelseafc.com/image/upload/v1793447756/editorial/news/2026/10/30/GettyImages-2302821803.jpg",
         "http://img.chelseafc.com/image/upload/v1793445120/editorial/news/2026/10/30/DAZ_9029-3461912.jpg",
         "http://img.chelseafc.com/image/upload/v1793367865/editorial/news/2026/10/30/cover_website_man_utd_prog.jpg",
@@ -788,19 +829,17 @@
         "http://img.chelseafc.com/image/upload/v1793362304/editorial/news/2026/10/30/alonso-training-291026.jpg",
         "http://img.chelseafc.com/image/upload/v1793380606/editorial/news/2026/10/30/Caicedo_DTW_2646.jpg",
         "http://img.chelseafc.com/image/upload/v1793371391/editorial/news/2026/10/30/fofana-stock-2627.jpg",
-        "http://img.chelseafc.com/image/upload/v1789996192/editorial/news/2026/09/21/city-ground-night-viewGettyImages-2258891479_edited.jpg",
-        "http://img.chelseafc.com/image/upload/v1793372149/editorial/news/2026/10/30/alonso-oct-26-sokin-press-conference.jpg",
-        "http://img.chelseafc.com/image/upload/v1793358448/editorial/news/2026/10/30/GettyImages-2301889526.jpg"
+        "http://img.chelseafc.com/image/upload/v1789996192/editorial/news/2026/09/21/city-ground-night-viewGettyImages-2258891479_edited.jpg"
       ],
       "video_id": null,
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793289481/ChatGPT_Image_Oct_29_2026_03_57_35_PM_dupk0z.png",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793295473/editorial/news/2026/10/29/Palmer_DTW_2014.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793481825/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Mike_Penders_celebrates_vs_Man_united.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793514827/editorial/news/2026/11/01/romeo-lavia-man-utd-October-2026-two.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793461446/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_hugs_Estevao_during_Manchester_United.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793466621/editorial/news/2026/10/31/GettyImages-2302843557.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793470491/editorial/news/2026/10/31/00.c_GettyImages-2302841930.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793461568/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_vs_Man_United_2.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793457866/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Morgan_Rogers_celebrates_vs_Man_United.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793295472/editorial/news/2026/10/29/Barco_DTW_2174.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793295483/editorial/news/2026/10/29/Palestra_DTW_2202.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793295481/editorial/news/2026/10/29/Palmer_DTW_2183.jpg",
@@ -812,6 +851,8 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793295481/editorial/news/2026/10/29/Quenda_DTW_2096.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793295472/editorial/news/2026/10/29/Estevao_DTW_2077.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793461568/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_vs_Man_United_2.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793457866/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Morgan_Rogers_celebrates_vs_Man_United.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793447756/editorial/news/2026/10/30/GettyImages-2302821803.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793445120/editorial/news/2026/10/30/DAZ_9029-3461912.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793367865/editorial/news/2026/10/30/cover_website_man_utd_prog.jpg",
@@ -819,9 +860,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793362304/editorial/news/2026/10/30/alonso-training-291026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793380606/editorial/news/2026/10/30/Caicedo_DTW_2646.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793371391/editorial/news/2026/10/30/fofana-stock-2627.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1789996192/editorial/news/2026/09/21/city-ground-night-viewGettyImages-2258891479_edited.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793372149/editorial/news/2026/10/30/alonso-oct-26-sokin-press-conference.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793358448/editorial/news/2026/10/30/GettyImages-2301889526.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1789996192/editorial/news/2026/09/21/city-ground-night-viewGettyImages-2258891479_edited.jpg"
       ]
     },
     {
@@ -846,45 +885,6 @@
       "thumbnail": "http://img.chelseafc.com/image/upload/v1793289309/editorial/Foundation/Legends%20game/2027_Legends_Match_Makelele.jpg",
       "is_gallery": false,
       "body_en": "Another of our Premier League winners is confirmed for when Stamford Bridge stages a contest between old rivals on Saturday 27 March. This time it is our former midfield maestro Claude Makelele. The Chelsea Legends versus Tottenham Legends match will take place on Easter Weekend and raise crucial funds for Chelsea Foundation and its work bringing people together, creating healthier lives and shaping brighter futures in our local communities. Makelele won the league title twice in his five seasons as a Blue, as well as the FA Cup and two League Cups. He was universally acclaimed as crucial to that era's success with his intelligent play in the heart of the team. He also scored an unexpected and spectacular goal against Spurs! Maka joins his skipper back then, John Terry, plus Eden Hazard, Cesar Azpilicueta, Oscar and Chelsea Women's legendary captain Katie Chapman as the players announced so far. Tickets for the match, which kicks off at 3pm on 27 March, are on general sale. - Click to buy Chelsea Legends vs Tottenham Legends tickets Tickets for this match are priced as follows: Adults: £35 Juniors (under 20): £17.50 Under 23: £17.50 Seniors (66 or over): £17.50 Personal assistant: free of charge Tickets will be dispatched digitally to supporters – further details to follow. All persons under the age of 16 will be required to attend the relevant area of the ground with, and sit in the ground next to, a person aged 18 years of age or over. Season ticket holders, True Blue+, True Blue and CFC Blue members can purchase tickets in Westview. All Club Chelsea ticket purchases are subject to Club Chelsea terms and conditions. Accessible season ticket holders and members can purchase tickets as outlined above via the application form available by clicking here or by phoning the access team on 0371 811 2012 or 0044 207 915 1950 (international callers). Supporters can click here to make an application for car parking from 10am on Wednesday 3 March. You will be required to display your Blue Badge while parked at Stamford Bridge. There will be no ticket exchange in operation for this fixture. Supporters who have a Ticket Forwarding Membership can receive tickets from a season ticket holder or True Blue+, True Blue or CFC Blue member up until 12pm on Saturday 27 March. Supporters will receive zero loyalty points for this match. Please note refund requests must reach the ticket office no later than 3pm on Saturday 20 March. The match will also provide support for Spurs in the Community.",
-      "body_zh": null,
-      "images": [],
-      "video_id": null
-    },
-    {
-      "title": "Two Chelsea Women matches selected for TV broadcast",
-      "title_zh": null,
-      "type": "Article",
-      "category": "Women's Team",
-      "url": "https://www.chelseafc.com/en/news/article/two-chelsea-women-matches-selected-for-tv-broadcast",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1793277377/editorial/news/2026/10/29/2026-cfcw-chelsea-women-stamford-bridge-view.jpg",
-      "is_gallery": false,
-      "body_en": "Chelsea Women&#x2019;s fixtures against London City Lionesses and Brighton in December have confirmed dates and kick-off times following the latest broadcast picks. The Blues’ final WSL home fixture of 2026 is against London City at Stamford Bridge. That game is confirmed as taking place at 12.45pm on Saturday 12 December. It will be shown live on BBC One in the UK. A week later, we travel to Sussex to play Brighton and Hove Albion. That game at the Broadfield Stadium in Crawley is on Saturday 19 December and is also a 12.45pm kick-off. Sky Sports are providing live coverage. Chelsea vs London City Lionesses – Saturday 12 December, 12.45pm Brighton vs Chelsea – Saturday 19 December, 12.45pm Tickets for this match are currently on general sale. Supporters can purchase up to 20 tickets per transaction. Click to purchase Chelsea Women vs London City Lionesses tickets Supporters who hold a Bridge Pass will not need to purchase a ticket for this game as this fixture is covered in the pass. Tickets will be sold online only and are for Chelsea supporters only. Alcoholic drinks purchased in the stadium will be allowed in all areas of the stadium except the alcohol-free stands in blocks 1 and 2 of the West Lower. Tickets are priced at Category A. Click here for match ticket prices Tickets will appear on the Chelsea Official App prior to the event. All persons under the age of 16 will be required to attend with, and sit next to, a person aged 18 years of age or over. You can elevate your matchday with our premium ticket experiences, designed for supporters who want more from every game. Available for Chelsea Women versus London City Lionesses are: Bottomless at the Bridge - the ultimate Chelsea Women matchday with premium seating, unlimited gourmet food and drinks, and unrivalled pre-match vibes, Bottomless at the Bridge is the place to be. Families at the Bridge - the perfect family-friendly hospitality experience for young Blues. Enjoy tailored dining for adults and children, family-friendly activities, a visit from the club mascots, and plenty more for a memorable matchday. Pitchview by PIAFF - includes access to Canoville Suite, glass of Champagne PIAFF, Chic Chic Pop fried chicken and a matchday programme. Click for more information on CFCW Hospitality and to book Supporters who require accessible tickets can submit an application form available by clicking here during the selling period. Alternatively, you can call our Access Team on 0371 811 2012 or 0044 207 915 1950 (international callers) to reserve tickets and request further information. Personal assistant tickets can only be allocated using this process. Supporters can click here to apply for car parking from 10am on Tuesday 17 November. You are required to display your Blue Badge while parked at Stamford Bridge. Season ticket holders will be able to list their tickets for select games throughout the season, and the sales information on the Buy Tickets page will be updated if the ticket exchange opens. Supporters can receive tickets up until three hours before kick-off. Please note that those who have forwarded their ticket will not be able to list their ticket on the ticket exchange. Match and ticket on-sale dates are subject to change. All ticket sales are subject to availability. Please check the website for the latest information.",
-      "body_zh": null,
-      "images": [],
-      "video_id": null
-    },
-    {
-      "title": "Treat not trick – spend Halloween at Stamford Bridge for Man United game",
-      "title_zh": null,
-      "type": "Article",
-      "category": "Men's Team",
-      "url": "https://www.chelseafc.com/en/news/article/treat-not-trick-spend-halloween-at-stamford-bridge-for-man-united-game",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1793280198/editorial/venue/Hospo/Club_Chelsea_Man_United_game_Halloween_promo.jpg",
-      "is_gallery": false,
-      "body_en": "Chelsea versus Manchester United &#x2013; one of the most famous fixtures in the Premier League &#x2013; this year falls on one of the standout dates in the calendar &#x2013; Halloween! Though general admission tickets are sold out, Club Chelsea has ways to spend the day watching the football with added extras. If you are looking to make Halloween a family treat as half-term draws to a close this weekend, our Club Chelsea packages at Stamford Bridge on Saturday will especially suit the occasion. For a start, it is an early kick-off against the Red Devils. The on-pitch action begins at 12.30pm meaning this package offers the perfect setting for a family-friendly mid-afternoon, once the final whistle blows. While down there below the stadium, you and your guests can enjoy a selection of chef-curated dishes from the buffet and a complimentary bar including beer, house wine and soft drinks in a relaxed lounge setting, with a large LED screen for post-match interviews and analysis. Click for Under The Bridge Post-Match Being at the heart of the action, with seats located just metres from the away dugout, is hard to beat for making a match experience very special. You will feel the energy from the moment the players walk out and throughout, while before the match and following the final whistle, enjoying a meticulously crafted dining experience. Choose Club Chelsea’s premium seat-only offering and you will watch the 90-minute clash from the West Stand upper tier and also have access to Westview’s spacious, modern concourse, where you can purchase from its 360-degree bars with faster service and food hall with a variety of high-quality options, enjoying extended opening hours. Claude Makelele, the Premier League winner so famous that a midfield role was named after him, will be meeting fans in selected VIP packages: the Clubhouse, the Dugout Club Home and the Dugout Club, the Stamford Plaza and Under The Bridge Pre-Match. Check out the full Club Chelsea range for Chelsea vs Manchester United and book here",
-      "body_zh": null,
-      "images": [],
-      "video_id": null
-    },
-    {
-      "title": "Kadeisha Buchanan 'so excited' to score against Roma",
-      "title_zh": null,
-      "type": "Article",
-      "category": "Women's Team",
-      "url": "https://www.chelseafc.com/en/news/article/kadeisha-buchanan-so-excited-to-score-against-roma",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1793280087/editorial/women%27s-team/2026/October/Roma%20%28h%29/GettyImages-2302424144_1.jpg",
-      "is_gallery": false,
-      "body_en": "Defender Kadeisha Buchanan doesn&#x2019;t often have the chance to celebrate scoring a goal, and the delight was written all over her face when she netted our second against Roma in the UEFA Women&#x2019;s Champions League on Wednesday evening. After battling through the first half, we took the lead just after the interval courtesy of a close-range effort from Ellie Carpenter. And it was Buchanan who finally put the game to bed with a header from a Wieke Kaptein corner two minutes from time. The Canadian has started nine times this season and, while delighted with our unbeaten start to the campaign, believes there are still some improvements to be made. ‘I'm happy with how I played and I got a goal, so I'm really excited,’ she beamed afterwards. 'When we came out in the second half, the team really upped the energy, and we got two goals from that, so it was good. Good first half, but excellent second half. ‘We're getting really good chances in the first half, so I don’t want to discredit how we're doing, but I think we can definitely start stronger. Because if you see when you start strong in the second half, and you get the goals, I think we just need to keep doing that.’ Roma only had three shots on goal in the entire match, but had a chance to equalise in the 78th minute when Alayah Pilgrim curled an attempt just wide of Hannah Hampton’s right-hand post. Buchanan netted just ten minutes after that chance, allowing everyone in the stadium to breathe a sigh of relief that we had that all-important two-goal cushion. ‘That’s why I'm grateful to get the goal,’ the defender explained. ‘And Wieke was there with the good assist, too.’ The win means Chelsea broke a Women’s Champions League record, having gone unbeaten in our last 27 league phase/group stage fixtures. And this season we have accumulated seven points in three games without conceding a single goal, including a tough trip to eight-time competition winners Lyon. ‘We should be very happy with where we are,’ affirmed Buchanan. ‘No losses. We’ve played against Lyon, and that draw was a really good result away. And with three points here, I think we're doing the best we can, and we're in good shape to keep doing what we do.’",
       "body_zh": null,
       "images": [],
       "video_id": null
