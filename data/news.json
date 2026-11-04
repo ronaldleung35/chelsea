@@ -1,9 +1,22 @@
 {
-  "updated": "2026-11-04T02:22:57",
+  "updated": "2026-11-04T09:30:02",
   "count": 50,
   "gallery_count": 2,
   "translated_count": 0,
   "news": [
+    {
+      "title": "OTD: The Blues run riot in Rome",
+      "title_zh": null,
+      "type": "Article",
+      "category": "Men's Team",
+      "url": "https://www.chelseafc.com/en/news/article/otd-the-blues-run-riot-in-rome",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1681133043/editorial/news/2023/04/10/Crespo_celebration_Lazio_away_2003.jpg",
+      "is_gallery": false,
+      "body_en": "A new-look Chelsea team announced their European credentials with a 4-0 thrashing of Lazio on this day in 2003. The Blues, with plenty of exciting new players in the side, had started our second Champions League campaign solidly, if unspectacularly. We had bagged a late winner against Sparta in Prague before losing at home to Besiktas. A come-from-behind victory against Lazio followed at Stamford Bridge before the teams reconvened in Rome a fortnight later. Nearly 50,000 people packed inside the Stadio Olimpico, including several thousand travelling Chelsea supporters. They witnessed a masterclass from Claudio Ranieri's side. Hernan Crespo, a serial scorer in Serie A before his move to Chelsea, bundled us ahead on the quarter-hour mark, and our cause was made easier early in the second half when Sinisa Mihajlovic was eventually dismissed. We made our numerical advantage count in style, picking off the Roman side with three goals in ten minutes. Eidur Gudjohnsen, Damien Duff and Frank Lampard were the scorers, sealing a victory that made Europe sit up and take notice. We would eventually reach the semi-finals before being agonisingly knocked out by Monaco. You can watch highlights of the famous Lazio win and the story of a memorable second Champions League campaign below.",
+      "body_zh": null,
+      "images": [],
+      "video_id": null
+    },
     {
       "title": "Training gallery: The work starts again at Cobham",
       "title_zh": null,
@@ -17,11 +30,11 @@
       "images": [
         "http://img.chelseafc.com/image/upload/v1793289481/ChatGPT_Image_Oct_29_2026_03_57_35_PM_dupk0z.png",
         "http://img.chelseafc.com/image/upload/v1793725280/DTW_5733_1_jd8zwo.jpg",
+        "http://img.chelseafc.com/image/upload/v1681133043/editorial/news/2023/04/10/Crespo_celebration_Lazio_away_2003.jpg",
         "http://img.chelseafc.com/image/upload/v1793706874/editorial/news/2026/11/03/henderson-joao-pedro-rogers-celebration.jpg",
         "http://img.chelseafc.com/image/upload/v1793703328/editorial/news/2026/11/03/palmer-penalty-man-utd-oct-26.jpg",
         "http://img.chelseafc.com/image/upload/v1793623243/editorial/news/2026/11/02/GettyImages-2302843467.jpg",
         "http://img.chelseafc.com/image/upload/v1793614066/editorial/news/2026/11/02/DTW_4521-3462444_qencu6sd.jpg",
-        "http://img.chelseafc.com/image/upload/v1793623244/editorial/news/2026/11/02/GettyImages-2302844179.jpg",
         "http://img.chelseafc.com/image/upload/v1793728270/editorial/news/2026/11/03/Emi_Martinez_Chelsea_training_Nov_3.jpg",
         "http://img.chelseafc.com/image/upload/v1793724388/editorial/news/2026/11/03/DAZ_2006.jpg",
         "http://img.chelseafc.com/image/upload/v1793724283/editorial/news/2026/11/03/DAZ_1600.jpg",
@@ -34,7 +47,7 @@
         "http://img.chelseafc.com/image/upload/v1793724271/editorial/news/2026/11/03/DTW_5441.jpg",
         "http://img.chelseafc.com/image/upload/v1793724255/editorial/news/2026/11/03/DAR_6508.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/v1793701379/editorial/partnerships/Here%20we%20Flo/Flo_-_not_on_our_pitch_campaign.png",
+        "http://img.chelseafc.com/image/upload/v1793623244/editorial/news/2026/11/02/GettyImages-2302844179.jpg",
         "http://img.chelseafc.com/image/upload/v1793614066/editorial/news/2026/11/02/DTW_3889-3462255_wCI1uVSz.jpg",
         "http://img.chelseafc.com/image/upload/v1793614373/editorial/news/2026/11/02/GettyImages-2302849197.jpg",
         "http://img.chelseafc.com/image/upload/v1791299595/editorial/Stamford%20Bridge%20general%20shots/Matthew_Harding_Lower_turnstiles.jpg",
@@ -43,18 +56,17 @@
         "http://img.chelseafc.com/image/upload/v1793545504/editorial/news/2026/11/01/CL1_9261-3462436_VgQDivw6.jpg",
         "http://img.chelseafc.com/image/upload/v1793481825/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Mike_Penders_celebrates_vs_Man_united.jpg",
         "http://img.chelseafc.com/image/upload/v1793514827/editorial/news/2026/11/01/romeo-lavia-man-utd-October-2026-two.jpg",
-        "http://img.chelseafc.com/image/upload/v1793461446/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_hugs_Estevao_during_Manchester_United.jpg",
-        "http://img.chelseafc.com/image/upload/v1793466621/editorial/news/2026/10/31/GettyImages-2302843557.jpg"
+        "http://img.chelseafc.com/image/upload/v1793461446/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_hugs_Estevao_during_Manchester_United.jpg"
       ],
       "video_id": null,
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793289481/ChatGPT_Image_Oct_29_2026_03_57_35_PM_dupk0z.png",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793725280/DTW_5733_1_jd8zwo.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1681133043/editorial/news/2023/04/10/Crespo_celebration_Lazio_away_2003.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793706874/editorial/news/2026/11/03/henderson-joao-pedro-rogers-celebration.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793703328/editorial/news/2026/11/03/palmer-penalty-man-utd-oct-26.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793623243/editorial/news/2026/11/02/GettyImages-2302843467.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793614066/editorial/news/2026/11/02/DTW_4521-3462444_qencu6sd.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793623244/editorial/news/2026/11/02/GettyImages-2302844179.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793728270/editorial/news/2026/11/03/Emi_Martinez_Chelsea_training_Nov_3.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793724388/editorial/news/2026/11/03/DAZ_2006.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793724283/editorial/news/2026/11/03/DAZ_1600.jpg",
@@ -67,7 +79,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793724271/editorial/news/2026/11/03/DTW_5441.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793724255/editorial/news/2026/11/03/DAR_6508.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793701379/editorial/partnerships/Here%20we%20Flo/Flo_-_not_on_our_pitch_campaign.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793623244/editorial/news/2026/11/02/GettyImages-2302844179.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793614066/editorial/news/2026/11/02/DTW_3889-3462255_wCI1uVSz.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793614373/editorial/news/2026/11/02/GettyImages-2302849197.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1791299595/editorial/Stamford%20Bridge%20general%20shots/Matthew_Harding_Lower_turnstiles.jpg",
@@ -76,8 +88,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793545504/editorial/news/2026/11/01/CL1_9261-3462436_VgQDivw6.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793481825/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Mike_Penders_celebrates_vs_Man_united.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793514827/editorial/news/2026/11/01/romeo-lavia-man-utd-October-2026-two.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793461446/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_hugs_Estevao_during_Manchester_United.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793466621/editorial/news/2026/10/31/GettyImages-2302843557.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793461446/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_hugs_Estevao_during_Manchester_United.jpg"
       ]
     },
     {
@@ -600,11 +611,11 @@
       "images": [
         "http://img.chelseafc.com/image/upload/v1793289481/ChatGPT_Image_Oct_29_2026_03_57_35_PM_dupk0z.png",
         "http://img.chelseafc.com/image/upload/v1793470491/editorial/news/2026/10/31/00.c_GettyImages-2302841930.jpg",
+        "http://img.chelseafc.com/image/upload/v1681133043/editorial/news/2023/04/10/Crespo_celebration_Lazio_away_2003.jpg",
         "http://img.chelseafc.com/image/upload/v1793725280/DTW_5733_1_jd8zwo.jpg",
         "http://img.chelseafc.com/image/upload/v1793706874/editorial/news/2026/11/03/henderson-joao-pedro-rogers-celebration.jpg",
         "http://img.chelseafc.com/image/upload/v1793703328/editorial/news/2026/11/03/palmer-penalty-man-utd-oct-26.jpg",
         "http://img.chelseafc.com/image/upload/v1793623243/editorial/news/2026/11/02/GettyImages-2302843467.jpg",
-        "http://img.chelseafc.com/image/upload/v1793614066/editorial/news/2026/11/02/DTW_4521-3462444_qencu6sd.jpg",
         "http://img.chelseafc.com/image/upload/v1793459200/video/2026/10/31/2MINS_Chelsea_2-0_Man_Utd_EPL_2026-27.jpg",
         "http://img.chelseafc.com/image/upload/v1793470491/editorial/news/2026/10/31/01.a_GettyImages-2302821803.jpg",
         "http://img.chelseafc.com/image/upload/v1793470504/editorial/news/2026/10/31/02.a_GettyImages-2302840632.jpg",
@@ -644,6 +655,7 @@
         "http://img.chelseafc.com/image/upload/v1793470521/editorial/news/2026/10/31/35.f_GettyImages-2302849197.jpg",
         "http://img.chelseafc.com/image/upload/v1793289254/ChatGPT_Image_Oct_29_2026_03_54_04_PM_rsc1ki.png",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/v1793614066/editorial/news/2026/11/02/DTW_4521-3462444_qencu6sd.jpg",
         "http://img.chelseafc.com/image/upload/v1793623244/editorial/news/2026/11/02/GettyImages-2302844179.jpg",
         "http://img.chelseafc.com/image/upload/v1793614066/editorial/news/2026/11/02/DTW_3889-3462255_wCI1uVSz.jpg",
         "http://img.chelseafc.com/image/upload/v1793614373/editorial/news/2026/11/02/GettyImages-2302849197.jpg",
@@ -652,18 +664,17 @@
         "http://img.chelseafc.com/image/upload/v1793554786/editorial/news/2026/11/01/mike-penders-man-united-november-2026_1.jpg",
         "http://img.chelseafc.com/image/upload/v1793545504/editorial/news/2026/11/01/CL1_9261-3462436_VgQDivw6.jpg",
         "http://img.chelseafc.com/image/upload/v1793481825/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Mike_Penders_celebrates_vs_Man_united.jpg",
-        "http://img.chelseafc.com/image/upload/v1793514827/editorial/news/2026/11/01/romeo-lavia-man-utd-October-2026-two.jpg",
-        "http://img.chelseafc.com/image/upload/v1793461446/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_hugs_Estevao_during_Manchester_United.jpg"
+        "http://img.chelseafc.com/image/upload/v1793514827/editorial/news/2026/11/01/romeo-lavia-man-utd-October-2026-two.jpg"
       ],
       "video_id": null,
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793289481/ChatGPT_Image_Oct_29_2026_03_57_35_PM_dupk0z.png",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793470491/editorial/news/2026/10/31/00.c_GettyImages-2302841930.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1681133043/editorial/news/2023/04/10/Crespo_celebration_Lazio_away_2003.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793725280/DTW_5733_1_jd8zwo.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793706874/editorial/news/2026/11/03/henderson-joao-pedro-rogers-celebration.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793703328/editorial/news/2026/11/03/palmer-penalty-man-utd-oct-26.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793623243/editorial/news/2026/11/02/GettyImages-2302843467.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793614066/editorial/news/2026/11/02/DTW_4521-3462444_qencu6sd.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793459200/video/2026/10/31/2MINS_Chelsea_2-0_Man_Utd_EPL_2026-27.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793470491/editorial/news/2026/10/31/01.a_GettyImages-2302821803.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793470504/editorial/news/2026/10/31/02.a_GettyImages-2302840632.jpg",
@@ -703,6 +714,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793470521/editorial/news/2026/10/31/35.f_GettyImages-2302849197.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793289254/ChatGPT_Image_Oct_29_2026_03_54_04_PM_rsc1ki.png",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793614066/editorial/news/2026/11/02/DTW_4521-3462444_qencu6sd.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793623244/editorial/news/2026/11/02/GettyImages-2302844179.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793614066/editorial/news/2026/11/02/DTW_3889-3462255_wCI1uVSz.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793614373/editorial/news/2026/11/02/GettyImages-2302849197.jpg",
@@ -711,8 +723,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793554786/editorial/news/2026/11/01/mike-penders-man-united-november-2026_1.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793545504/editorial/news/2026/11/01/CL1_9261-3462436_VgQDivw6.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793481825/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Mike_Penders_celebrates_vs_Man_united.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793514827/editorial/news/2026/11/01/romeo-lavia-man-utd-October-2026-two.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793461446/editorial/match-reports/2026-27/Man%20Utd%20%28H%29/Xabi_Alonso_hugs_Estevao_during_Manchester_United.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793514827/editorial/news/2026/11/01/romeo-lavia-man-utd-October-2026-two.jpg"
       ]
     },
     {
@@ -815,19 +826,6 @@
       "thumbnail": "http://img.chelseafc.com/image/upload/v1793445120/editorial/news/2026/10/30/DAZ_9029-3461912.jpg",
       "is_gallery": false,
       "body_en": "Xabi Alonso has opted to make four changes to his Chelsea starting XI for this afternoon&#x27;s Premier League meeting with Manchester United at Stamford Bridge. We return to top-flight action after midweek Carabao Cup heartache and host a Man United side that have won just one of their eight league fixtures this term. Mike Penders continues in goal for the Blues after an impressive showing at Liverpool on Wednesday night, and is set to be protected by a back four of Josh Acheampong, Wesley Fofana, Levi Colwill and Marco Palestra, who makes his first Premier League start. Moises Caicedo captains the Blues and continues in midfield alongside Romeo Lavia. Jordan Henderson is not in the matchday squad. Estevao Willian comes into the Chelsea attack, Cole Palmer returns after serving a one-match suspension, and Morgan Rogers and Pedro Neto start once again. Chelsea: Penders; Acheampong, Fofana, Colwill, Palestra; Caicedo (c), Lavia; Estevao, Palmer, Neto; Rogers Chelsea substitutes: Sharman-Lowe, Gusto, Subuloye, Chavarria, Barco, Nicoll-Jazuli, Quenda, Welbeck, Emegha",
-      "body_zh": null,
-      "images": [],
-      "video_id": null
-    },
-    {
-      "title": "We’ve got your matchday covered in the Chelsea Official App!",
-      "title_zh": null,
-      "type": "Article",
-      "category": "Club",
-      "url": "https://www.chelseafc.com/en/news/article/weve-got-your-matchday-covered-in-the-chelsea-official-app",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1793365670/editorial/news/2026/10/30/Chelsea_app_campaign_social_post_1920_x_1080_px.png",
-      "is_gallery": false,
-      "body_en": "From Jason Cundy on live commentary to the latest updates from inside Stamford Bridge, the Chelsea Official App is the place to follow the Blues before, during and after every game. Here is how the app can take you through matchday from the build-up to the final reaction. Download or update the Chelsea Official App now! Match-day begins on the App long before kick-off. Stories and Moments on the homepage take you behind the scenes at the Bridge, with team arrivals, warm-ups and exclusive build-up content throughout the day. You can also head to the Game Centre to put your Chelsea knowledge to the test. Predict the result with Play Predictor and select the starting line-up you think Xabi Alonso will choose with Pick The XI. See how you perform in our weekly leagues and there are monthly and season-long leaderboards to climb, private leagues for competing with friends and exclusive Chelsea prizes to be won every single week. Once the action begins, the enhanced Match Centre has everything you need to stay across the game. Follow minute-by-minute updates and listen to live audio commentary with Jason Cundy, alongside team news, scores and detailed match statistics. Brand-new features including player heat maps, formations and interactive visualisations help bring the action to life, giving you a clearer picture of how the game is unfolding. And if you’re on the move, supporters using iOS can receive live scores directly to your Lock Screen, making it easy to stay up to date no matter what you’re doing. Stories and Moments are also updated throughout the game, providing another view of matchday from inside the stadium. The app is also home to selected live Academy fixtures via CFC+, giving supporters the chance to watch the next generation in action throughout the season. After the final whistle is blown, return to the app for the match report, highlights and all the post-match reaction. You can also explore the game’s statistics, catch up on the key moments and watch extended highlights and full-match replays when available. From the arrival at the stadium to the final word after the game, we’ve got your matchday covered. Download or update the Chelsea Official App and follow the Blues on matchday!",
       "body_zh": null,
       "images": [],
       "video_id": null
