@@ -1,21 +1,6 @@
 {
-  "updated": "2026-11-08T14:34:54",
+  "updated": "2026-11-08T19:01:21",
   "fixtures": [
-    {
-      "date": "Sun 08 Nov 2026",
-      "time": "14:00",
-      "competition": "Premier League",
-      "venue": "Stadium of Light",
-      "isHome": false,
-      "home": {
-        "name": "Sunderland",
-        "crest": "https://clublogos.stadion.io/assets/ClubLogos/Football/English/722.png"
-      },
-      "away": {
-        "name": "Chelsea",
-        "crest": "https://img.chelseafc.com/image/upload/v1782984029/Site%20Chelsea%20Badges/Chelsea_club_badge_crest_logo_2026_design.png"
-      }
-    },
     {
       "date": "Sat 21 Nov 2026",
       "time": "15:00",
