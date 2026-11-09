@@ -1,9 +1,35 @@
 {
-  "updated": "2026-11-09T01:58:47",
+  "updated": "2026-11-09T09:02:20",
   "count": 50,
   "gallery_count": 1,
   "translated_count": 0,
   "news": [
+    {
+      "title": "PL2 Full Match: Spurs U21 vs Cobham Next Gen",
+      "title_zh": null,
+      "type": "Video",
+      "category": "Video",
+      "url": "https://www.chelseafc.com/en/video/pl2-full-match-spurs-u21-vs-cobham-next-gen-u21-premier-league-2026-27-08-1",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1794156788/video/2026/11/08/FULL_MATCH_TOT_CNG.jpg",
+      "is_gallery": false,
+      "body_en": null,
+      "body_zh": null,
+      "images": [],
+      "video_id": "JYxdGJRH"
+    },
+    {
+      "title": "Mike Penders focused on ‘staying together’ after difficult Sunderland defeat",
+      "title_zh": null,
+      "type": "Article",
+      "category": "Men's Team",
+      "url": "https://www.chelseafc.com/en/news/article/mike-penders-focused-on-staying-together-after-difficult-sunderland-defeat",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1794171430/editorial/match-reports/2026-27/Sunderland%20away/penders-sunderland-a-2.jpg",
+      "is_gallery": false,
+      "body_en": "Mike Penders did not hide from the disappointment and frustration felt in the Chelsea dressing room after Sunday&#x2019;s loss at Sunderland. A tight contest at the Stadium of Light was decided by Enzo Le Fee’s first-half penalty. The Blues enjoyed plenty of possession and territory, especially after the break, but couldn’t create clear opportunities against a resolute Black Cats rearguard. Besides one outstanding save in the second period to deny Wilson Isidor, Penders didn’t have a great deal to do, either. But the damage had been done and one goal proved enough for Sunderland’s second league win of the season. ‘Very disappointed with the result,’ Penders said. ‘You know when you come here to their stadium that it will be a difficult game, and they fought very hard. ‘At one point, it went very fast from side to side. Sometimes we had control and, of course, in certain moments when you go higher up the pitch they will be very aggressive and the way they play is very difficult. ‘In the second half they dropped very low and had every man behind the ball, so we had a bit more control and we had to push. We had some chances, but it was difficult against 11 behind the ball to find the right spaces. We kept pushing, especially in the last 15 minutes, we kept dropping balls at them, but it wasn’t enough.’ With domestic action pausing for the international break, there is now a brief window to reset before we host Leeds on 21 November. For Penders, the key now is maintaining collective belief and building on the positive elements of recent performances ahead of our return to action later this month. ‘If you watch some of the last games, we played pretty well,’ said Penders. ‘The structure is getting better and it’s a pity that we have lost this game. ‘It’s a matter of staying together. I think we’ve had some good games, but after losing these games, we have to stick together. It’s the international break now, so we can calm our heads, and when we come back we need to all be motivated and go again.’",
+      "body_zh": null,
+      "images": [],
+      "video_id": null
+    },
     {
       "title": "Full Match: Sunderland vs Chelsea",
       "title_zh": null,
@@ -497,11 +523,11 @@
       "body_zh": null,
       "images": [
         "http://img.chelseafc.com/image/upload/v1793985388/editorial/news/2026/11/06/Palmer_DAR_8086.jpg",
+        "http://img.chelseafc.com/image/upload/v1794171430/editorial/match-reports/2026-27/Sunderland%20away/penders-sunderland-a-2.jpg",
         "http://img.chelseafc.com/image/upload/v1794158003/editorial/match-reports/2026-27/Sunderland%20away/GettyImages-2304128027.jpg",
         "http://img.chelseafc.com/image/upload/v1794151411/editorial/match-reports/2026-27/Sunderland%20away/brobbey-colwill-sunderland-a.jpg",
         "http://img.chelseafc.com/image/upload/v1794144073/editorial/match-reports/2026-27/Sunderland%20away/Xabi_Alonso_Sunderland_arrival.jpg",
         "http://img.chelseafc.com/image/upload/v1794140412/editorial/match-reports/2026-27/Sunderland%20away/DAZ_3988-3478807.jpg",
-        "http://img.chelseafc.com/image/upload/v1794085149/editorial/news/2026/11/07/xabi-alonso-training-november-2026.jpg",
         "http://img.chelseafc.com/image/upload/v1793985382/editorial/news/2026/11/06/Alonso_DAR_8606.jpg",
         "http://img.chelseafc.com/image/upload/v1793985390/editorial/news/2026/11/06/Colwill_DAZ_3754.jpg",
         "http://img.chelseafc.com/image/upload/v1793985383/editorial/news/2026/11/06/Anselmino_DAZ_3368.jpg",
@@ -514,6 +540,7 @@
         "http://img.chelseafc.com/image/upload/v1793985382/editorial/news/2026/11/06/Alonso_DAR_8197.jpg",
         "http://img.chelseafc.com/image/upload/v1793289481/ChatGPT_Image_Oct_29_2026_03_57_35_PM_dupk0z.png",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/v1794085149/editorial/news/2026/11/07/xabi-alonso-training-november-2026.jpg",
         "http://img.chelseafc.com/image/upload/v1794085822/editorial/news/2026/11/07/GettyImages-2303796052.jpg",
         "http://img.chelseafc.com/image/upload/v1531918959/editorial/news/2018/7/zola-gullit-1254309.jpg",
         "http://img.chelseafc.com/image/upload/v1743177698/editorial/news/2025/03/28/zola-2002-free-kick.jpg",
@@ -522,17 +549,16 @@
         "http://img.chelseafc.com/image/upload/v1793969258/editorial/news/2026/11/06/penders-celebration-man-utd-home.jpg",
         "http://img.chelseafc.com/image/upload/v1793980780/editorial/news/2026/11/06/DTW_5767.jpg",
         "http://img.chelseafc.com/image/upload/v1793982564/editorial/news/2026/11/06/sunderland-stadium-of-light-view.jpg",
-        "http://img.chelseafc.com/image/upload/v1793979042/editorial/news/2026/11/06/anselmino-training-november-2026.jpg",
-        "http://img.chelseafc.com/image/upload/v1793978581/editorial/news/2026/11/06/GettyImages-2303021285.jpg"
+        "http://img.chelseafc.com/image/upload/v1793979042/editorial/news/2026/11/06/anselmino-training-november-2026.jpg"
       ],
       "video_id": null,
       "images_local": [
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793985388/editorial/news/2026/11/06/Palmer_DAR_8086.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794171430/editorial/match-reports/2026-27/Sunderland%20away/penders-sunderland-a-2.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794158003/editorial/match-reports/2026-27/Sunderland%20away/GettyImages-2304128027.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794151411/editorial/match-reports/2026-27/Sunderland%20away/brobbey-colwill-sunderland-a.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794144073/editorial/match-reports/2026-27/Sunderland%20away/Xabi_Alonso_Sunderland_arrival.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794140412/editorial/match-reports/2026-27/Sunderland%20away/DAZ_3988-3478807.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794085149/editorial/news/2026/11/07/xabi-alonso-training-november-2026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793985382/editorial/news/2026/11/06/Alonso_DAR_8606.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793985390/editorial/news/2026/11/06/Colwill_DAZ_3754.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793985383/editorial/news/2026/11/06/Anselmino_DAZ_3368.jpg",
@@ -545,6 +571,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793985382/editorial/news/2026/11/06/Alonso_DAR_8197.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793289481/ChatGPT_Image_Oct_29_2026_03_57_35_PM_dupk0z.png",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794085149/editorial/news/2026/11/07/xabi-alonso-training-november-2026.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794085822/editorial/news/2026/11/07/GettyImages-2303796052.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1531918959/editorial/news/2018/7/zola-gullit-1254309.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1743177698/editorial/news/2025/03/28/zola-2002-free-kick.jpg",
@@ -553,8 +580,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793969258/editorial/news/2026/11/06/penders-celebration-man-utd-home.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793980780/editorial/news/2026/11/06/DTW_5767.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793982564/editorial/news/2026/11/06/sunderland-stadium-of-light-view.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793979042/editorial/news/2026/11/06/anselmino-training-november-2026.jpg",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793978581/editorial/news/2026/11/06/GettyImages-2303021285.jpg"
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1793979042/editorial/news/2026/11/06/anselmino-training-november-2026.jpg"
       ]
     },
     {
@@ -683,32 +709,6 @@
       "thumbnail": "http://img.chelseafc.com/image/upload/v1793967459/GettyImages-2301974104_1_nmjkse.jpg",
       "is_gallery": false,
       "body_en": "Chelsea have teamed up with Fantasy Football Scout to help bring you hints, tips and advice during the 2026/27 Fantasy Premier League (FPL) season. Scout will be using their expertise to provide advice and gameweek tips which should prove useful in ensuring you win your mini-leagues. Here, we look at which Blues players are the best value-for-money picks, why Morgan Rogers (£8.1m) is Chelsea’s most popular player this week and who to captain in Gameweek 10. The deadline is at 6.30pm GMT on Friday ahead of Coventry City’s trip to Everton. Rogers is the most popular Chelsea player ahead of Gameweek 10 with over 200,000 transfers in. The Englishman netted his fifth goal of the season and claimed a share of the bonus against Man United, taking his total goal contributions in all competitions for Chelsea to ten (six goals and four assists). The attacker's ownership has reached 52 per cent, making Rogers the most-selected midfielder in Fantasy, and he has risen in price to £8.1m. In the last six Gameweeks, no Chelsea player has scored more points (31), while Rogers ranks joint-first for big chances (3), first for expected goals and second for expected goal involvement among Blues players. Also proving popular is Cole Palmer (£9.8m), who scored his first goal since Gameweek 2 from the penalty spot against Man United last time out. The Blues number 10 registered four shots on goal and created three chances for his team-mates. Palmer was also just one defensive contribution short of the required threshold for additional points. Since Gameweek 4, the England international has created five big chances, the second-most of any player. Sunderland’s underlying defensive data suggests Palmer will get plenty of opportunities on Sunday to build on his eight-point return from GW9. In the last six Gameweeks, the Black Cats have conceded a league-high 14 goals and rank second-worst for expected goals conceded. Josh Acheampong (£4.5m) continues to establish himself as a reliable, budget defender. The England Under-21 international started for the fourth consecutive Gameweek and picked up a nine-point return thanks to three bonus points, taking his points tally to 17 in three Gameweeks. Furthermore, Acheampong has produced defensive contribution points twice this season in six starts, and averages over seven DefCon per/90. Offensively, Estevao (£6.3m) caught the eye of many Fantasy managers against Man United, with the Brazilian unfortunate not to return. As well as having a well-taken goal narrowly ruled out for offside, Estevao racked up a match-high six shots, 12 penalty box touches and three chances created. The teenager was the cheapest Chelsea attacker to start in GW9. If he can retain his place in the team going forward, Estevao could be a superb differential in FPL. Erling Haaland (£15.8m) is once again a safe captaincy choice for Man City’s away trip to Nottingham Forest. The Norwegian has scored nine goals in the last eight Gameweeks, racking up 66 Fantasy points in that time with two double-digit hauls and 14 bonus points. No player has had more shots on target or xGI than the league’s top-scorer, while Forest have kept just one clean sheet and are winless since Gameweek four. Elsewhere, Alexander Isak (£9.2m) is an intriguing differential option against Crystal Palace. The Eagles have conceded a league-high 31 big chances in nine matches. The Liverpool forward has been bought by over 200,000 managers ahead of the deadline and has scored six goals, only Haaland has more. Isak ranks third among all forwards for xG with 4.35 and shots on target with nine.",
-      "body_zh": null,
-      "images": [],
-      "video_id": null
-    },
-    {
-      "title": "Remembrance at CFCW match",
-      "title_zh": null,
-      "type": "Article",
-      "category": "Women's Team",
-      "url": "https://www.chelseafc.com/en/news/article/remembrance-at-cfcw-match",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1793960417/editorial/miscellaneous/remembrance/poppies_-_big_screen_-_2026.jpg",
-      "is_gallery": false,
-      "body_en": "With tomorrow&#x27;s Women&#x2019;s Super League fixture at Stamford Bridge taking place the day before Remembrance Sunday, Chelsea FC Women will, at the match, be honouring those lost in conflict. For the commemorations leading up to kick-off against Everton Women, Chelsea Pensioners will flank the players as they walk out of the tunnel, and the Pensioners will join serving personnel from the armed forces in presenting wreaths for laying on the pitch. The Last Post will be sounded by AS1 Scott Kempster - Band of the Royal Air Force Regiment - ahead of a moment’s silence. Supporters are requested to please ensure you are in your seat at least 15 minutes before kick-off to join in the ceremony. The match begins at 12.45pm. With support from Official Online Match Shirt Auction Partner, MatchWornShirt, the shirts with embroidered poppies from the game, worn and signed by the relevant player, will be auctioned. All net proceeds are donated to the Royal British Legion’s Poppy Appeal. Also supporting the appeal, Chelsea badges and scarves bearing the poppy will be on sale in Megastore at Stamford Bridge. The Chelsea men’s team dedicated home match for Remembrance was last weekend against Manchester United.",
-      "body_zh": null,
-      "images": [],
-      "video_id": null
-    },
-    {
-      "title": "Sunderland vs Chelsea: Key statistics and facts",
-      "title_zh": null,
-      "type": "Article",
-      "category": "Men's Team",
-      "url": "https://www.chelseafc.com/en/news/article/sunderland-vs-chelsea-key-statistics-and-facts-26-27",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1793885470/editorial/news/2026/11/05/GettyImages-2303009623.jpg",
-      "is_gallery": false,
-      "body_en": "Chelsea head to Sunderland on Sunday looking to make it back-to-back victories in the Premier League. Here are all the key facts and figures you need ahead of kick-off. Chelsea’s win against Manchester United on matchweek nine moved us into the top four in the Premier League table. Sunday’s opponents Sunderland are bottom, with one win and two draws so far. This fixture has seen 124 goals scored in 34 Premier League matches, averaging 3.65 goals per game. Our last victory at the Stadium of Light came in December 2016, when a goal from Cesc Fabregas just before half-time earned us a 1-0 win. We have played there only once since. In the home match in 2016/17, Chelsea won 5-1. Last season’s defeat on the last day of the season was only our second in 14 Premier League visits to the Stadium of Light, where we have recorded 10 wins and two draws. Chelsea are aiming to prevent the Black Cats recording a third consecutive league victory against us for the first time since a run of three between 1999 and 2001. Played: 127Won: 61Drawn: 22Lost: 44 17 December 2013 | League Cup L 2-1 aet | Lampard29 November 2014 | Premier League D 0-07 May 2016 | Premier League L 3-2 | Diego Costa, Matic14 December 2016 | Premier League W 1-0 | Fabregas24 May 2026 | Premier League L 2-1 | Palmer Chelsea 7-2 Sunderland | 2009/10 | Premier LeagueSunderland 4-0 Chelsea | 1909/10, 1912/13, 1934/35 | Division OneChelsea's biggest win at Sunderland was 4-2 in the 2010/11 Premier League. Since the September and October international break, Chelsea have won three of our four Premier League matches. Chelsea are in the top three teams for goals scored in the Premier League this season. In nine matches we have scored 19 goals (the league average is 12.2) at an average of 2.1 per match. The Blues have recorded the most shots on target in the Premier League this season (53), but faced the second most (50). Chelsea have scored nine Premier League goals in the first five minutes of either half this season. No other team has more than three. The Blues have exceeded that tally only in 2008/09 (10) and 2024/25 (11). Last week against Manchester United, Chelsea achieved our first clean sheet at Stamford Bridge in the Premier League since beating Brentford 2-0 in January. With an average age of 23 years and 89 days, Chelsea named our joint-second youngest starting line-up in a Premier League match (also 23 years and 89 days against Newcastle United in October 2024). Only against Crystal Palace in December 2023 have we had a younger one (23 years and 21 days). On 18 April 1931, at Sunderland’s Roker Park, Chelsea fielded our oldest-ever starting XI, averaging 31 years and 336 days, in a 2-0 defeat with David Calderhead as manager. Morgan Rogers has become the first Chelsea player and second Premier League player to reach 10 goal involvements in all competitions this season (six goals, four assists), after Erling Haaland (13). Chelsea had 39 touches in Man Utd’s box last week, more than we have managed in any other Premier League match this season. Only Frank Lampard (41 from 48) has scored more Premier League penalties for Chelsea than Cole Palmer (19 from 21). Jorginho also scored 19 from his 22 attempts. Romeo Lavia won possession 14 times against Manchester United, the most by a Chelsea player in a Premier League game since Lewis Hall against Fulham in January 2023 (also 14). Most minutes played: Rogers 703, Palmer 701, Lacroix 634, Colwill 612, Neto 596Most goals: Joao Pedro 5, Rogers 5, Neto 3, Palmer 3, Henderson 2, Lavia 1Most assists: Joao Pedro 3, Palmer 3, Hato 2Most touches in opposition box: Palmer 45, Rogers 45, Neto 38, Joao Pedro 35, Estevao 17Most duels won: Rogers 56, Joao Pedro 45, Palmer 45, Colwill 36, Neto 35, Acheampong 34Clean sheets: Penders 1+1 shared, Martinez 1 sharedMost fouls conceded: Palmer 11, Neto 10, Rogers 10, Colwill 8Most interceptions: Fofana 15, Lavia 12, Lacroix 10, Caicedo 7Most yellow cards: Rogers 3, Neto 2, Palmer 2Red cards: Palmer 1 If selected, Malo Gusto will make his 100th Premier League appearance. Cole Palmer scored his 50th Premier League goal for Chelsea against Man Utd last week, on his 105th appearance. He is the third-fastest to reach the milestone for the Blues after Jimmy Floyd Hasselbaink (84 games) and Diego Costa (85). He is the 28th player in our history to score a half-century of league goals for the club. Chelsea's all-time top league scorers Bobby Tambling 164, Kerry Dixon 147, Frank Lampard 147, Roy Bentley 128, Jimmy Greaves 124, George Mills 118, Peter Osgood 105, Didier Drogba 104, George Hilsdon 99, Eden Hazard 85, Barry Bridges 80, Tommy Baldwin 74, Hughie Gallacher 72, Bob Whittingham 71, Jimmy Floyd Hasselbaink 69, Ron Tindall 67, Dick Spence 63, Clive Walker 60, John McNichol 59, Gianfranco Zola 59, Andy Wilson 58, Eidur Gudjohnsen 54, Jimmy Windridge 54, Dennis Wise 53, Diego Costa 52, Gordon Durie 51, Bob Turnbull 51, Cole Palmer 50 Premier League: SeventhFA Cup: Lost 10 at Port Vale in the fifth roundLeague Cup: Lost on penalties at home to Huddersfield Town in the second roundTop scorer: Brian Brobbey 7 Most minutes played: Roefs 810, Xhaka 810, Le Fee 779, Sadiki 757Most goals: Brobbey 3, Le Fee 2, Angulo 1, Isidor 1Most assists: Angulo 1, Diarra 1, Le Fee 1, Meunier 1Most touches in opposition box: Brobbey 35, Angulo 21, Le Fee 19, Sadiki 18Most duels won: Mukiele 46, Ballard 45, Xhaka 45, Mandava 43, Le Fee 42Clean sheets: Roefs 2Most fouls conceded: Ballard 10, Brobbey 10, Mandava 10Most interceptions: Mukiele 13, Mandava 12, Xhaka 10, Angulo 8Most yellow cards: Ballard 2, Xhaka 2Red cards: Alderete 1, Danso 1, Mandava 1 Sunderland have lost five of their past six Premier League matches, drawing the other. Their only league win this season was in August against Fulham. They are currently bottom with five points. No Premier League side has failed to score at home more often than Sunderland in 2026 (eight matches). They are goalless in their last three at the Stadium of Light. Sunderland have won four points from their four home Premier League matches this term, with their one victory coming against Fulham in August. Since then they have lost to Arsenal and Brighton, and drawn with Leeds United. Sunderland have conceded first in seven of their opening nine Premier League matches. The Black Cats are the only Premier League side yet to lead a league game at half-time. Only Nottingham Forest (six) have scored fewer Premier League goals this season than Sunderland (seven), while only Crystal Palace (21) and Ipswich (18) have conceded more than the Black Cats (17). Lech Poznan (a) | Europa League | D 1-1Leeds United (h) | Premier League | D 0-0Brentford (h) | League Cup | W 3-2Coventry City (a) | Premier League | L 3-1Dinamo Zagreb (h) | Europa League | L 2-0 Coventry City 3-1 SunderlandSaturday 31 OctoberTeam (4-2-3-1): Roefs; Hume (Meunier 75), O'Nien, Alderete, Mandava; Xhaka (c), Sadiki (Fofana 75); Rigg (Talbi 57), Le Fee, Angulo (Isidor 57); BrobbeyScorer: Le Fee pen 67Sent off: Alderete 90+9 Sunderland’s Omar Alderete is suspended following his red card against Coventry last week. In the Premier League, five yellow cards received before 19 league fixtures have been completed will result in a one-match suspension in the competition. Referee: Jarred GillettAssistants: Neil Davies, Nick GreenhalghFourth official: John BusbyVAR: Nick HoptonAssistant VAR: Wade Smith Jarred Gillett’s only previous Blues game this season was our 6-3 Carabao Cup victory over Leeds in September.",
       "body_zh": null,
       "images": [],
       "video_id": null
