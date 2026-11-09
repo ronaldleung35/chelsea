@@ -1,9 +1,35 @@
 {
-  "updated": "2026-11-08T22:42:54",
+  "updated": "2026-11-09T01:58:47",
   "count": 50,
   "gallery_count": 1,
   "translated_count": 0,
   "news": [
+    {
+      "title": "Full Match: Sunderland vs Chelsea",
+      "title_zh": null,
+      "type": "Video",
+      "category": "Video",
+      "url": "https://www.chelseafc.com/en/video/pl-full-match-sunderland-vs-chelsea-or-2026-27",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1794156255/video/2026/11/08/FULL_MATCH.png",
+      "is_gallery": false,
+      "body_en": null,
+      "body_zh": null,
+      "images": [],
+      "video_id": "wQ5VAVft"
+    },
+    {
+      "title": "Extended: Sunderland 1-0 Chelsea ",
+      "title_zh": null,
+      "type": "Video",
+      "category": "Video",
+      "url": "https://www.chelseafc.com/en/video/pl-extended-sunderland-1-0-chelsea-or-2026-27",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1794156255/video/2026/11/08/EXTENDED.png",
+      "is_gallery": false,
+      "body_en": null,
+      "body_zh": null,
+      "images": [],
+      "video_id": "gwPzcF5D"
+    },
     {
       "title": "Alonso: 'Not happy with the performance or result'",
       "title_zh": null,
@@ -686,32 +712,6 @@
       "body_zh": null,
       "images": [],
       "video_id": null
-    },
-    {
-      "title": "OTD: Robben cracker vs Everton | 6 November 2004",
-      "title_zh": null,
-      "type": "Video",
-      "category": "Video",
-      "url": "https://www.chelseafc.com/en/video/otd-robben-cracker-vs-everton-or-6-november-2004",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1762341282/video/2025/11/05/robben_v_everton_2004.jpg",
-      "is_gallery": false,
-      "body_en": null,
-      "body_zh": null,
-      "images": [],
-      "video_id": "2qgGzIwf"
-    },
-    {
-      "title": "Happy Birthday Andre Schurrle! 🎉",
-      "title_zh": null,
-      "type": "Video",
-      "category": "Video",
-      "url": "https://www.chelseafc.com/en/video/happy-birthday-andre-schurrle---x2bmnxate6hy0qembid7ovdom3na6byy",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1544710560/editorial/blogs-and-columns/2017-18/Schurrle_GettyImages-475784155.jpg",
-      "is_gallery": false,
-      "body_en": null,
-      "body_zh": null,
-      "images": [],
-      "video_id": "NO4Gsq5F"
     }
   ]
 }
