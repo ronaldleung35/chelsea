@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-11T02:07:07",
+  "updated": "2026-11-11T09:16:00",
   "count": 50,
   "gallery_count": 0,
   "translated_count": 0,
   "news": [
     {
-      "title": "UWCL Extended: BK Hacken Women 0-0 Chelsea Women",
+      "title": "Remembering James Ridley - the Chelsea ballboy who served with Blues greats",
       "title_zh": null,
-      "type": "Video",
-      "category": "Video",
-      "url": "https://www.chelseafc.com/en/video/uwcl-extended-bk-hacken-women-0-0-chelsea-women-uwcl-2026-27",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1794356174/video/2026/11/10/EXT_Hacken_0-0_Chelsea_League_Stage_UWCL_2026-27.jpg",
+      "type": "Article",
+      "category": "History",
+      "url": "https://www.chelseafc.com/en/news/article/remembering-james-ridley-the-chelsea-ballboy-who-served-with-blues-greats",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1794318143/editorial/news/2026/11/10/james-ridley-world-war-one-2.jpg",
       "is_gallery": false,
-      "body_en": null,
+      "body_en": "This Remembrance Day we tell the story of James Ridley, who served during the First World War and was a well-known figure in the locality of Stamford Bridge for 70 years&#x2026; Whether it was purchasing his favourite sweet pipe tobacco with a cheery chat at the corner newsagent, or offering his services as a pianist to a women’s group that met in the church, James Ridley always had a tale to tell. When his family caught sight of granddad Jim tinkling the ivories in the church or neighbourhood pub, he seemed transported – eyes glazed, lost in a faraway world. What the listening ladies and evening drinkers might not have known was that Jim had a fascinating life story that of wartime trauma and childhood history-making – all centred around Chelsea Football Club. In 1905, a notice appeared on the gates of the old London Athletic Grounds seeking small boys to fetch the ball when it was hit into the space behind the goals created by the oval athletics track. Chelsea FC were coming to Stamford Bridge and one of the successful young applicants for the new role was Jim, who lived at 7 Stamford Road – opposite the Bridge. He would become one of football’s first ballboys and can be seen on the right of one of the earliest first team photographs, above, taken in September 1905. He had just reached his teens at the time and goalkeeper Willie Foulke – whose stamina the ballboys preserved with their fetching and carrying – would sometimes playfully take him off the field under an arm. Whether he was paid or how much is not known, but the privilege of being at close-quarters to his heroes made Jim a lifelong fan of the club. So much so that in January 1915, a few months after World War One had broken out, Jim – now a 23-year-old labourer a shade over 5ft 5in– volunteered for the recently formed ‘Footballers’ Battalion’ – the 17th Middlesex. He saw it as honour to live, train and fight not just alongside other fans, but many current and former Chelsea players. They included England skipper Vivian ‘Jack’ Woodward, wing-half George Lake, wingers Teddy Foord and Norman Wood, full-back Dave Girdwood, goalkeeper William Krug, legendary all-round sportsman Max Woosnam, and Foulke’s successor at the Bridge, Bob ‘Pom Pom’ Whiting. If you can’t be them, join them seems to have been his maxim, but such commitment came at a price. At the height of the bloody conflict in June 1916, his unit - now part of the 6th Brigade of the 2nd Division of the British Army – found themselves on the frontline, suffering some casualties. The media back home commended the Footballers’ Battalion for their bravery, but the worst was yet to come – including the living hell of the infamous First Battle of the Somme in July 1916, where so many friends were killed or hospitalised. Jim survived, but on 30 November 1917, in the Battle of Cambrai, he was captured by German troops near Inchy. This was where tanks were first truly effective, breaking through the supposedly impregnable Hindenburg Line. Back home, his heartbroken family initially only heard he was ‘missing in action’. Their torment was ended when the Red Cross reported him a prisoner of war at Lager Dulmen. There he would remain until after the war ended by the Armistice at the 11th hour of the 11th day of the 11th month in 1918. During his 18-month incarceration, guards learned of Jim’s ability on the piano and encouraged him to play one in the camp mess hall as it improved prisoner morale. He was eventually repatriated to Britain on 14 March 1919, returning to civilian life at Stamford Road – and to matches at his beloved Bridge. Playing piano around the area for people’s entertainment was part of the way he dealt with his memories of war. In later life, he would recall what an honour it had been to serve alongside the Chelsea stars – despite the horror of the trenches and darkness of brutal confinement, where forced labour in coal mines was routine. Though always smartly turned-out with a waistcoat and fob-watch, like many ex-soldiers Jim suffered hard times and sadly had to sell his war medals. The ballboy pioneer turned pipe-smoking pianist remained an ardent Blues supporter right up to his death, witnessing the club’s successes in 1955, 1965, 1970 and 1971. Jim died in July 1975, 60 years after joining up to serve King, Country… and Chelsea.",
       "body_zh": null,
       "images": [],
-      "video_id": "L1j0oN0g"
+      "video_id": null
     },
     {
       "title": "UWCL Full Match: BK Hacken Women vs Chelsea Women",
@@ -42,6 +42,19 @@
       "body_zh": null,
       "images": [],
       "video_id": "3EDE4Sa5"
+    },
+    {
+      "title": "UWCL Extended: BK Hacken Women 0-0 Chelsea Women",
+      "title_zh": null,
+      "type": "Video",
+      "category": "Video",
+      "url": "https://www.chelseafc.com/en/video/uwcl-extended-bk-hacken-women-0-0-chelsea-women-uwcl-2026-27",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1794356174/video/2026/11/10/EXT_Hacken_0-0_Chelsea_League_Stage_UWCL_2026-27.jpg",
+      "is_gallery": false,
+      "body_en": null,
+      "body_zh": null,
+      "images": [],
+      "video_id": "L1j0oN0g"
     },
     {
       "title": "'We were not clinical and ruthless'",
@@ -122,7 +135,7 @@
       "video_id": null
     },
     {
-      "title": "Cahill exclusive interview",
+      "title": "Cahill on his Chelsea career",
       "title_zh": null,
       "type": "Video",
       "category": "Video",
@@ -640,19 +653,6 @@
       "body_zh": null,
       "images": [],
       "video_id": "8ceKEL1x"
-    },
-    {
-      "title": "Cuthbert reflects on a tough afternoon",
-      "title_zh": null,
-      "type": "Video",
-      "category": "Video",
-      "url": "https://www.chelseafc.com/en/video/cuthbert-post-everton-women-vs-chelsea-wsl-2026-27",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1794069519/video/2026/11/07/cuthberteaction_to_everton_women.png",
-      "is_gallery": false,
-      "body_en": null,
-      "body_zh": null,
-      "images": [],
-      "video_id": "EtxsXeFM"
     }
   ]
 }
