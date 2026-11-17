@@ -1,9 +1,22 @@
 {
-  "updated": "2026-11-17T00:58:36",
+  "updated": "2026-11-17T08:46:50",
   "count": 50,
   "gallery_count": 1,
   "translated_count": 0,
   "news": [
+    {
+      "title": "Internationals: Jashayde Greenwood nets for England Under-18s",
+      "title_zh": null,
+      "type": "Article",
+      "category": "Academy",
+      "url": "https://www.chelseafc.com/en/news/article/internationals-jashayde-greenwood-nets-for-england-under-18s",
+      "thumbnail": "http://img.chelseafc.com/image/upload/v1794871588/editorial/Academy/1MV00359_9ddvz1bE.jpg",
+      "is_gallery": false,
+      "body_en": "A number of Chelsea youngsters were in international action during the latest break, with representatives featuring for both England Under-18s and Under-20s, as well as Portugal Under-20s. England Under-18s concluded their trio of friendlies during this window with a narrow 2-1 defeat to Switzerland. Gabriel Sambou and Jashayde Greenwood started for the Young Lions, with Greenwood scoring England's only goal of the game. England Under-20s were victorious in their match against Portugal, meanwhile. Jesse Derry started the 2-1 win, while Shim Mheuka and Olutayo Subuloye were on the bench. The former came on in the 63rd minute. Cobham Next Gen’s Leo Cardoso also featured in that game, introduced in the 79th minute for Portugal Under-20s. As the international break draws to a close, several young Chelsea players will be taking part in their final national team matches of 2026 on Tuesday, with as many as ten Blues in action. We will keep you updated as to how they get on.",
+      "body_zh": null,
+      "images": [],
+      "video_id": null
+    },
     {
       "title": "Top 10 Christmas gifts for any Chelsea fan",
       "title_zh": null,
@@ -326,7 +339,7 @@
         "http://img.chelseafc.com/image/upload/v1794681867/GettyImages-2305107974_xakhes.jpg",
         "http://img.chelseafc.com/image/upload/v1794681671/HAT12477_9lNVq8Be_copy_m5h1zd.jpg",
         "http://img.chelseafc.com/image/upload/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/v1794494202/editorial/news/2026/11/12/LOOK05_0611_PPP_F13.jpg",
+        "http://img.chelseafc.com/image/upload/v1794871588/editorial/Academy/1MV00359_9ddvz1bE.jpg",
         "http://img.chelseafc.com/image/upload/v1794678111/IW1_3175_og05ar.jpg",
         "http://img.chelseafc.com/image/upload/v1794591917/editorial/news/2026/11/13/Kadeisha_Buchanan_Chelsea_Women_togetherness.jpg",
         "http://img.chelseafc.com/image/upload/v1794585056/editorial/news/2026/11/13/bompastor-press-conference-november-2026.jpg",
@@ -374,7 +387,7 @@
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794681867/GettyImages-2305107974_xakhes.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794681671/HAT12477_9lNVq8Be_copy_m5h1zd.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1786965004/editorial/news/2026/08/17/Remove_Bottom-Left_Screen_Sliver_Twitter_Post_2.png",
-        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794494202/editorial/news/2026/11/12/LOOK05_0611_PPP_F13.jpg",
+        "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794871588/editorial/Academy/1MV00359_9ddvz1bE.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794678111/IW1_3175_og05ar.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794591917/editorial/news/2026/11/13/Kadeisha_Buchanan_Chelsea_Women_togetherness.jpg",
         "http://img.chelseafc.com/image/upload/w_1200,q_auto,f_auto/v1794585056/editorial/news/2026/11/13/bompastor-press-conference-november-2026.jpg",
@@ -733,19 +746,6 @@
       "body_zh": null,
       "images": [],
       "video_id": null
-    },
-    {
-      "title": "OTD: Fulham 1-4 Chelsea | 13 November 2004",
-      "title_zh": null,
-      "type": "Video",
-      "category": "Video",
-      "url": "https://www.chelseafc.com/en/video/otd-fulham-1-4-chelsea-or-13-november-2004",
-      "thumbnail": "http://img.chelseafc.com/image/upload/v1763032528/video/2025/11/11/fulham_otd.jpg",
-      "is_gallery": false,
-      "body_en": null,
-      "body_zh": null,
-      "images": [],
-      "video_id": "eJp6QeUo"
     }
   ]
 }
